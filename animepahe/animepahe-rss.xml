@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Mob Psycho 100 III - Episode 9</title>
+    <link>https://animepahe.com/play/5bfe85e4-24ce-cde7-3c07-e82264235201/ccc025efc2a90f4a506f747cb3afda775c7cf69206a1103e9f0ef02a5f19d24b</link>
+    <description>Episode 9 of Mob Psycho 100 III is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/1460d93aa8dca4d3b204d72ad1cddc9f2015b6aefcd9b393aaac789cfa660a8d.jpg</snapshot>
+</item>
+
+<item>
     <title>Renai Flops - Episode 8</title>
     <link>https://animepahe.com/play/4d51f193-fca7-d36d-cf8c-45e0819e6414/b2aa3916e1d8a7a715c5fa72160974c2e46d2cd96348a62ea2b466f00e56cb98</link>
     <description>Episode 8 of Renai Flops is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 8 of Pui Pui Molcar: Driving School is out!</description>
     <fansub>MoyaiCars</fansub>
     <snapshot>https://i.animepahe.com/snapshots/6409fc6b6fdf102990523535b5da3b95b7e67f4461da1b70a77843127738b11b.jpg</snapshot>
-</item>
-
-<item>
-    <title>Cool Doji Danshi - Episode 8</title>
-    <link>https://animepahe.com/play/83a531b1-9735-a855-e968-6e4200ec003f/bdcde85a8f1358a50b3dc477e07bbfa54604f277fbaed02ea1d1660a4d73054f</link>
-    <description>Episode 8 of Cool Doji Danshi is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/c510893adb84adc6d73b3d62538d617f81e89e90daa0eaf71cab2e6b34b0a19b.jpg</snapshot>
 </item>
 
 </channel>
