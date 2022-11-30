@@ -7,6 +7,22 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Human Bug Daigaku - Episode 9</title>
+    <link>https://animepahe.com/play/f18f9a5f-b7cb-974c-2c22-ede6b85534db/e704280bd63199348bdb8977223784ae696cb21cecfac70382d2916a329900b3</link>
+    <description>Episode 9 of Human Bug Daigaku is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/3e250523d991251adf762f5fa2dd2de20181175569d668be8243c5b4a83544c1.jpg</snapshot>
+</item>
+
+<item>
+    <title>Tensei shitara Ken Deshita - Episode 9</title>
+    <link>https://animepahe.com/play/c2f71fea-1d85-0a30-5420-1d9f5fb1f3fd/3aa41280e75e5360e48f207b932ca59a1e19f27f09a2cde0bc05b930886aa8a6</link>
+    <description>Episode 9 of Tensei shitara Ken Deshita is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/470a9dd7f44cb528a3903da1784cc1c42c04bb88e7b4c16bcb60adeaeefccef7.jpg</snapshot>
+</item>
+
+<item>
     <title>Kage no Jitsuryokusha ni Naritakute! - Episode 9</title>
     <link>https://animepahe.com/play/4cffe572-4447-7ae5-4417-6826197e8412/c817adfb7d63726e19567ef47afd5f1f7da1abc72ed16be67234c12d8e1b1a42</link>
     <description>Episode 9 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
@@ -84,22 +100,6 @@
     <description>Episode 8 of Bleach: Sennen Kessen-hen is out!</description>
     <fansub>Disney_Plus</fansub>
     <snapshot>https://i.animepahe.com/snapshots/d2f3612aeecd6b7c92a8a9f2205eb0e75d097854649e2d056517c991aa74f1b5.jpg</snapshot>
-</item>
-
-<item>
-    <title>Shinmai Renkinjutsushi no Tenpo Keiei - Episode 9</title>
-    <link>https://animepahe.com/play/57ef565e-1a13-848c-a633-1c1992c2ad74/04536bd76d6a472d13bc189ac95fbb178308874e6e932e12656bb717e2b86f0f</link>
-    <description>Episode 9 of Shinmai Renkinjutsushi no Tenpo Keiei is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/4b6e54498491ee6744d015a81fe1c3a2a8bbb318a6e1d6bde844623df92de361.jpg</snapshot>
-</item>
-
-<item>
-    <title>Peter Grill to Kenja no Jikan: Super Extra - Episode 8</title>
-    <link>https://animepahe.com/play/b009695c-5bdb-6dc1-4732-bd3f81b888a4/aba58d41f332ac6302f9630875df2e15573827ecfd42c105c0552937cf10dc18</link>
-    <description>Episode 8 of Peter Grill to Kenja no Jikan: Super Extra is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/68f31df813e58fb53c6dfcbdae8b1a566b3b50fd4dde02d5a37ff36f819cb5ad.jpg</snapshot>
 </item>
 
 </channel>
