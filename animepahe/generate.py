@@ -48,7 +48,7 @@ def generate_rss():
 
 
 try:
-    filename = f'./animepahe-rss.xml'
+    filename = f'./animepahe/animepahe-rss.xml'
     if os.path.exists(filename):
         os.remove(filename)
     with open(filename, 'w', encoding="utf-8") as f:
