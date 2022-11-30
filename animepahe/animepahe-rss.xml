@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Muv-Luv Alternative 2nd Season - Episode 21</title>
+    <link>https://animepahe.com/play/c8e6bd74-1d3d-6cab-509c-5972485e42d3/294a40d954303d002a58f62953d11175bba066d692b660e21e5d091e660b3518</link>
+    <description>Episode 21 of Muv-Luv Alternative 2nd Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/6e619446cc0b6d3d125269f2503f24638dd15569386ae139dfa252606e05a35d.jpg</snapshot>
+</item>
+
+<item>
     <title>Do It Yourself!! - Episode 9</title>
     <link>https://animepahe.com/play/87160223-920c-e60f-969a-47ad06606e54/b92813338a86c934f2bb5f00ba4966e1c4940e0bc93dd330dd1d6803bff04b64</link>
     <description>Episode 9 of Do It Yourself!! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 9 of Shinobi no Ittoki is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/39ab95ab7057c6fd96e5434e24d40ff01ec1fae6f2f0245752bade9c001051d6.jpg</snapshot>
-</item>
-
-<item>
-    <title>Yu☆Gi☆Oh!: Go Rush!! - Episode 35</title>
-    <link>https://animepahe.com/play/c76683f0-7380-0777-af34-86d1116f87cb/c0150f3130c0fa4f85e7abc8f46bf40b8ca8cc32eb2603cbc956534c94356421</link>
-    <description>Episode 35 of Yu☆Gi☆Oh!: Go Rush!! is out!</description>
-    <fansub>entameSubs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/d58f95fefdfe36d63bd78d55b19308942d0c5697c140ca49d72fd69e89c045db.jpg</snapshot>
 </item>
 
 </channel>
