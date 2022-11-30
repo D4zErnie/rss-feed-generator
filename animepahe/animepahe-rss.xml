@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Renai Flops - Episode 8</title>
+    <link>https://animepahe.com/play/4d51f193-fca7-d36d-cf8c-45e0819e6414/b2aa3916e1d8a7a715c5fa72160974c2e46d2cd96348a62ea2b466f00e56cb98</link>
+    <description>Episode 8 of Renai Flops is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/4d05bffc04fdc7617b9bd1c76f5a8528f6740cf8107c6b86cf79c9076549edc4.jpg</snapshot>
+</item>
+
+<item>
     <title>Human Bug Daigaku - Episode 9</title>
     <link>https://animepahe.com/play/f18f9a5f-b7cb-974c-2c22-ede6b85534db/e704280bd63199348bdb8977223784ae696cb21cecfac70382d2916a329900b3</link>
     <description>Episode 9 of Human Bug Daigaku is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 8 of Cool Doji Danshi is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c510893adb84adc6d73b3d62538d617f81e89e90daa0eaf71cab2e6b34b0a19b.jpg</snapshot>
-</item>
-
-<item>
-    <title>Bleach: Sennen Kessen-hen - Episode 8</title>
-    <link>https://animepahe.com/play/e945e05b-dc4c-e8b4-65e8-0beaf81b14b7/607d4e2730e7717547a372cd813763b786a6ebbeb937810f5c0ba648386b40d9</link>
-    <description>Episode 8 of Bleach: Sennen Kessen-hen is out!</description>
-    <fansub>Disney_Plus</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/d2f3612aeecd6b7c92a8a9f2205eb0e75d097854649e2d056517c991aa74f1b5.jpg</snapshot>
 </item>
 
 </channel>
