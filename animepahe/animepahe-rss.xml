@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Mushikaburi-hime - Episode 9</title>
+    <link>https://animepahe.com/play/8d6e361d-51d4-1d75-757a-920eff96052b/3211fbe27ba032b742f73d146fd4c4c08e478d9183fa3466c2742cd3c8ee5625</link>
+    <description>Episode 9 of Mushikaburi-hime is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/4598042887eea9e810783f1e7df74d44d83689652b88e62a3f7e6c1cc04d0a01.jpg</snapshot>
+</item>
+
+<item>
     <title>Reiwa no Di Gi Charat - Episode 8</title>
     <link>https://animepahe.com/play/095d4bb4-0fbd-4469-8ab1-ab3af43cd242/6b109faa8f444bd102f574c01dc65892ffa1c9ddba21077cd68d1a53b2175475</link>
     <description>Episode 8 of Reiwa no Di Gi Charat is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 9 of Vazzrock The Animation is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/3f0636c3475925f9a2ad59b4cdba952181d38a51e61e7f83b25c67c53a275f3b.jpg</snapshot>
-</item>
-
-<item>
-    <title>Yama no Susume: Next Summit - Episode 9</title>
-    <link>https://animepahe.com/play/23ffa011-7ddd-ec50-ee30-a9d317a72a3c/f55c4262c56a40e5d83bf66f3c8f8057415431d422f4382a75e0297aa2000e01</link>
-    <description>Episode 9 of Yama no Susume: Next Summit is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/013ad341826ed1d7a2ab9e13a15f59e9c1520ffa0b554047714ef07473d89166.jpg</snapshot>
 </item>
 
 </channel>
