@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>All Saints Street 2 - Episode 7</title>
+    <link>https://animepahe.com/play/fd73b356-8292-76a4-b4bb-69238b64cc69/6f2e5daf8f3e89961711e2bae9d3ea8bb152aff4e38f7307438e3b3d9e509915</link>
+    <description>Episode 7 of All Saints Street 2 is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/45e122dff2b2155e976da7bbdee145ab970b6b90439d041f1c4c79868ee1b248.jpg</snapshot>
+</item>
+
+<item>
     <title>Uchi no Shishou wa Shippo ga Nai - Episode 10</title>
     <link>https://animepahe.com/play/4c6073a4-7c43-9ec0-430c-6ed0b4de978f/62acc5aedb196ae9122be10249762798e40f8a80530959c7c9727e25f7206139</link>
     <description>Episode 10 of Uchi no Shishou wa Shippo ga Nai is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 9 of Human Bug Daigaku is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/3e250523d991251adf762f5fa2dd2de20181175569d668be8243c5b4a83544c1.jpg</snapshot>
-</item>
-
-<item>
-    <title>Tensei shitara Ken Deshita - Episode 9</title>
-    <link>https://animepahe.com/play/216b11bd-ce9e-3d57-e90f-ee0f9c6d6180/4eec7eac5bb4c44bf89e55f5978b09bd8b8eaca0e1ba06f19ef83cb40ebd3f8b</link>
-    <description>Episode 9 of Tensei shitara Ken Deshita is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/470a9dd7f44cb528a3903da1784cc1c42c04bb88e7b4c16bcb60adeaeefccef7.jpg</snapshot>
 </item>
 
 </channel>
