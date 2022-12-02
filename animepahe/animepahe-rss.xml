@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kiniro Mosaic: Thank You!! - Episode 1</title>
+    <link>https://animepahe.com/play/f6db5462-dd5a-a585-6870-4231ae24f616/7e749fe2bc69e779906981f186dd20d47e5153b8f8cd8d87e59594c3509e5553</link>
+    <description>Episode 1 of Kiniro Mosaic: Thank You!! is out!</description>
+    <fansub>Karen</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/85983c89d3e4c48608db12e0816e774641ff8f044221d1a5b3762973bf40945d.jpg</snapshot>
+</item>
+
+<item>
     <title>Hoshi no Samidare - Episode 21</title>
     <link>https://animepahe.com/play/4a5777ac-a229-5862-7d64-1d79a70a1a33/4296103e1141787ecb61a6fc030cff63a4aa49b30972802996915cbda046ea07</link>
     <description>Episode 21 of Hoshi no Samidare is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 21 of Muv-Luv Alternative 2nd Season is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/6e619446cc0b6d3d125269f2503f24638dd15569386ae139dfa252606e05a35d.jpg</snapshot>
-</item>
-
-<item>
-    <title>Do It Yourself!! - Episode 9</title>
-    <link>https://animepahe.com/play/46fa0bda-5327-6c76-0c35-67619e12d52f/81058516af24328fd10d582f31e4f42278ef64890dc62ef87696259b0af3b528</link>
-    <description>Episode 9 of Do It Yourself!! is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/84861c9759d5d0fff15a1df8d4933c8df41d3567c8762d4a4a61c09bbc2332b3.jpg</snapshot>
 </item>
 
 </channel>
