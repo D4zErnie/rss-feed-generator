@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Hoshi no Samidare - Episode 21</title>
+    <link>https://animepahe.com/play/4a5777ac-a229-5862-7d64-1d79a70a1a33/4296103e1141787ecb61a6fc030cff63a4aa49b30972802996915cbda046ea07</link>
+    <description>Episode 21 of Hoshi no Samidare is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/e053a9e11f7a157c042f5a88d3e7c9329ad3478f4764414ea8e996cde965f042.jpg</snapshot>
+</item>
+
+<item>
     <title>Seiken Densetsu: Legend of Mana - The Teardrop Crystal - Episode 9</title>
     <link>https://animepahe.com/play/f359f9b0-57b4-670c-20f2-1c169b8c6f93/0de01cdddf33612d359221acd89df88fb9021dbddf389e521d800a9e4dd6687b</link>
     <description>Episode 9 of Seiken Densetsu: Legend of Mana - The Teardrop Crystal is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 9 of Do It Yourself!! is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/84861c9759d5d0fff15a1df8d4933c8df41d3567c8762d4a4a61c09bbc2332b3.jpg</snapshot>
-</item>
-
-<item>
-    <title>Mob Psycho 100 III - Episode 9</title>
-    <link>https://animepahe.com/play/e80b6b04-3a7c-532d-a1f8-29cf1e4fcb1c/d2d81f5855cbc05c4818fca53362fd36741d5c98e491bd3ba8369f7c0a5a5a19</link>
-    <description>Episode 9 of Mob Psycho 100 III is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/1460d93aa8dca4d3b204d72ad1cddc9f2015b6aefcd9b393aaac789cfa660a8d.jpg</snapshot>
 </item>
 
 </channel>
