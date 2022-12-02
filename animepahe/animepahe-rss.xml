@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 134</title>
+    <link>https://animepahe.com/play/dd4f78ae-cf44-9751-ee81-8c794cbf6262/aaddc7fec3bb783afdaa2b24a4b777b90642a750f21eb51480f8ec04b7390c9a</link>
+    <description>Episode 134 of Pokemon (2019) is out!</description>
+    <fansub>Some-Stuffs</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/7a95d017b850e0509ce9030e2f64b684c565d4fd09a6fc149600e8cf9d9d79e1.jpg</snapshot>
+</item>
+
+<item>
     <title>Kiniro Mosaic: Thank You!! - Episode 1</title>
     <link>https://animepahe.com/play/f6db5462-dd5a-a585-6870-4231ae24f616/7e749fe2bc69e779906981f186dd20d47e5153b8f8cd8d87e59594c3509e5553</link>
     <description>Episode 1 of Kiniro Mosaic: Thank You!! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 8 of Reiwa no Di Gi Charat is out!</description>
     <fansub>MoyaiSubs</fansub>
     <snapshot>https://i.animepahe.com/snapshots/60944f1c6155ffdb3c02aba2888083c7aa4571bf4392fe1e6c7f1a3e822c856d.jpg</snapshot>
-</item>
-
-<item>
-    <title>Muv-Luv Alternative 2nd Season - Episode 21</title>
-    <link>https://animepahe.com/play/d8a3ecba-7549-0c69-0a48-b5dccde0ece2/d7db67b02eaeb7de5fe0b6e95d1749bd6053e33b3a93c2955bf01bf2021f2173</link>
-    <description>Episode 21 of Muv-Luv Alternative 2nd Season is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/6e619446cc0b6d3d125269f2503f24638dd15569386ae139dfa252606e05a35d.jpg</snapshot>
 </item>
 
 </channel>
