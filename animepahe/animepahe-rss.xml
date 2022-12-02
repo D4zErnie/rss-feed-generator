@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Arknights: Reimei Zensou - Episode 6</title>
+    <link>https://animepahe.com/play/d805b2cd-c7fe-8814-d09b-52a88f97ae74/1a82f7db1027ce381369a7178dc056d0650656bfaada52a3ed49c58dea98d309</link>
+    <description>Episode 6 of Arknights: Reimei Zensou is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/6cc002e2b7b15fb4ef18f4b92318071f742a70ba3cb97dbe84c58617f174dc2b.jpg</snapshot>
+</item>
+
+<item>
     <title>All Saints Street 2 - Episode 7</title>
     <link>https://animepahe.com/play/fd73b356-8292-76a4-b4bb-69238b64cc69/6f2e5daf8f3e89961711e2bae9d3ea8bb152aff4e38f7307438e3b3d9e509915</link>
     <description>Episode 7 of All Saints Street 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 8 of Renai Flops is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/4d05bffc04fdc7617b9bd1c76f5a8528f6740cf8107c6b86cf79c9076549edc4.jpg</snapshot>
-</item>
-
-<item>
-    <title>Human Bug Daigaku - Episode 9</title>
-    <link>https://animepahe.com/play/45c7f0ec-1b50-4ed1-4887-65b83c058632/ed037e62a4456ce42f90d5127547b194da230bf1128883f43d083dfd55d3df9d</link>
-    <description>Episode 9 of Human Bug Daigaku is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/3e250523d991251adf762f5fa2dd2de20181175569d668be8243c5b4a83544c1.jpg</snapshot>
 </item>
 
 </channel>
