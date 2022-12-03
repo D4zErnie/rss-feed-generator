@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Akuyaku Reijou nano de Last Boss wo Kattemimashita - Episode 11</title>
+    <link>https://animepahe.com/play/085b9625-f101-083e-7367-f29b72dd346c/cbdb181d058068e0e47bad535cb9a7c8998f5d631b896ee463e435de35574c1f</link>
+    <description>Episode 11 of Akuyaku Reijou nano de Last Boss wo Kattemimashita is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/3adb04f71c620bf3d72a34f1b4b87307f2ce5067d47c295960dd7b3be2f0cee8.jpg</snapshot>
+</item>
+
+<item>
     <title>Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. - Episode 10</title>
     <link>https://animepahe.com/play/5dfe29cd-2881-32da-3393-95de507c32ec/3e8cfe8ac0c4da66be9122a39e650e0b4e1e11114e25a9c35093e7c1987c27b2</link>
     <description>Episode 10 of Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 6 of Arknights: Reimei Zensou is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/6cc002e2b7b15fb4ef18f4b92318071f742a70ba3cb97dbe84c58617f174dc2b.jpg</snapshot>
-</item>
-
-<item>
-    <title>All Saints Street 2 - Episode 7</title>
-    <link>https://animepahe.com/play/c71ea370-028b-2949-baf7-5138f8d1b33b/327be49d5dcd6da8f3585401e28da20d71d293c3456e0dcf15b547cdc1823888</link>
-    <description>Episode 7 of All Saints Street 2 is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/45e122dff2b2155e976da7bbdee145ab970b6b90439d041f1c4c79868ee1b248.jpg</snapshot>
 </item>
 
 </channel>
