@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Boku no Hero Academia 6th Season - Episode 123</title>
+    <link>https://animepahe.com/play/bf624495-f268-e3e4-3809-a308a5991708/d7c85a106727bc165f3f2445a53f7bc47a9f6f0106eb751b20d285defcfdbaf4</link>
+    <description>Episode 123 of Boku no Hero Academia 6th Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/d7d7796df83305b10dbd002e5c4ba60466399236fa1b98bc28424b17d3dabaa0.jpg</snapshot>
+</item>
+
+<item>
     <title>Shadowverse Flame - Episode 35</title>
     <link>https://animepahe.com/play/a0eb0336-179a-a9e3-6b6f-1a088793b69a/d06f283e14cf966bb3c8b2d6886b5513a219321259c63a350aeca3227d4ec952</link>
     <description>Episode 35 of Shadowverse Flame is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 8 of Urusei Yatsura (2022) is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/6daadf6a3ea22a12e1a499f94d666e5073cba8af2eaf7209032f913e421b3641.jpg</snapshot>
-</item>
-
-<item>
-    <title>Akiba Meido Sensou - Episode 9</title>
-    <link>https://animepahe.com/play/acd78b53-557e-cf59-0c8e-1b95d8da75d8/27bbb0a1803384a0d67d8696ec927fde17d97ae04e9f6dcb2ddcf79cf5615d77</link>
-    <description>Episode 9 of Akiba Meido Sensou is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/5b1aae6b04e8fd94e3bcddb3f466fb8170e6094a4d9b73f23e5efc7c44890180.jpg</snapshot>
 </item>
 
 </channel>
