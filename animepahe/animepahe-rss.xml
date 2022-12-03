@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>4-nin wa Sorezore Uso wo Tsuku - Episode 8</title>
+    <link>https://animepahe.com/play/f00bae61-108f-014e-053f-a7b129124911/f42d4b68b81ba07f854d7c803d9d61bf3b90c51e858ca2923b20479b414edbc0</link>
+    <description>Episode 8 of 4-nin wa Sorezore Uso wo Tsuku is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/451689600403369e13add55cbb8d2e60bec021319bbffdf329bdef6413294d38.jpg</snapshot>
+</item>
+
+<item>
     <title>Yowamushi Pedal: Limit Break - Episode 8</title>
     <link>https://animepahe.com/play/972b1f34-4ee6-d996-cdd6-ae9177ea647f/2c4a0cf5ba53478f9a918db285430f90c6b4058e792201f3cc04ed920e0f0f6a</link>
     <description>Episode 8 of Yowamushi Pedal: Limit Break is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Akuyaku Reijou nano de Last Boss wo Kattemimashita is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/3adb04f71c620bf3d72a34f1b4b87307f2ce5067d47c295960dd7b3be2f0cee8.jpg</snapshot>
-</item>
-
-<item>
-    <title>Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. - Episode 10</title>
-    <link>https://animepahe.com/play/5dfe29cd-2881-32da-3393-95de507c32ec/3e8cfe8ac0c4da66be9122a39e650e0b4e1e11114e25a9c35093e7c1987c27b2</link>
-    <description>Episode 10 of Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/73556b82f72fc558d38fd0d9eb9f0e300e9681598fba960786df55388f1a7521.jpg</snapshot>
 </item>
 
 </channel>
