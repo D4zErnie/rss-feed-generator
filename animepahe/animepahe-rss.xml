@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Yowamushi Pedal: Limit Break - Episode 8</title>
+    <link>https://animepahe.com/play/972b1f34-4ee6-d996-cdd6-ae9177ea647f/2c4a0cf5ba53478f9a918db285430f90c6b4058e792201f3cc04ed920e0f0f6a</link>
+    <description>Episode 8 of Yowamushi Pedal: Limit Break is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/d71687e94021963c60d4a50eac3f83f11a8fe6088a7f72b021394845e527aaf4.jpg</snapshot>
+</item>
+
+<item>
     <title>Blue Lock - Episode 9</title>
     <link>https://animepahe.com/play/97395107-ee81-9402-80c4-f4d08466acee/344fc74792accbb7bed6f138dda49967d6de7f803aba3f0b78fe6d29fdfa17c1</link>
     <description>Episode 9 of Blue Lock is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/73556b82f72fc558d38fd0d9eb9f0e300e9681598fba960786df55388f1a7521.jpg</snapshot>
-</item>
-
-<item>
-    <title>Detective Conan - Episode 1066</title>
-    <link>https://animepahe.com/play/74c4c300-eaf8-ab5a-37b0-6048421b5bf8/357a1accb1e548116db532de2982a97025e870f13898056796327aca1cba3536</link>
-    <description>Episode 1066 of Detective Conan is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/999fdefe575fe085a360d9aa4da694d3aaca626ac6c6c0f3b3810e0ba45165cd.jpg</snapshot>
 </item>
 
 </channel>
