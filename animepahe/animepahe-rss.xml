@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Uzaki-chan wa Asobitai! Double - Episode 10</title>
+    <link>https://animepahe.com/play/b9e6ec83-6308-ad39-04c5-e5326bbaab96/d22725a256bff77279f4bb3aea7f612c66fb728b91e298abf875e6caeaac01fb</link>
+    <description>Episode 10 of Uzaki-chan wa Asobitai! Double is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/a50d2b4fa1b2fe9fac1c5afe44ebb5ef6af94b7688a5ca96fae078c027058b1a.jpg</snapshot>
+</item>
+
+<item>
     <title>Akuyaku Reijou nano de Last Boss wo Kattemimashita - Episode 11</title>
     <link>https://animepahe.com/play/085b9625-f101-083e-7367-f29b72dd346c/cbdb181d058068e0e47bad535cb9a7c8998f5d631b896ee463e435de35574c1f</link>
     <description>Episode 11 of Akuyaku Reijou nano de Last Boss wo Kattemimashita is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 9 of Seiken Densetsu: Legend of Mana - The Teardrop Crystal is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/8a180e49e835e94e268fb9fe29bd5798caef722da44f6dab07f5396de3c513a3.jpg</snapshot>
-</item>
-
-<item>
-    <title>Arknights: Reimei Zensou - Episode 6</title>
-    <link>https://animepahe.com/play/27a339bf-ad69-fdd8-e0e8-a4b28cf5e95f/5eef4e2e010296158a217ae8bd4d11c63de7b5038be06bc887d7ce0aaa35522b</link>
-    <description>Episode 6 of Arknights: Reimei Zensou is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/6cc002e2b7b15fb4ef18f4b92318071f742a70ba3cb97dbe84c58617f174dc2b.jpg</snapshot>
 </item>
 
 </channel>
