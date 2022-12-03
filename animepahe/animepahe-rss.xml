@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Spy x Family Part 2 - Episode 22</title>
+    <link>https://animepahe.com/play/ae3a3180-df3d-773b-2821-58bc55dd6e4b/2d08f838682192c0ce1b675f0d0a2d5929eb770a8ccd367c3edbc016b2dced3f</link>
+    <description>Episode 22 of Spy x Family Part 2 is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/962283ff4f2a0f1c3c8c1bf95694edc3dbb6ed667882fe4cbc2fdf8f1de9349e.jpg</snapshot>
+</item>
+
+<item>
     <title>Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau - Episode 10</title>
     <link>https://animepahe.com/play/701608fb-08c6-b8ec-aebe-aa1a5736825e/194492fc1d0d9d928d7a5200b971e59b9049bf996315a4bc9514e0659cc332dd</link>
     <description>Episode 10 of Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Kiniro Mosaic: Thank You!! is out!</description>
     <fansub>Karen</fansub>
     <snapshot>https://i.animepahe.com/snapshots/85983c89d3e4c48608db12e0816e774641ff8f044221d1a5b3762973bf40945d.jpg</snapshot>
-</item>
-
-<item>
-    <title>Hoshi no Samidare - Episode 21</title>
-    <link>https://animepahe.com/play/9e0f574d-472d-2f23-fad4-584ed683f44b/a4c5f71527fa034a9b5827a8cb33c33b0fddcc699f8e5b3a2319ae08866b3881</link>
-    <description>Episode 21 of Hoshi no Samidare is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/e053a9e11f7a157c042f5a88d3e7c9329ad3478f4764414ea8e996cde965f042.jpg</snapshot>
 </item>
 
 </channel>
