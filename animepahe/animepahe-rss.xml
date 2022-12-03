@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Utawarerumono: Futari no Hakuoro - Episode 24</title>
+    <link>https://animepahe.com/play/ff3a4cc7-f7c9-fb64-b268-abc9e86658c2/a5349371921f8240446805e94553622327bf04b9a882caac4bbf7c1f3a28099a</link>
+    <description>Episode 24 of Utawarerumono: Futari no Hakuoro is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/af294ff5fbf81b45384debb2a89bd41e8de9373756cd550e0ec52649ac0cce10.jpg</snapshot>
+</item>
+
+<item>
     <title>Bocchi the Rock! - Episode 9</title>
     <link>https://animepahe.com/play/502dd859-f00f-296d-caaf-b0746910ace7/96c017cc34ed85a6b5115e119e33be0d87bc59eb9ecabc3b774cc8abe7d3b85d</link>
     <description>Episode 9 of Bocchi the Rock! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 35 of Shadowverse Flame is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/91305429399bc5462c22f3c064ab3e26a1c2cc090ac354c1e80c5fabfc9a3623.jpg</snapshot>
-</item>
-
-<item>
-    <title>Futoku no Guild - Episode 9</title>
-    <link>https://animepahe.com/play/925065e8-2826-1831-db56-ef9b71815909/a14d4569aeb640f2052340d46e5e3833146ca09e943049510b14a5db3410822e</link>
-    <description>Episode 9 of Futoku no Guild is out!</description>
-    <fansub>Anime_Chap</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/d63c9a296d2876a6b171c51f2f4cb9da8ebfd07989e2ca995168a26af9267d05.jpg</snapshot>
 </item>
 
 </channel>
