@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Poputepipikku 2nd Season - Episode 10</title>
+    <link>https://animepahe.com/play/15ff02c2-e34e-5cc6-3f12-fdc07abd415d/37d58cf5d9f065fd8f9de36659e038f987576c402d978524ac13c43a4a75310a</link>
+    <description>Episode 10 of Poputepipikku 2nd Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/acbf248b575573b37b75d0558057b9db1a36b06d08aac775c7665fe74e29e623.jpg</snapshot>
+</item>
+
+<item>
     <title>Berserk: Ougon Jidai-hen - Memorial Edition - Episode 10</title>
     <link>https://animepahe.com/play/d9979d7f-b255-5944-62f6-94eb1e4d43e4/b8e7a556babbdb63d707d6a811d52e4faca58f4323e939c3369bee8d30ea47f7</link>
     <description>Episode 10 of Berserk: Ougon Jidai-hen - Memorial Edition is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 9 of Mairimashita! Iruma-kun 3rd Season is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/2ceb0e215d50e22d735f9faac0b13bb0f0293792d410b7be3a36ee968c4d5871.jpg</snapshot>
-</item>
-
-<item>
-    <title>Boku no Hero Academia 6th Season - Episode 123</title>
-    <link>https://animepahe.com/play/bf624495-f268-e3e4-3809-a308a5991708/d7c85a106727bc165f3f2445a53f7bc47a9f6f0106eb751b20d285defcfdbaf4</link>
-    <description>Episode 123 of Boku no Hero Academia 6th Season is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/d7d7796df83305b10dbd002e5c4ba60466399236fa1b98bc28424b17d3dabaa0.jpg</snapshot>
 </item>
 
 </channel>
