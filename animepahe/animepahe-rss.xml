@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Shadowverse Flame - Episode 35</title>
+    <link>https://animepahe.com/play/a0eb0336-179a-a9e3-6b6f-1a088793b69a/d06f283e14cf966bb3c8b2d6886b5513a219321259c63a350aeca3227d4ec952</link>
+    <description>Episode 35 of Shadowverse Flame is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/91305429399bc5462c22f3c064ab3e26a1c2cc090ac354c1e80c5fabfc9a3623.jpg</snapshot>
+</item>
+
+<item>
     <title>Futoku no Guild - Episode 9</title>
     <link>https://animepahe.com/play/925065e8-2826-1831-db56-ef9b71815909/a14d4569aeb640f2052340d46e5e3833146ca09e943049510b14a5db3410822e</link>
     <description>Episode 9 of Futoku no Guild is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 9 of Akiba Meido Sensou is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/5b1aae6b04e8fd94e3bcddb3f466fb8170e6094a4d9b73f23e5efc7c44890180.jpg</snapshot>
-</item>
-
-<item>
-    <title>Mushikaburi-hime - Episode 9</title>
-    <link>https://animepahe.com/play/884b879f-64b3-9d67-f6d6-7f954a707cc1/489a65191ee13bbe8d419a8f9f2a6c4b4f4f3845e3a587e2d26ed58a67beecac</link>
-    <description>Episode 9 of Mushikaburi-hime is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/4598042887eea9e810783f1e7df74d44d83689652b88e62a3f7e6c1cc04d0a01.jpg</snapshot>
 </item>
 
 </channel>
