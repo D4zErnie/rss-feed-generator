@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Blue Lock - Episode 9</title>
+    <link>https://animepahe.com/play/97395107-ee81-9402-80c4-f4d08466acee/344fc74792accbb7bed6f138dda49967d6de7f803aba3f0b78fe6d29fdfa17c1</link>
+    <description>Episode 9 of Blue Lock is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/30fe18a949d58da71a8279879a772870248dc48c0345671de7040b1ab0115765.jpg</snapshot>
+</item>
+
+<item>
     <title>Poputepipikku 2nd Season - Episode 10</title>
     <link>https://animepahe.com/play/15ff02c2-e34e-5cc6-3f12-fdc07abd415d/37d58cf5d9f065fd8f9de36659e038f987576c402d978524ac13c43a4a75310a</link>
     <description>Episode 10 of Poputepipikku 2nd Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1066 of Detective Conan is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/999fdefe575fe085a360d9aa4da694d3aaca626ac6c6c0f3b3810e0ba45165cd.jpg</snapshot>
-</item>
-
-<item>
-    <title>Mairimashita! Iruma-kun 3rd Season - Episode 9</title>
-    <link>https://animepahe.com/play/dc380432-e50a-d87d-d811-301ec1ffbb3f/092f1b2ea3b0ff20b23e1f5523a489abcec23420ec794117ed8d9864403cdfa9</link>
-    <description>Episode 9 of Mairimashita! Iruma-kun 3rd Season is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/2ceb0e215d50e22d735f9faac0b13bb0f0293792d410b7be3a36ee968c4d5871.jpg</snapshot>
 </item>
 
 </channel>
