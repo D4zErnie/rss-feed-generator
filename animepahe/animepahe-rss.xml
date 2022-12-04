@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Peter Grill to Kenja no Jikan: Super Extra - Episode 9</title>
+    <link>https://animepahe.com/play/f4a84286-b721-88b7-3136-b26a978eaf35/d845e5cf99dd2d839dfb1aa572a660566cb77cbcf77ddc937b047f38bd2378d7</link>
+    <description>Episode 9 of Peter Grill to Kenja no Jikan: Super Extra is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/5dbf135524180428a0b033f43e068451a65d897e596c121ab283a3fb43a8fe5a.jpg</snapshot>
+</item>
+
+<item>
     <title>IDOLiSH7 Third Beat! Part 2 - Episode 23</title>
     <link>https://animepahe.com/play/b47e22ac-d3cb-c732-2e6c-24f94e196157/88b1671dc51524d660d49441426de83402ded0017a476bf159a755b707112b82</link>
     <description>Episode 23 of IDOLiSH7 Third Beat! Part 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 8 of 4-nin wa Sorezore Uso wo Tsuku is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/451689600403369e13add55cbb8d2e60bec021319bbffdf329bdef6413294d38.jpg</snapshot>
-</item>
-
-<item>
-    <title>Yowamushi Pedal: Limit Break - Episode 8</title>
-    <link>https://animepahe.com/play/64fb6a9a-01ac-50ae-f254-3e892fc771fe/3ee084d563a9cfdb73b91559d27f58de3e515aee71c0401aabe73c0c7a04c5c2</link>
-    <description>Episode 8 of Yowamushi Pedal: Limit Break is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/d71687e94021963c60d4a50eac3f83f11a8fe6088a7f72b021394845e527aaf4.jpg</snapshot>
 </item>
 
 </channel>
