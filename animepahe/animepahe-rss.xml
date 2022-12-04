@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Fuufu Ijou, Koibito Miman. - Episode 9</title>
+    <link>https://animepahe.com/play/68f1a453-7b40-cbfe-65d9-acaa63dd92f5/f62d7a22dfbc2975c6b8bb178385458ffb8214b64068c6ca3f0a7c1dab3a00f1</link>
+    <description>Episode 9 of Fuufu Ijou, Koibito Miman. is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/d3d880a5b719067e1494283285258bfcf03fa0b4031b5e3103bd8786e209746c.jpg</snapshot>
+</item>
+
+<item>
     <title>Fumetsu no Anata e 2nd Season - Episode 7</title>
     <link>https://animepahe.com/play/45bb2fa8-f4e6-1f6e-6e2b-26b60c390b04/e5414d5c31bf1d657ac4b31d43afe8623445d2c3e384358a947993d93c9a4ef7</link>
     <description>Episode 7 of Fumetsu no Anata e 2nd Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 9 of Blue Lock is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/30fe18a949d58da71a8279879a772870248dc48c0345671de7040b1ab0115765.jpg</snapshot>
-</item>
-
-<item>
-    <title>Poputepipikku 2nd Season - Episode 10</title>
-    <link>https://animepahe.com/play/881590c3-6b5f-1bbf-ffb8-dd27a1b7d44b/8d8ad9e06a1923add5306dbd0042976c4dc3e9979020dd48f0a1b69075a22d99</link>
-    <description>Episode 10 of Poputepipikku 2nd Season is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/acbf248b575573b37b75d0558057b9db1a36b06d08aac775c7665fe74e29e623.jpg</snapshot>
 </item>
 
 </channel>
