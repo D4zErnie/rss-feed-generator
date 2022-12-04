@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Fumetsu no Anata e 2nd Season - Episode 7</title>
+    <link>https://animepahe.com/play/45bb2fa8-f4e6-1f6e-6e2b-26b60c390b04/e5414d5c31bf1d657ac4b31d43afe8623445d2c3e384358a947993d93c9a4ef7</link>
+    <description>Episode 7 of Fumetsu no Anata e 2nd Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/30566ce74bd22c67bbfe33955735293e4a5fa437ac32e5ec16a1ca8f65f608c2.jpg</snapshot>
+</item>
+
+<item>
     <title>Kidou Senshi Gundam: Suisei no Majo - Episode 9</title>
     <link>https://animepahe.com/play/29e38a5f-2bf4-5e3b-3fdd-0bd9dbaca4dc/786922f29e96347a6724e0a93ebc78ded5b1def11b7312ded2c13bcefbc53966</link>
     <description>Episode 9 of Kidou Senshi Gundam: Suisei no Majo is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Poputepipikku 2nd Season is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/acbf248b575573b37b75d0558057b9db1a36b06d08aac775c7665fe74e29e623.jpg</snapshot>
-</item>
-
-<item>
-    <title>Berserk: Ougon Jidai-hen - Memorial Edition - Episode 10</title>
-    <link>https://animepahe.com/play/7db22402-4428-f201-13ec-859cc21e4bef/a71cea6525e9eb68bd6f8915201791ad1ecb03d2586a2ac7efc1980047cca511</link>
-    <description>Episode 10 of Berserk: Ougon Jidai-hen - Memorial Edition is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/efa81096fd5ae47733229a7c6adfcfa327950ab088d8c5f54fb1da515f8a8075.jpg</snapshot>
 </item>
 
 </channel>
