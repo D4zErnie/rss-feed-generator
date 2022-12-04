@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>The Daily Life of the Immortal King 3 - Episode 11</title>
+    <link>https://animepahe.com/play/5f3c8ba9-3017-f2eb-71c8-97f12393aefa/2f680e3d0b0f20b03ba5ffae03f7a516c1c360c3acc50077e66df9533af7664a</link>
+    <description>Episode 11 of The Daily Life of the Immortal King 3 is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/640d66300ccdba23f9ab18a2cbf10c45bef2e6885d76cdd4abe7066d57bb769e.jpg</snapshot>
+</item>
+
+<item>
     <title>Digimon Ghost Game - Episode 54</title>
     <link>https://animepahe.com/play/eade6cac-18ec-d699-e5ba-d1aaa20303b7/eba891ec2e20b19adb1a75f22ac595a9ba991ceb770e6a319da2134eca9e366e</link>
     <description>Episode 54 of Digimon Ghost Game is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 9 of Bocchi the Rock! is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/edeaf3b901dae84d3ad383abb994fa1313ec25ed5b6cef2eab2bef36b0e05a8e.jpg</snapshot>
-</item>
-
-<item>
-    <title>Koukyuu no Karasu - Episode 10</title>
-    <link>https://animepahe.com/play/86d6c79d-1401-76cd-c4f0-404c7b3186a5/4ea5401488084b8a4ec9563ffc57c6c30aaed0c4d5c5c8150c7dbfceb7efe832</link>
-    <description>Episode 10 of Koukyuu no Karasu is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/d7591275215cfb3ad088194bfbcaf844a7ab0cac0b925939df141bede015fefe.jpg</snapshot>
 </item>
 
 </channel>
