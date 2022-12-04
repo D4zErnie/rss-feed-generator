@@ -7,6 +7,22 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Digimon Ghost Game - Episode 54</title>
+    <link>https://animepahe.com/play/eade6cac-18ec-d699-e5ba-d1aaa20303b7/eba891ec2e20b19adb1a75f22ac595a9ba991ceb770e6a319da2134eca9e366e</link>
+    <description>Episode 54 of Digimon Ghost Game is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/a3e5fdb59841ee2d5063ea9f1af340e49d3eb4d921c672db41aa490c320ddf59.jpg</snapshot>
+</item>
+
+<item>
+    <title>One Piece - Episode 1043</title>
+    <link>https://animepahe.com/play/6862e421-8a7b-b3d8-0782-5b3b39f0a564/6b03ad1169cf4b4997951ae03c32bdff4b8a89da817d7378f00e9f7a84fd7837</link>
+    <description>Episode 1043 of One Piece is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/b04fd6b11e304aca41f73cf404d4bf23c1fffc560dd9d28595519e5d36fc327c.jpg</snapshot>
+</item>
+
+<item>
     <title>Delicious Party♡Precure - Episode 38</title>
     <link>https://animepahe.com/play/af1370cf-0fc9-522b-ff62-b2a837c381e8/86f4ff4e7fc80d48af12c2e3e5281b8ed59aa040a2da0856d27b43b05fb9fbbc</link>
     <description>Episode 38 of Delicious Party♡Precure is out!</description>
@@ -84,22 +100,6 @@
     <description>Episode 10 of Koukyuu no Karasu is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/d7591275215cfb3ad088194bfbcaf844a7ab0cac0b925939df141bede015fefe.jpg</snapshot>
-</item>
-
-<item>
-    <title>Spy x Family Part 2 - Episode 22</title>
-    <link>https://animepahe.com/play/f2e81714-9e94-be0b-938c-8426a390993f/279bb8dc52fafd4f62a84786e199cb6b6de1e3731ed53d2659be4f0d70f77964</link>
-    <description>Episode 22 of Spy x Family Part 2 is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/962283ff4f2a0f1c3c8c1bf95694edc3dbb6ed667882fe4cbc2fdf8f1de9349e.jpg</snapshot>
-</item>
-
-<item>
-    <title>Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau - Episode 10</title>
-    <link>https://animepahe.com/play/faeaa2df-84fd-9c31-a939-9cde6758b07d/02f40d8dbd8707d3d52f48e0529f64832f6668377887f2baf6ce02df65315279</link>
-    <description>Episode 10 of Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/ee69e07e3f43ce7c761135cb87dec2c0345dac2af4bea46cc2e507ea8e782494.jpg</snapshot>
 </item>
 
 </channel>
