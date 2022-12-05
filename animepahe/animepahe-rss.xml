@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Shinmai Renkinjutsushi no Tenpo Keiei - Episode 10</title>
+    <link>https://animepahe.com/play/2a167a67-f682-2cd2-f0ea-0e866943c780/d1b7e4036969bce9aef0ec7adf2fd2d3296ab3e2dcde53e9557cde961a25594c</link>
+    <description>Episode 10 of Shinmai Renkinjutsushi no Tenpo Keiei is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/58dd2ac41af5f517988b331bf52747fc8a7d8e4e3e56d77669398ea08cb40c3c.jpg</snapshot>
+</item>
+
+<item>
     <title>Pui Pui Molcar: Driving School - Episode 9</title>
     <link>https://animepahe.com/play/0cffddeb-6808-ce39-13ec-454383544fc8/831b701bb5777977d7aa303013e3788138c4fad6f5933d59f25d2d709ae3027d</link>
     <description>Episode 9 of Pui Pui Molcar: Driving School is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1043 of One Piece is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/b04fd6b11e304aca41f73cf404d4bf23c1fffc560dd9d28595519e5d36fc327c.jpg</snapshot>
-</item>
-
-<item>
-    <title>Delicious Party♡Precure - Episode 38</title>
-    <link>https://animepahe.com/play/c7048c15-817d-5517-7c70-ad65fe67c80c/f2a6ed9fcf24523f015aa40a981f88ece8b9375e03354b6600552738601691bb</link>
-    <description>Episode 38 of Delicious Party♡Precure is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/36243eaa8e900298dcda4a62a3aa797c6d2ae3423645703f49796367f3a80d91.jpg</snapshot>
 </item>
 
 </channel>
