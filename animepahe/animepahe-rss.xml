@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Bleach: Sennen Kessen-hen - Episode 9</title>
+    <link>https://animepahe.com/play/308ae467-75a7-947c-f4ca-f9784c48a964/3c7cbb4ee65ce92dc602d970d5de15285baa6c953b7151b1ff473d5335e0cc81</link>
+    <description>Episode 9 of Bleach: Sennen Kessen-hen is out!</description>
+    <fansub>Disney_Plus</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/182f38fa83b9eef1cb83a5a166c14031ac3dc73f8a0892253b3a3bf752ab43f6.jpg</snapshot>
+</item>
+
+<item>
     <title>Shinmai Renkinjutsushi no Tenpo Keiei - Episode 10</title>
     <link>https://animepahe.com/play/2a167a67-f682-2cd2-f0ea-0e866943c780/d1b7e4036969bce9aef0ec7adf2fd2d3296ab3e2dcde53e9557cde961a25594c</link>
     <description>Episode 10 of Shinmai Renkinjutsushi no Tenpo Keiei is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 54 of Digimon Ghost Game is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/a3e5fdb59841ee2d5063ea9f1af340e49d3eb4d921c672db41aa490c320ddf59.jpg</snapshot>
-</item>
-
-<item>
-    <title>One Piece - Episode 1043</title>
-    <link>https://animepahe.com/play/8ec42231-543b-8589-e28a-a469d3fb5963/e525110d6248b73cb1662dc08656f70b6f15ad67b09ea32ca8f4521eab320959</link>
-    <description>Episode 1043 of One Piece is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/b04fd6b11e304aca41f73cf404d4bf23c1fffc560dd9d28595519e5d36fc327c.jpg</snapshot>
 </item>
 
 </channel>
