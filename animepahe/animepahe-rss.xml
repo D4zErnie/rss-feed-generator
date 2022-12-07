@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Muv-Luv Alternative 2nd Season - Episode 22</title>
+    <link>https://animepahe.com/play/9df06802-2df7-8d63-9cee-84603ed928c1/8a9e2e0ef5ac4ad843a6a6383a1ac00221f4eb87c22b65d6914935923ffd076d</link>
+    <description>Episode 22 of Muv-Luv Alternative 2nd Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/7385694d232b75efa734e52eee7c8e89c672a407d4cc0da2381adadbd9280361.jpg</snapshot>
+</item>
+
+<item>
     <title>Do It Yourself!! - Episode 10</title>
     <link>https://animepahe.com/play/e610126b-83db-a33b-613f-41258008ab17/3e92ff62d9d53d929a39fe2fdbbf5c8a0c7d8a7a927ad37b93787d83369d4f46</link>
     <description>Episode 10 of Do It Yourself!! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Shinobi no Ittoki is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/35986c6a2338134f22622f1ade2975b82fc7762c2a2c2cee159f2cc5b7f96cf9.jpg</snapshot>
-</item>
-
-<item>
-    <title>Meitantei Conan: Hannin no Hanzawa-san - Episode 10</title>
-    <link>https://animepahe.com/play/1be9f35c-c38b-9476-1155-96dc03755660/476fa260740f039593c0717cd29bddde0a7b5003568dca8d9584c92c4387b642</link>
-    <description>Episode 10 of Meitantei Conan: Hannin no Hanzawa-san is out!</description>
-    <fansub>Poop</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/59f91bbadaca553d3ca10d6b8cc48d57369dcb1f28ff247f06ebf8de38ba53ba.jpg</snapshot>
 </item>
 
 </channel>
