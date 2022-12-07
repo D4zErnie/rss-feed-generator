@@ -7,6 +7,22 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kage no Jitsuryokusha ni Naritakute! - Episode 10</title>
+    <link>https://animepahe.com/play/4cb7492c-b8ae-4213-19f1-20eba2b57c4c/8aa168af5ce2ed9027b759a975ab26018a8353badc94292095d8c84a6ec3f0a4</link>
+    <description>Episode 10 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/1a6a1c6a891efcb6cbf5756401dc7285fbc9cab8dd7ccd73a4afcab867e21393.jpg</snapshot>
+</item>
+
+<item>
+    <title>Tensei shitara Ken Deshita - Episode 10</title>
+    <link>https://animepahe.com/play/ce525648-254f-ec3c-a3d1-89b32cd91d9a/30d72bf94ce34258e277139839f6572eb33a9f1b835764c465b0414a15851a8d</link>
+    <description>Episode 10 of Tensei shitara Ken Deshita is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/5b74c0fecda0ba6a00df72bc7b6254d049c65a1c22a61177476669084b8bb6d2.jpg</snapshot>
+</item>
+
+<item>
     <title>Human Bug Daigaku - Episode 10</title>
     <link>https://animepahe.com/play/b90cc5f2-700e-01d0-c487-c1a349453715/dfbd2f1374e379f31420037bfd7dc6bc02c170202f937d6d43cdcec23d95f32e</link>
     <description>Episode 10 of Human Bug Daigaku is out!</description>
@@ -84,22 +100,6 @@
     <description>Episode 10 of Shinmai Renkinjutsushi no Tenpo Keiei is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/58dd2ac41af5f517988b331bf52747fc8a7d8e4e3e56d77669398ea08cb40c3c.jpg</snapshot>
-</item>
-
-<item>
-    <title>Pui Pui Molcar: Driving School - Episode 9</title>
-    <link>https://animepahe.com/play/a5a2fbd8-274b-7435-bfa6-fe21c725d646/59d42e1bccc4a4c33de5f199eb58436b854000a1c17e25ee5fc13d0ee6590b7e</link>
-    <description>Episode 9 of Pui Pui Molcar: Driving School is out!</description>
-    <fansub>MoyaiCars</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/d011e2547bff182c3a1263f64bc4130f985ab13e58d7fdd061a1bba872ded851.jpg</snapshot>
-</item>
-
-<item>
-    <title>Yu☆Gi☆Oh!: Go Rush!! - Episode 36</title>
-    <link>https://animepahe.com/play/8fe9e01d-1e10-830d-d761-4429e620ae4f/cc7477f569114acb80fd9d2f04be7955f4432369db1cb1aa69f13c54d1cd7dd6</link>
-    <description>Episode 36 of Yu☆Gi☆Oh!: Go Rush!! is out!</description>
-    <fansub>entameSubs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/549014292d02dded7f139c3f199c3c3b72738ec7a36cd4474a867cc7401104d2.jpg</snapshot>
 </item>
 
 </channel>
