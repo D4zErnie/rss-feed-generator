@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Human Bug Daigaku - Episode 10</title>
+    <link>https://animepahe.com/play/b90cc5f2-700e-01d0-c487-c1a349453715/dfbd2f1374e379f31420037bfd7dc6bc02c170202f937d6d43cdcec23d95f32e</link>
+    <description>Episode 10 of Human Bug Daigaku is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/8f6f2c3570ac75a4f2be8c2d6afd474fe83715c2b0afbf0b6baa065464a8e44d.jpg</snapshot>
+</item>
+
+<item>
     <title>Isekai Ojisan - Episode 9</title>
     <link>https://animepahe.com/play/91dfa129-6d41-4c20-f22f-eeabb5003006/2f7fa33a04f7116e39aeecc0af100cd5235ebaa6c7c9c225fa0bd31dbeb7cbd8</link>
     <description>Episode 9 of Isekai Ojisan is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 36 of Yu☆Gi☆Oh!: Go Rush!! is out!</description>
     <fansub>entameSubs</fansub>
     <snapshot>https://i.animepahe.com/snapshots/549014292d02dded7f139c3f199c3c3b72738ec7a36cd4474a867cc7401104d2.jpg</snapshot>
-</item>
-
-<item>
-    <title>Peter Grill to Kenja no Jikan: Super Extra - Episode 9</title>
-    <link>https://animepahe.com/play/f834fc2d-1f1a-93f5-f005-c63c5cc28dcf/e301998cd6e55daa08322f4653fe6280422f4c6fade886cac32c8a989ee51e9b</link>
-    <description>Episode 9 of Peter Grill to Kenja no Jikan: Super Extra is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/5dbf135524180428a0b033f43e068451a65d897e596c121ab283a3fb43a8fe5a.jpg</snapshot>
 </item>
 
 </channel>
