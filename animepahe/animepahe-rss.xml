@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Dragon Ball Super: Super Hero - Episode 1</title>
+    <link>https://animepahe.com/play/9be19372-ad2b-8494-0354-eebd369bdee7/44a581e77c8667ffe97b99d2b95a842440a401dac0af81d50574be0579537b66</link>
+    <description>Episode 1 of Dragon Ball Super: Super Hero is out!</description>
+    <fansub>PotatoHead</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/235a98342d0ca3853abc2b7ba2224dfc3f0825c0662a5fe955b0904a0ad00f15.jpg</snapshot>
+</item>
+
+<item>
     <title>Mob Psycho 100 III - Episode 10</title>
     <link>https://animepahe.com/play/b754ee28-e845-e474-44f5-9d32da4b9b7e/b32759dc648c0873210f773a89031faab2d43927e7d1e5617a91976157132e22</link>
     <description>Episode 10 of Mob Psycho 100 III is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Vazzrock The Animation is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/4d1ab539e65da226964bff13ec5c770cdb9f596d8acefb51a53a705dd8d9d718.jpg</snapshot>
-</item>
-
-<item>
-    <title>Shinobi no Ittoki - Episode 10</title>
-    <link>https://animepahe.com/play/5c3a5804-9bed-262e-63ee-a480faecdf25/a694018610fcf3c31b18a1797e7ab5a32689f3a4ece86ad48d2ad1f8506f7d01</link>
-    <description>Episode 10 of Shinobi no Ittoki is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/35986c6a2338134f22622f1ade2975b82fc7762c2a2c2cee159f2cc5b7f96cf9.jpg</snapshot>
 </item>
 
 </channel>
