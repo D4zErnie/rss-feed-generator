@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>All Saints Street 3 - Episode 1</title>
+    <link>https://animepahe.com/play/e2bf76ee-50e5-f064-c062-1d7d1cfae943/e10062c61676ec969bda9c9814993e6d30861cf44e77755c2ba5286e51c1631b</link>
+    <description>Episode 1 of All Saints Street 3 is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/c1779e3cf53b1674240580c245d3da999c7550bc0eab35ca3378031ae5975c27.jpg</snapshot>
+</item>
+
+<item>
     <title>Uchi no Shishou wa Shippo ga Nai - Episode 11</title>
     <link>https://animepahe.com/play/02e344b4-cbd1-f253-d15a-3940fa4dc7da/475b55505e4bd56d87c91ee79ac99c02bd0fe17b9bb2710894e392e0aea1c8e8</link>
     <description>Episode 11 of Uchi no Shishou wa Shippo ga Nai is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Super Cub is out!</description>
     <fansub>NH</fansub>
     <snapshot>https://i.animepahe.com/snapshots/d26b96cee546edfd1616daef9be149ecef4a26033b016bd79a40ed0925b690eb.jpg</snapshot>
-</item>
-
-<item>
-    <title>Kuma Kuma Kuma Bear - Episode 12</title>
-    <link>https://animepahe.com/play/6d07176f-61b7-8495-a50f-7ed809ae022f/a474fa5d69f08bf68a8a1869b670864775800f171cc5b957a5e9a88c5b3c8e84</link>
-    <description>Episode 12 of Kuma Kuma Kuma Bear is out!</description>
-    <fansub>NH</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/06416ff3b760b4fb619cd274a1c2215f3d72fa409ca60d8be46738f92f7f4c98.jpg</snapshot>
 </item>
 
 </channel>
