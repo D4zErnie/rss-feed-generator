@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Arknights: Reimei Zensou - Episode 7</title>
+    <link>https://animepahe.com/play/5e6e8102-a3e1-31a9-e21a-a10238d9ecc5/6dbd0ded988f3c61a5237ef626f38925125684d656127bf637184c06052437e2</link>
+    <description>Episode 7 of Arknights: Reimei Zensou is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/449ba6e4ec0476da5e5c7da123b1be01750b9a507f5f3eac1dbb891856e4ab2e.jpg</snapshot>
+</item>
+
+<item>
     <title>All Saints Street 3 - Episode 1</title>
     <link>https://animepahe.com/play/e2bf76ee-50e5-f064-c062-1d7d1cfae943/e10062c61676ec969bda9c9814993e6d30861cf44e77755c2ba5286e51c1631b</link>
     <description>Episode 1 of All Saints Street 3 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Given: Uragawa no Sonzai is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/5be95f38241ee69d5af42633f9b0a80e8cfbe9a2b5dc24ec0a423ba872f874bd.jpg</snapshot>
-</item>
-
-<item>
-    <title>Super Cub - Episode 12</title>
-    <link>https://animepahe.com/play/2020d9a7-2044-742c-06bf-a847fc3b0862/64571f3543de4b318732d337b9219d2cf008adcacd2f1d4347cafa1d6d68d457</link>
-    <description>Episode 12 of Super Cub is out!</description>
-    <fansub>NH</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/d26b96cee546edfd1616daef9be149ecef4a26033b016bd79a40ed0925b690eb.jpg</snapshot>
 </item>
 
 </channel>
