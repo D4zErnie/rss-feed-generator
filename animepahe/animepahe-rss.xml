@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 135</title>
+    <link>https://animepahe.com/play/a5158306-d8db-eca7-0e9c-9ff5e4dd0c08/ccfc276697e923735207a1fec6f4d43ca7d5a2875f4e8b2b1e358301d2f4098b</link>
+    <description>Episode 135 of Pokemon (2019) is out!</description>
+    <fansub>Some-Stuffs</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/05194ca67f22401b63f22cd7b496b790e2f9161d03b7a238dbbdd643c6e01b3d.jpg</snapshot>
+</item>
+
+<item>
     <title>Bureau of Paranormal Investigation - Episode 4</title>
     <link>https://animepahe.com/play/25251943-7cd5-a4ee-7777-d69daa6fed78/9bbab102b6ee6680e1419772e900d917c46bc85007afef26ad906173b09d80fa</link>
     <description>Episode 4 of Bureau of Paranormal Investigation is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 9 of Urusei Yatsura (2022) is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/e7a4239f4f1e490f6c165962b7402f616c2ea8cda53d38281b1717b89247c2d7.jpg</snapshot>
-</item>
-
-<item>
-    <title>Akiba Meido Sensou - Episode 10</title>
-    <link>https://animepahe.com/play/82cb2b35-54b9-b5cb-f552-c70012fa2005/6f715a76caf0345ef6d9a259b627ea46cf8b3f03041fe4d2280e6d1df18b1c4a</link>
-    <description>Episode 10 of Akiba Meido Sensou is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/2020f895723a1f1d5f2312c328df03fcaa333e11c0ae903acfd0000cf6e48e45.jpg</snapshot>
 </item>
 
 </channel>
