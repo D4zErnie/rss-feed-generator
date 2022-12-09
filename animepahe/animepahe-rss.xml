@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Gaiken Shijou Shugi - Episode 1</title>
+    <link>https://animepahe.com/play/f984340b-4f63-91ca-8be7-6497a8634573/ae8f7459450d3ae3c9d3f046d0cb45c2d4bd436ab66a5ddf31a2f1170ead3a4a</link>
+    <description>Episode 1 of Gaiken Shijou Shugi is out!</description>
+    <fansub>Netflix</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/7fc7899a23bae1e3da8e694c02e166f8bba157e4c7c2ccdf83ded60e125fcd45.jpg</snapshot>
+</item>
+
+<item>
     <title>Bureau of Paranormal Investigation - Episode 3</title>
     <link>https://animepahe.com/play/25251943-7cd5-a4ee-7777-d69daa6fed78/6d6d51f6d102924625822fb24fbde699e91f069b6da2468adf4d6456ecb68796</link>
     <description>Episode 3 of Bureau of Paranormal Investigation is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Kami-tachi ni Hirowareta Otoko is out!</description>
     <fansub>NH</fansub>
     <snapshot>https://i.animepahe.com/snapshots/85e164869527f51aa76cddadc82cc1459aaa999010121302f89a5ef49d46e5b3.jpg</snapshot>
-</item>
-
-<item>
-    <title>Dragon Ball Super: Super Hero - Episode 1</title>
-    <link>https://animepahe.com/play/756b64aa-1c88-df22-e409-639801650095/2de0c1f13aee743d24ab93717deef337ed00e80e1e2c7b3adaef0d9a395631ff</link>
-    <description>Episode 1 of Dragon Ball Super: Super Hero is out!</description>
-    <fansub>PotatoHead</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/235a98342d0ca3853abc2b7ba2224dfc3f0825c0662a5fe955b0904a0ad00f15.jpg</snapshot>
 </item>
 
 </channel>
