@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Uchi no Shishou wa Shippo ga Nai - Episode 11</title>
+    <link>https://animepahe.com/play/02e344b4-cbd1-f253-d15a-3940fa4dc7da/475b55505e4bd56d87c91ee79ac99c02bd0fe17b9bb2710894e392e0aea1c8e8</link>
+    <description>Episode 11 of Uchi no Shishou wa Shippo ga Nai is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/a046ce4585020baee52700e6b2ab417d32a1cb6f597e551b6aed1be647503db2.jpg</snapshot>
+</item>
+
+<item>
     <title>Gaiken Shijou Shugi - Episode 2</title>
     <link>https://animepahe.com/play/f984340b-4f63-91ca-8be7-6497a8634573/4eb50ff3e3cfe5ebc675be428a85ebf036bc08d8969832b37c0c5c8d88eae831</link>
     <description>Episode 2 of Gaiken Shijou Shugi is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Kuma Kuma Kuma Bear is out!</description>
     <fansub>NH</fansub>
     <snapshot>https://i.animepahe.com/snapshots/06416ff3b760b4fb619cd274a1c2215f3d72fa409ca60d8be46738f92f7f4c98.jpg</snapshot>
-</item>
-
-<item>
-    <title>Kami-tachi ni Hirowareta Otoko - Episode 12</title>
-    <link>https://animepahe.com/play/063e3c76-7b4b-e4fe-75ee-d9b4018b1dd3/6c6139571678d9f721553461802c9f2b1f81c4368925a07e8c324325d974d83e</link>
-    <description>Episode 12 of Kami-tachi ni Hirowareta Otoko is out!</description>
-    <fansub>NH</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/85e164869527f51aa76cddadc82cc1459aaa999010121302f89a5ef49d46e5b3.jpg</snapshot>
 </item>
 
 </channel>
