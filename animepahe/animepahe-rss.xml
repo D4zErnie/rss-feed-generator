@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Mairimashita! Iruma-kun 3rd Season - Episode 10</title>
+    <link>https://animepahe.com/play/b8d60a09-0044-9467-0edb-917f036eb009/d8931fe7373e91b4a9bf8f1bf6049580f5e76ed9dbdcdc796e2715c2e892bf37</link>
+    <description>Episode 10 of Mairimashita! Iruma-kun 3rd Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/03ac0dfbe7a156e5acc70b4b275207e04635f7848e80c2b9a4fff6e9522f6232.jpg</snapshot>
+</item>
+
+<item>
     <title>Boku no Hero Academia 6th Season - Episode 124</title>
     <link>https://animepahe.com/play/93b7df0e-ff08-6a2f-ce38-5e32520613c1/1f8cc8e3e546b698932c11c6d5f3f528d497d30e2bfaaef3ebec2acce3264e36</link>
     <description>Episode 124 of Boku no Hero Academia 6th Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of All Saints Street 3 is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c1779e3cf53b1674240580c245d3da999c7550bc0eab35ca3378031ae5975c27.jpg</snapshot>
-</item>
-
-<item>
-    <title>Uchi no Shishou wa Shippo ga Nai - Episode 11</title>
-    <link>https://animepahe.com/play/b0010e75-9960-c616-71d5-be21f4be4b73/8ffa1e8f0c6ad64e7551c6c170a0a61c2842c0f581f16a279dd4a53359ec4907</link>
-    <description>Episode 11 of Uchi no Shishou wa Shippo ga Nai is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/a046ce4585020baee52700e6b2ab417d32a1cb6f597e551b6aed1be647503db2.jpg</snapshot>
 </item>
 
 </channel>
