@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Utawarerumono: Futari no Hakuoro - Episode 25</title>
+    <link>https://animepahe.com/play/55b9a391-66a0-46e8-8ce0-2f62c05f64c1/8dfa3455be99beb80cb9a563c52eed44400e98a16035317d0805300c754427e9</link>
+    <description>Episode 25 of Utawarerumono: Futari no Hakuoro is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/a51357d5a79b01dfab01a429aa984092821355a3aedaa6accf381f5663f90cac.jpg</snapshot>
+</item>
+
+<item>
     <title>Bocchi the Rock! - Episode 10</title>
     <link>https://animepahe.com/play/2cc24419-f51d-0a84-a354-ad97aebff6f5/ce8d73e0382dc003d024d1849d6a4406b217370cb624545cd15094dd4a08d9f4</link>
     <description>Episode 10 of Bocchi the Rock! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 33 of Saiunkoku Monogatari is out!</description>
     <fansub>Netaro</fansub>
     <snapshot>https://i.animepahe.com/snapshots/dbdd897e33f74b74e2b5ffc21f584752858186855b2a39932cab2e57d72204a5.jpg</snapshot>
-</item>
-
-<item>
-    <title>SSSS.Dynazenon - Episode 12</title>
-    <link>https://animepahe.com/play/7a393d31-55b1-cb32-e62f-f026b103e086/67db7040eaa82fdff2bdf7d0f9d8e2c425544ea79bbfa3ed1070c524107f8672</link>
-    <description>Episode 12 of SSSS.Dynazenon is out!</description>
-    <fansub>Bunny-Apocalypse</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/3b66cbb05143ec5cce3b3482778d750ee2e587993be6aa44c3c17a95a5df16f1.jpg</snapshot>
 </item>
 
 </channel>
