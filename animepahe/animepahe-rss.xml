@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Blue Lock - Episode 10</title>
+    <link>https://animepahe.com/play/8d8d45c9-5fb6-42c4-236e-12797af15ef1/9122f31ca07ead83bfcd9eca6f1f2ada853b2546b84245602b1a28aa9a17633b</link>
+    <description>Episode 10 of Blue Lock is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/7e851c27e14ba06c562bbe16227a838e398ede112acc096f87927ec175d6a315.jpg</snapshot>
+</item>
+
+<item>
     <title>Poputepipikku 2nd Season - Episode 11</title>
     <link>https://animepahe.com/play/3ed0a991-1986-cfcd-a434-0b4f0dfc3f7f/d557a98ace19bbbbe00e1f2cea63ec81d79013e6bcee8698ea3db1bdc1065333</link>
     <description>Episode 11 of Poputepipikku 2nd Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Mairimashita! Iruma-kun 3rd Season is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/03ac0dfbe7a156e5acc70b4b275207e04635f7848e80c2b9a4fff6e9522f6232.jpg</snapshot>
-</item>
-
-<item>
-    <title>Boku no Hero Academia 6th Season - Episode 124</title>
-    <link>https://animepahe.com/play/93b7df0e-ff08-6a2f-ce38-5e32520613c1/1f8cc8e3e546b698932c11c6d5f3f528d497d30e2bfaaef3ebec2acce3264e36</link>
-    <description>Episode 124 of Boku no Hero Academia 6th Season is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/4c40b7f78e858f1c1981ef00b33a452402a75a5f1be9e0a713c84deb27cc4c9e.jpg</snapshot>
 </item>
 
 </channel>
