@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Berserk: Ougon Jidai-hen - Memorial Edition - Episode 11</title>
+    <link>https://animepahe.com/play/b4900b92-c7d4-03bf-3b63-8f50a6e0406f/8b4e24197a1e61afd826da9da82949a84fa3301658c9e3bfc50e0045f487cdb8</link>
+    <description>Episode 11 of Berserk: Ougon Jidai-hen - Memorial Edition is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/ec9623ddb36444c7db82026060c9c1caf14417b54378a32202de0f359ab56050.jpg</snapshot>
+</item>
+
+<item>
     <title>Utawarerumono: Futari no Hakuoro - Episode 25</title>
     <link>https://animepahe.com/play/55b9a391-66a0-46e8-8ce0-2f62c05f64c1/8dfa3455be99beb80cb9a563c52eed44400e98a16035317d0805300c754427e9</link>
     <description>Episode 25 of Utawarerumono: Futari no Hakuoro is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 18 of Saiunkoku Monogatari 2nd Season is out!</description>
     <fansub>Netaro</fansub>
     <snapshot>https://i.animepahe.com/snapshots/1193a492119d30e63ef8f2a3dcdd5db9a1a8957c321b51e896bea4e6ce486fb8.jpg</snapshot>
-</item>
-
-<item>
-    <title>Saiunkoku Monogatari - Episode 33</title>
-    <link>https://animepahe.com/play/7fd10e3d-ba73-2c29-f5c0-1de47e7162a6/ae450134fcefbf5890ef11e00bbf208ed83c84d490ae0a0ee8840c3af9cd92b2</link>
-    <description>Episode 33 of Saiunkoku Monogatari is out!</description>
-    <fansub>Netaro</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/dbdd897e33f74b74e2b5ffc21f584752858186855b2a39932cab2e57d72204a5.jpg</snapshot>
 </item>
 
 </channel>
