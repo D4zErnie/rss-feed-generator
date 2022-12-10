@@ -7,11 +7,19 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
-    <title>Saiunkoku Monogatari - Episode 17</title>
-    <link>https://animepahe.com/play/7fd10e3d-ba73-2c29-f5c0-1de47e7162a6/bcb7f7eeb213a654c28451dc0a108466b9a64abe0626701631ca7fcd66db9e19</link>
-    <description>Episode 17 of Saiunkoku Monogatari is out!</description>
+    <title>Saiunkoku Monogatari 2nd Season - Episode 18</title>
+    <link>https://animepahe.com/play/d867abc4-5fa4-5f7a-e7bc-a9937ef9cda1/603a81360f39ead5fa408801ec06bf4345ed548cd9f6d606d8a81f7c44ab8220</link>
+    <description>Episode 18 of Saiunkoku Monogatari 2nd Season is out!</description>
     <fansub>Netaro</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/db8d8fe095f56c86086e250715cc6b295a5b6aa38b0cc7753dbfe7f07bd54702.jpg</snapshot>
+    <snapshot>https://i.animepahe.com/snapshots/1193a492119d30e63ef8f2a3dcdd5db9a1a8957c321b51e896bea4e6ce486fb8.jpg</snapshot>
+</item>
+
+<item>
+    <title>Saiunkoku Monogatari - Episode 33</title>
+    <link>https://animepahe.com/play/7fd10e3d-ba73-2c29-f5c0-1de47e7162a6/ae450134fcefbf5890ef11e00bbf208ed83c84d490ae0a0ee8840c3af9cd92b2</link>
+    <description>Episode 33 of Saiunkoku Monogatari is out!</description>
+    <fansub>Netaro</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/dbdd897e33f74b74e2b5ffc21f584752858186855b2a39932cab2e57d72204a5.jpg</snapshot>
 </item>
 
 <item>
@@ -92,14 +100,6 @@
     <description>Episode 2 of Lookism is out!</description>
     <fansub>Netflix</fansub>
     <snapshot>https://i.animepahe.com/snapshots/51368bcc820aa8245dd90c85a4d74a488ccb88e4f5f4876839ca53603dcba084.jpg</snapshot>
-</item>
-
-<item>
-    <title>Reiwa no Di Gi Charat - Episode 9</title>
-    <link>https://animepahe.com/play/23c400ad-8ab1-16e1-da71-0be756a72d4b/c232db2437ae1cd0b121db80c908fc1ccd77ee81142fbd3f68538a79430acb25</link>
-    <description>Episode 9 of Reiwa no Di Gi Charat is out!</description>
-    <fansub>MoyaiSubs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/d8c8fab588fa797de0325d33f610e938a7e38da0d4b8950a1a60d7db47e6242d.jpg</snapshot>
 </item>
 
 </channel>
