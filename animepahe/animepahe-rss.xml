@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Shadowverse Flame - Episode 36</title>
+    <link>https://animepahe.com/play/2864b984-e0a9-ea2f-ca30-98e995c1e490/f9297c0569d561f7c1fee63a3f711b7c09879bdcf11a004145833fd2a8808cb9</link>
+    <description>Episode 36 of Shadowverse Flame is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/75d9c94681d9a275d493f150b3d277581907105232c145e7574df52c3ca0a827.jpg</snapshot>
+</item>
+
+<item>
     <title>Pokemon (2019) - Episode 135</title>
     <link>https://animepahe.com/play/ccd090e7-1bef-0b2a-a116-8da20276692f/88715b298e4b0c681451be6aa90ca608cfe0082fa9ce61222da4db770009e4ea</link>
     <description>Episode 135 of Pokemon (2019) is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Futoku no Guild is out!</description>
     <fansub>Anime_Chap</fansub>
     <snapshot>https://i.animepahe.com/snapshots/461f9086b2ceb82fe85b645141cfb0bf56c1831a38f9e7011c537cb7eca945fb.jpg</snapshot>
-</item>
-
-<item>
-    <title>Urusei Yatsura (2022) - Episode 9</title>
-    <link>https://animepahe.com/play/4ccf4650-5fa9-6f0b-b18f-d9317d693237/5fdc51ce834d637c27b423a8c144136123d431fd997ae247f7ba15c71605cfb8</link>
-    <description>Episode 9 of Urusei Yatsura (2022) is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/e7a4239f4f1e490f6c165962b7402f616c2ea8cda53d38281b1717b89247c2d7.jpg</snapshot>
 </item>
 
 </channel>
