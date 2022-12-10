@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Uzaki-chan wa Asobitai! Double - Episode 11</title>
+    <link>https://animepahe.com/play/8e567f63-0d09-d185-1b6f-e1008f567a29/e5f26bde52804a03a7fc9bfd972922a5d60b6e562219d1706fb490eaee1b76eb</link>
+    <description>Episode 11 of Uzaki-chan wa Asobitai! Double is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/9536e89c3d17993bf874ccdf349117ab0f0185345d0f1876077301660937f5e2.jpg</snapshot>
+</item>
+
+<item>
     <title>Akuyaku Reijou nano de Last Boss wo Kattemimashita - Episode 12</title>
     <link>https://animepahe.com/play/6d7fd179-a286-ee9f-cd89-d023a113b388/4913a5cdec73bc44c1d9e0c8d6acf7aa64bc5fa6f646fda3e6848e7dc96eb8b4</link>
     <description>Episode 12 of Akuyaku Reijou nano de Last Boss wo Kattemimashita is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 22 of Hoshi no Samidare is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/e6ccba0ab8bf2a10009f5618a3d6e48870fd58de44f10df692ec0997757cbfd2.jpg</snapshot>
-</item>
-
-<item>
-    <title>Seiken Densetsu: Legend of Mana - The Teardrop Crystal - Episode 10</title>
-    <link>https://animepahe.com/play/1e1787cb-1a56-bb45-0107-c6d36dfa3ed5/d29b0fe823b9feb4fa5d3378a22cce8500f06a77456c1f0fc5ba79cb4c339efe</link>
-    <description>Episode 10 of Seiken Densetsu: Legend of Mana - The Teardrop Crystal is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/341a4b2a01e0fb7c91f6f8dac79fd2cdd8046f7868cb40a83965748a3b5f3a57.jpg</snapshot>
 </item>
 
 </channel>
