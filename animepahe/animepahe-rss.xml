@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Akuyaku Reijou nano de Last Boss wo Kattemimashita - Episode 12</title>
+    <link>https://animepahe.com/play/6d7fd179-a286-ee9f-cd89-d023a113b388/4913a5cdec73bc44c1d9e0c8d6acf7aa64bc5fa6f646fda3e6848e7dc96eb8b4</link>
+    <description>Episode 12 of Akuyaku Reijou nano de Last Boss wo Kattemimashita is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/af2fd7be4f358c34d3a977c08964202ac51a36521e7db0fa204f79a81aa6e6ab.jpg</snapshot>
+</item>
+
+<item>
     <title>Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. - Episode 11</title>
     <link>https://animepahe.com/play/30027c0b-33bf-3c49-62cf-5feebf4dae47/7e5dc38598c2d605ca4e582e5a18d2b5b54540a9f9d31f1f4dda6b389e00c8db</link>
     <description>Episode 11 of Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Seiken Densetsu: Legend of Mana - The Teardrop Crystal is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/341a4b2a01e0fb7c91f6f8dac79fd2cdd8046f7868cb40a83965748a3b5f3a57.jpg</snapshot>
-</item>
-
-<item>
-    <title>Arknights: Reimei Zensou - Episode 7</title>
-    <link>https://animepahe.com/play/11194c8d-e6b0-365d-09ce-d7ecea90702a/85c3928ac16b5682fa7e3073c3e29fc82bd856a985341b5c21b1c82c7c715f5b</link>
-    <description>Episode 7 of Arknights: Reimei Zensou is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/449ba6e4ec0476da5e5c7da123b1be01750b9a507f5f3eac1dbb891856e4ab2e.jpg</snapshot>
 </item>
 
 </channel>
