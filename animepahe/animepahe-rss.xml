@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Koukyuu no Karasu - Episode 11</title>
+    <link>https://animepahe.com/play/c073cfab-d50c-fb1c-b41f-909160f1b3c7/fad9bfeb4acfa23d05d5d2b5c155dd19c802d634ac5f7cda4e9bf6668b71c6e9</link>
+    <description>Episode 11 of Koukyuu no Karasu is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/f8e8136eb2d2265aead84d0c45a416b4cca55958637b34d553b8de6a4f296224.jpg</snapshot>
+</item>
+
+<item>
     <title>Spy x Family Part 2 - Episode 23</title>
     <link>https://animepahe.com/play/183eea69-28ef-b69b-b7cc-837fedd15449/8e584c9dc247d7cf39a90415924f8011d93d4cdc8289df59b72f1f482adafc40</link>
     <description>Episode 23 of Spy x Family Part 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 36 of Shadowverse Flame is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/75d9c94681d9a275d493f150b3d277581907105232c145e7574df52c3ca0a827.jpg</snapshot>
-</item>
-
-<item>
-    <title>Pokemon (2019) - Episode 135</title>
-    <link>https://animepahe.com/play/ccd090e7-1bef-0b2a-a116-8da20276692f/88715b298e4b0c681451be6aa90ca608cfe0082fa9ce61222da4db770009e4ea</link>
-    <description>Episode 135 of Pokemon (2019) is out!</description>
-    <fansub>Some-Stuffs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/05194ca67f22401b63f22cd7b496b790e2f9161d03b7a238dbbdd643c6e01b3d.jpg</snapshot>
 </item>
 
 </channel>
