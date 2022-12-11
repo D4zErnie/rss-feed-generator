@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Peter Grill to Kenja no Jikan: Super Extra - Episode 10</title>
+    <link>https://animepahe.com/play/f3954295-22a9-b7be-9419-c3f6f7ba565d/e604bfa6f9ca85821cacb8f2369b09afaf08dc1e4070cb3f008193c2317885af</link>
+    <description>Episode 10 of Peter Grill to Kenja no Jikan: Super Extra is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/af5ac6c2f390ab96de1b44e6822df866c1d52eac08cd45ec546cef9e4ee84926.jpg</snapshot>
+</item>
+
+<item>
     <title>IDOLiSH7 Third Beat! Part 2 - Episode 24</title>
     <link>https://animepahe.com/play/ac2b1032-3e26-8c34-dd33-65f5cab5766e/53010725a5aa56a3c2dddab6dc701199a66e2bc33fd5fec5717212fa874580c4</link>
     <description>Episode 24 of IDOLiSH7 Third Beat! Part 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 55 of Digimon Ghost Game is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/d062ee8614b1e3b0e7508a337e15c6b1244fd5377d31c8d335a25e1d3c8b2a06.jpg</snapshot>
-</item>
-
-<item>
-    <title>One Piece - Episode 1044</title>
-    <link>https://animepahe.com/play/7c04981b-8b05-2011-629e-2138858a82e5/9388a7e3f926dc08e94387c966f20ea8d1a066753459f4a4ed11d5e6a56d829c</link>
-    <description>Episode 1044 of One Piece is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/891b31eeeb525f62285cd53966e4c2856dc506b258774472d8847fb2593c4f3d.jpg</snapshot>
 </item>
 
 </channel>
