@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Hunter x Hunter (2011) - Episode 40</title>
+    <link>https://animepahe.com/play/1b40492c-8f90-a5fe-effb-35f2279ebcec/17aeb8ac6f277d0ebcd41df4cfaa7c4bc1ba1255d012e9a3948565b5ec611640</link>
+    <description>Episode 40 of Hunter x Hunter (2011) is out!</description>
+    <fansub>Vodes</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/b09e9eae5d3cf4bdd4b339e6138d3669be0b623f58434f841a3823a04ada6e50.jpg</snapshot>
+</item>
+
+<item>
     <title>Doraemon (1979) - Episode 1601</title>
     <link>https://animepahe.com/play/b1d772d1-712a-64b8-52b0-fbd9b5b5398d/a220b82e043f3964d478394c59e6445c472b958ac3b5d76aefc1e0abfb609f2f</link>
     <description>Episode 1601 of Doraemon (1979) is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Berserk: Ougon Jidai-hen - Memorial Edition is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/ec9623ddb36444c7db82026060c9c1caf14417b54378a32202de0f359ab56050.jpg</snapshot>
-</item>
-
-<item>
-    <title>Utawarerumono: Futari no Hakuoro - Episode 25</title>
-    <link>https://animepahe.com/play/f8624af5-2ed1-8b70-c2d4-a86941c63b2e/3ea06a65dcdfce3e78773d2af39b8c0341ce8fc42d7007663af6d3b66bd8f01f</link>
-    <description>Episode 25 of Utawarerumono: Futari no Hakuoro is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/a51357d5a79b01dfab01a429aa984092821355a3aedaa6accf381f5663f90cac.jpg</snapshot>
 </item>
 
 </channel>
