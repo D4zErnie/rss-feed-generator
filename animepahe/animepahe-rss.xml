@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>IDOLiSH7 Third Beat! Part 2 - Episode 24</title>
+    <link>https://animepahe.com/play/ac2b1032-3e26-8c34-dd33-65f5cab5766e/53010725a5aa56a3c2dddab6dc701199a66e2bc33fd5fec5717212fa874580c4</link>
+    <description>Episode 24 of IDOLiSH7 Third Beat! Part 2 is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/17e92e5525bd9d5d1efff5112df5f27e15ee28a0b6fad10e2d656e61b03ed7f5.jpg</snapshot>
+</item>
+
+<item>
     <title>Fuufu Ijou, Koibito Miman. - Episode 10</title>
     <link>https://animepahe.com/play/aa011bcf-203c-40ec-f6f1-fad0c36dcbb3/0db7b08998b9c968e03298cb906492e2e678b94d6b49b031d92438637c006da9</link>
     <description>Episode 10 of Fuufu Ijou, Koibito Miman. is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1044 of One Piece is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/891b31eeeb525f62285cd53966e4c2856dc506b258774472d8847fb2593c4f3d.jpg</snapshot>
-</item>
-
-<item>
-    <title>Delicious Party♡Precure - Episode 39</title>
-    <link>https://animepahe.com/play/866c2920-a7ab-e329-a728-2d147b91f98d/11b4e255e06a38e2cf2c9bb845338dc70f79baa9020571a5d2cf3fd17ece5158</link>
-    <description>Episode 39 of Delicious Party♡Precure is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/217b1bef4752b9018a4b4a5c1cd4fe9891335bb27e0c5a115efe3751ee6d3f58.jpg</snapshot>
 </item>
 
 </channel>
