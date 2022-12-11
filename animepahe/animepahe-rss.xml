@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Fuufu Ijou, Koibito Miman. - Episode 10</title>
+    <link>https://animepahe.com/play/aa011bcf-203c-40ec-f6f1-fad0c36dcbb3/0db7b08998b9c968e03298cb906492e2e678b94d6b49b031d92438637c006da9</link>
+    <description>Episode 10 of Fuufu Ijou, Koibito Miman. is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/3499a1aa4a65afe9f8f00f3692710b047e1957b745809eac2270d3bca6c05d6c.jpg</snapshot>
+</item>
+
+<item>
     <title>Fumetsu no Anata e 2nd Season - Episode 8</title>
     <link>https://animepahe.com/play/edf2fc52-022c-6cb8-97b3-e9304b5fdb20/2b5f2123f399e7ca5158263a1b6896cf4707f82047814ad42f3db3ede6432e0d</link>
     <description>Episode 8 of Fumetsu no Anata e 2nd Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 39 of Delicious Party♡Precure is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/217b1bef4752b9018a4b4a5c1cd4fe9891335bb27e0c5a115efe3751ee6d3f58.jpg</snapshot>
-</item>
-
-<item>
-    <title>4-nin wa Sorezore Uso wo Tsuku - Episode 9</title>
-    <link>https://animepahe.com/play/36717ce4-649e-02ab-d1d7-b86c55fa37a6/db6b7f8936f7a192f89b088f56e016191ff6abd22f0568f5fbf56f640cb2db9a</link>
-    <description>Episode 9 of 4-nin wa Sorezore Uso wo Tsuku is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/1a1d6de1acc41ad844b1cce17d26d0b5e66c08c52e673e8fe2a19dd7fdaf80fc.jpg</snapshot>
 </item>
 
 </channel>
