@@ -7,6 +7,22 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Digimon Ghost Game - Episode 55</title>
+    <link>https://animepahe.com/play/4d1e6c98-83b7-a033-3ddb-b36e43a25d67/b8c8991352d1b9874788b9af105d54ff1c0723b17d9a7a86976f6b4b7a9b465e</link>
+    <description>Episode 55 of Digimon Ghost Game is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/d062ee8614b1e3b0e7508a337e15c6b1244fd5377d31c8d335a25e1d3c8b2a06.jpg</snapshot>
+</item>
+
+<item>
+    <title>One Piece - Episode 1044</title>
+    <link>https://animepahe.com/play/7c04981b-8b05-2011-629e-2138858a82e5/9388a7e3f926dc08e94387c966f20ea8d1a066753459f4a4ed11d5e6a56d829c</link>
+    <description>Episode 1044 of One Piece is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/891b31eeeb525f62285cd53966e4c2856dc506b258774472d8847fb2593c4f3d.jpg</snapshot>
+</item>
+
+<item>
     <title>Delicious Party♡Precure - Episode 39</title>
     <link>https://animepahe.com/play/866c2920-a7ab-e329-a728-2d147b91f98d/11b4e255e06a38e2cf2c9bb845338dc70f79baa9020571a5d2cf3fd17ece5158</link>
     <description>Episode 39 of Delicious Party♡Precure is out!</description>
@@ -84,22 +100,6 @@
     <description>Episode 11 of Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/b311b2c1e38bd6cae13eedff743198e198a90538826c870f899cf3e3c3f2609b.jpg</snapshot>
-</item>
-
-<item>
-    <title>Uzaki-chan wa Asobitai! Double - Episode 11</title>
-    <link>https://animepahe.com/play/2d2083da-7d6e-18c3-b777-037d0baae765/285e05f0ecc057c8150c97595ad77342efb38c818b01a330dc755c90668a13ba</link>
-    <description>Episode 11 of Uzaki-chan wa Asobitai! Double is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/9536e89c3d17993bf874ccdf349117ab0f0185345d0f1876077301660937f5e2.jpg</snapshot>
-</item>
-
-<item>
-    <title>Akuyaku Reijou nano de Last Boss wo Kattemimashita - Episode 12</title>
-    <link>https://animepahe.com/play/40841299-87c5-318b-1619-604ef8ac46a5/dfaad3abe9b7261e8c12c34f872750ecbe5a143cf546bf9e20b108a449f627b0</link>
-    <description>Episode 12 of Akuyaku Reijou nano de Last Boss wo Kattemimashita is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/af2fd7be4f358c34d3a977c08964202ac51a36521e7db0fa204f79a81aa6e6ab.jpg</snapshot>
 </item>
 
 </channel>
