@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Fumetsu no Anata e 2nd Season - Episode 8</title>
+    <link>https://animepahe.com/play/edf2fc52-022c-6cb8-97b3-e9304b5fdb20/2b5f2123f399e7ca5158263a1b6896cf4707f82047814ad42f3db3ede6432e0d</link>
+    <description>Episode 8 of Fumetsu no Anata e 2nd Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/00a19ea658fb77bf0fb03e3a9aa39b9077611f6a142162395b05c46a19dbb348.jpg</snapshot>
+</item>
+
+<item>
     <title>Kidou Senshi Gundam: Suisei no Majo - Episode 10</title>
     <link>https://animepahe.com/play/f9356f5d-0926-52ac-c186-01eac121c4c7/ee9a9dcfa00d95d3b97953af86afa1748916e9dbf93a7fd33bac0649e5c9a817</link>
     <description>Episode 10 of Kidou Senshi Gundam: Suisei no Majo is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 9 of 4-nin wa Sorezore Uso wo Tsuku is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/1a1d6de1acc41ad844b1cce17d26d0b5e66c08c52e673e8fe2a19dd7fdaf80fc.jpg</snapshot>
-</item>
-
-<item>
-    <title>Blue Lock - Episode 10</title>
-    <link>https://animepahe.com/play/84df4e07-3e2b-db8d-9c92-07031de6044b/aad4523d038faf3ab39e37db055bb216b1531b4dfa20943a8ee1042d15d875d5</link>
-    <description>Episode 10 of Blue Lock is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/7e851c27e14ba06c562bbe16227a838e398ede112acc096f87927ec175d6a315.jpg</snapshot>
 </item>
 
 </channel>
