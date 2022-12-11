@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Doraemon (1979) - Episode 8</title>
+    <link>https://animepahe.com/play/b1d772d1-712a-64b8-52b0-fbd9b5b5398d/54917b6c69421eedc311c077ecc0333a222a02cec78d9f021be3df21f5953603</link>
+    <description>Episode 8 of Doraemon (1979) is out!</description>
+    <fansub>Orange-Flash</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/d1ccefe80582397e701bb0164fe616bead9daeb6fcc6b6b8263c3b318bacb5f7.jpg</snapshot>
+</item>
+
+<item>
     <title>Naruto x UT - Episode 1</title>
     <link>https://animepahe.com/play/2062b176-6b57-66fc-ffba-5ecb723bd2a5/173b97a12afcbfbd3d1181168c6309ed5089e154b092a33a72a222abb559884f</link>
     <description>Episode 1 of Naruto x UT is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 25 of Utawarerumono: Futari no Hakuoro is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/a51357d5a79b01dfab01a429aa984092821355a3aedaa6accf381f5663f90cac.jpg</snapshot>
-</item>
-
-<item>
-    <title>Bocchi the Rock! - Episode 10</title>
-    <link>https://animepahe.com/play/f476cf04-feb9-d72c-b777-c0aa60a37a6f/e140e118d12ba5ebc7718f9fc0deae7a2b7c14899139bcdc7141b1a46d203967</link>
-    <description>Episode 10 of Bocchi the Rock! is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/eb91acfb2fd265abf6ae44cc0080cc78471786676dad1ce1b1191fb974b13717.jpg</snapshot>
 </item>
 
 </channel>
