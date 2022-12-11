@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Naruto x UT - Episode 1</title>
+    <link>https://animepahe.com/play/2062b176-6b57-66fc-ffba-5ecb723bd2a5/173b97a12afcbfbd3d1181168c6309ed5089e154b092a33a72a222abb559884f</link>
+    <description>Episode 1 of Naruto x UT is out!</description>
+    <fansub>Taka</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/1b0e3be6545f59f1db84a3cff9991a0af6a305c8e43945e3ed4c814a1e2d1fd7.jpg</snapshot>
+</item>
+
+<item>
     <title>The Daily Life of the Immortal King 3 - Episode 12</title>
     <link>https://animepahe.com/play/2d6a68af-d7c0-b7c9-876b-cd115d8bcacd/9b162c181eb5ba11d97bf880f7a2a4ccf56d5914f8e20d429f544e4644bf789b</link>
     <description>Episode 12 of The Daily Life of the Immortal King 3 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Bocchi the Rock! is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/eb91acfb2fd265abf6ae44cc0080cc78471786676dad1ce1b1191fb974b13717.jpg</snapshot>
-</item>
-
-<item>
-    <title>Koukyuu no Karasu - Episode 11</title>
-    <link>https://animepahe.com/play/a5b8b160-9cfd-05ab-95bf-2b0cb907618b/144fb25902ce4a0ff24d70a9d5dc8af2f24833338979d68e85cf19fa5f4a60f3</link>
-    <description>Episode 11 of Koukyuu no Karasu is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/f8e8136eb2d2265aead84d0c45a416b4cca55958637b34d553b8de6a4f296224.jpg</snapshot>
 </item>
 
 </channel>
