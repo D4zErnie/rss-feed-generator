@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Boruto: Naruto Next Generations - Episode 279</title>
+    <link>https://animepahe.com/play/43daac9e-7f24-b76a-c6f6-62c9d3cabb6d/58314bde4c854176a67a03ccad1dace7f0b049a9162b3ef7a6aee4a9cccf4b65</link>
+    <description>Episode 279 of Boruto: Naruto Next Generations is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/7239fd2a6733f50e94c00c50b2b12481eed0497f982aafbe9bbd0d025dfa7d39.jpg</snapshot>
+</item>
+
+<item>
     <title>Hunter x Hunter (2011) - Episode 148</title>
     <link>https://animepahe.com/play/1b40492c-8f90-a5fe-effb-35f2279ebcec/b040899b355cf36a131bcca92851f820cecd11ce4f78f284b942d94bb83a8918</link>
     <description>Episode 148 of Hunter x Hunter (2011) is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Poputepipikku 2nd Season is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/3e1c80d16e76af0765dd0ed76286da99da83d1448cee00376df1dd7434cc7a31.jpg</snapshot>
-</item>
-
-<item>
-    <title>Berserk: Ougon Jidai-hen - Memorial Edition - Episode 11</title>
-    <link>https://animepahe.com/play/a26d9c1c-5a9d-6da1-e39b-f24cb257bda0/6597e31b6d4c6853015b09e9f63bf59a9c95eae55c630855b5c45285a1d77236</link>
-    <description>Episode 11 of Berserk: Ougon Jidai-hen - Memorial Edition is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/ec9623ddb36444c7db82026060c9c1caf14417b54378a32202de0f359ab56050.jpg</snapshot>
 </item>
 
 </channel>
