@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>The Daily Life of the Immortal King 3 - Episode 12</title>
+    <link>https://animepahe.com/play/2d6a68af-d7c0-b7c9-876b-cd115d8bcacd/9b162c181eb5ba11d97bf880f7a2a4ccf56d5914f8e20d429f544e4644bf789b</link>
+    <description>Episode 12 of The Daily Life of the Immortal King 3 is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/1975a63bf54eb8f40890ac697be66e297abf76940d09f4e6fabe1a7f7525df61.jpg</snapshot>
+</item>
+
+<item>
     <title>Megaton-kyuu Musashi 2nd Season - Episode 20</title>
     <link>https://animepahe.com/play/65544b05-85de-a022-83a6-c3d70272c0a7/e457ee1219676603537dc28d3dd629e5090300a19f285be353b83c8889bb90b3</link>
     <description>Episode 20 of Megaton-kyuu Musashi 2nd Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Koukyuu no Karasu is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/f8e8136eb2d2265aead84d0c45a416b4cca55958637b34d553b8de6a4f296224.jpg</snapshot>
-</item>
-
-<item>
-    <title>Spy x Family Part 2 - Episode 23</title>
-    <link>https://animepahe.com/play/34445e4e-0f79-f118-a10f-0759a0b243d3/3327b53b268f65abfcce322373972dfaae085bbd3edfc02a01fe73e9e0abfa3f</link>
-    <description>Episode 23 of Spy x Family Part 2 is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/57ed9cc8bb6c6759c8ab9c37546d0009e0fe6dff04a6e0ae43ca31a044a84a4b.jpg</snapshot>
 </item>
 
 </channel>
