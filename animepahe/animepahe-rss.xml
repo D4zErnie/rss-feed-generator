@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kidou Senshi Gundam: Suisei no Majo - Episode 10</title>
+    <link>https://animepahe.com/play/f9356f5d-0926-52ac-c186-01eac121c4c7/ee9a9dcfa00d95d3b97953af86afa1748916e9dbf93a7fd33bac0649e5c9a817</link>
+    <description>Episode 10 of Kidou Senshi Gundam: Suisei no Majo is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/5d9cca4523ce06423d803697e929b3f0cdacde365738a1f1f2d3c2cc5729349b.jpg</snapshot>
+</item>
+
+<item>
     <title>Boruto: Naruto Next Generations - Episode 279</title>
     <link>https://animepahe.com/play/43daac9e-7f24-b76a-c6f6-62c9d3cabb6d/58314bde4c854176a67a03ccad1dace7f0b049a9162b3ef7a6aee4a9cccf4b65</link>
     <description>Episode 279 of Boruto: Naruto Next Generations is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Blue Lock is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/7e851c27e14ba06c562bbe16227a838e398ede112acc096f87927ec175d6a315.jpg</snapshot>
-</item>
-
-<item>
-    <title>Poputepipikku 2nd Season - Episode 11</title>
-    <link>https://animepahe.com/play/1bc20540-f675-b611-538f-768d472c82d3/a63bd0ebfa281b9d835d1399a13a94659958af10cc465dc87df50cdad0f4946d</link>
-    <description>Episode 11 of Poputepipikku 2nd Season is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/3e1c80d16e76af0765dd0ed76286da99da83d1448cee00376df1dd7434cc7a31.jpg</snapshot>
 </item>
 
 </channel>
