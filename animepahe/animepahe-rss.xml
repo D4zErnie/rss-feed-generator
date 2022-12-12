@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Cool Doji Danshi - Episode 10</title>
+    <link>https://animepahe.com/play/2f4d5d08-99a1-df94-2105-457f83e06955/7c81f8eec1a3089c044969d5c68287798839f9ea318f1a62edfe8660a58c507d</link>
+    <description>Episode 10 of Cool Doji Danshi is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/c055159da81ae72b173d38fa38fabfb3ed77861aea4e8d33b18d6057bfc6d75e.jpg</snapshot>
+</item>
+
+<item>
     <title>Bleach: Sennen Kessen-hen - Episode 10</title>
     <link>https://animepahe.com/play/dc4fc9fd-cbc6-4939-209a-876f0420cc56/b00c46c2ddd407519d221ce3d784e487bc3248611528960880493364e519e8f9</link>
     <description>Episode 10 of Bleach: Sennen Kessen-hen is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 2 of Yarichin☆Bitch-bu is out!</description>
     <fansub>izu</fansub>
     <snapshot>https://i.animepahe.com/snapshots/b48c3b7f10f64c19507fbb08b51749ec912a78e1f68268df1a40598146bdbe9a.jpg</snapshot>
-</item>
-
-<item>
-    <title>Peter Grill to Kenja no Jikan: Super Extra - Episode 10</title>
-    <link>https://animepahe.com/play/3a186361-e797-97f1-fff5-eb5a94164b15/b75590076e62322f5f54bf617bec5ced52448103bd956d50c60eef64f5b550c2</link>
-    <description>Episode 10 of Peter Grill to Kenja no Jikan: Super Extra is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/af5ac6c2f390ab96de1b44e6822df866c1d52eac08cd45ec546cef9e4ee84926.jpg</snapshot>
 </item>
 
 </channel>
