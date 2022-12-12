@@ -7,11 +7,43 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
-    <title>Sekaiichi Hatsukoi - Episode 5</title>
-    <link>https://animepahe.com/play/9fa53d66-d5b4-48d6-3aa7-3e7e3e3b14c4/fea7b7bb555a781178cac7ee2c69d39227141c547cddef60fc96661ff2977631</link>
-    <description>Episode 5 of Sekaiichi Hatsukoi is out!</description>
+    <title>Sekaiichi Hatsukoi: Propose-hen - Episode 1</title>
+    <link>https://animepahe.com/play/e19eeed7-5f10-dc56-86df-38525b2bf403/7998d86ecbe7026f7f3e149ba57de5f5e4725bda5cf3a8068c270c8e426613f2</link>
+    <description>Episode 1 of Sekaiichi Hatsukoi: Propose-hen is out!</description>
     <fansub>Anonymous</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/78b2d1eaeb6597bd6cde78251d0cc7e3f018ab7313753824bb4cb37fcb45b364.jpg</snapshot>
+    <snapshot>https://i.animepahe.com/snapshots/4710ec8580323167f6030b4f0007da0298f8171b7ff7f0056f73254b6654aa35.jpg</snapshot>
+</item>
+
+<item>
+    <title>Sekaiichi Hatsukoi 2 - Episode 12</title>
+    <link>https://animepahe.com/play/cff4df93-72f6-3d50-b10a-0f08c8bc37ea/d00bc839fa80d240d15d3a4b46c75d842de3b3b744f5ffe329a1a331b701ac99</link>
+    <description>Episode 12 of Sekaiichi Hatsukoi 2 is out!</description>
+    <fansub>Anonymous</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/33df0df09529ce5ff658fe492d0354851be1060b589f8b230524aee1b7d2efdf.jpg</snapshot>
+</item>
+
+<item>
+    <title>Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai - Episode 1</title>
+    <link>https://animepahe.com/play/29cc2af5-6f90-fd60-00bd-d394aeb5f7c9/e1654719b9d09dfe7f6ae53b7950a48a481e0db608c96a6d1ce2fbc5d5a6afb6</link>
+    <description>Episode 1 of Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai is out!</description>
+    <fansub>CH</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/6799a1c64a004c007e5de86a33feee4e8bbd429634b769b29b10efeaf55511fc.jpg</snapshot>
+</item>
+
+<item>
+    <title>Sekaiichi Hatsukoi OVA - Episode 12.5</title>
+    <link>https://animepahe.com/play/8a7b71b2-07d6-d91f-ca2e-77119f68cd31/8a0279c24148513474d9099e91a9cc2a1c66a4a54ff637d8b9243cab27fa5e94</link>
+    <description>Episode 12.5 of Sekaiichi Hatsukoi OVA is out!</description>
+    <fansub>Anonymous</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/14b27424bcdc5131864ff090aa73a56c30a2c433922835ea067fe05f3b716ae6.jpg</snapshot>
+</item>
+
+<item>
+    <title>Sekaiichi Hatsukoi - Episode 12</title>
+    <link>https://animepahe.com/play/9fa53d66-d5b4-48d6-3aa7-3e7e3e3b14c4/7af4e78573a9c2e5b6ddf0bd9a14e0c7340b6face9f63d0cce4f77ba81ce4f6e</link>
+    <description>Episode 12 of Sekaiichi Hatsukoi is out!</description>
+    <fansub>Anonymous</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/0bfc80396014df2a4a7a7c36adccd74100ec9da0cc6f41475fe91e3038e9e6f7.jpg</snapshot>
 </item>
 
 <item>
@@ -68,38 +100,6 @@
     <description>Episode 10 of Fuufu Ijou, Koibito Miman. is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/3499a1aa4a65afe9f8f00f3692710b047e1957b745809eac2270d3bca6c05d6c.jpg</snapshot>
-</item>
-
-<item>
-    <title>Fumetsu no Anata e 2nd Season - Episode 8</title>
-    <link>https://animepahe.com/play/916b757e-867b-09fb-c9ae-073815a82661/cdf66b34a5b26bb384570797248342b304395a0a4f8a8094600f7cd322e987af</link>
-    <description>Episode 8 of Fumetsu no Anata e 2nd Season is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/00a19ea658fb77bf0fb03e3a9aa39b9077611f6a142162395b05c46a19dbb348.jpg</snapshot>
-</item>
-
-<item>
-    <title>Kidou Senshi Gundam: Suisei no Majo - Episode 10</title>
-    <link>https://animepahe.com/play/82fbac02-068f-9228-cdd5-c92178f7632f/14746b0fe25ef01bb25f0ae2ac5e658ab6a4fb3d27a2b23d3db85616af795d05</link>
-    <description>Episode 10 of Kidou Senshi Gundam: Suisei no Majo is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/5d9cca4523ce06423d803697e929b3f0cdacde365738a1f1f2d3c2cc5729349b.jpg</snapshot>
-</item>
-
-<item>
-    <title>Hunter x Hunter (2011) - Episode 148</title>
-    <link>https://animepahe.com/play/c13d6c5c-bec7-d670-2e13-d79fbaa179c7/e789f10746fc7e53ebdbfa25013b4730898f4c0371e2cac83d91d4afb2117497</link>
-    <description>Episode 148 of Hunter x Hunter (2011) is out!</description>
-    <fansub>Vodes</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/567a2dd3fc1e0e36be4c8e470f840ea0db64dc59de17714306248471da764f17.jpg</snapshot>
-</item>
-
-<item>
-    <title>Doraemon (1979) - Episode 1601</title>
-    <link>https://animepahe.com/play/9b30a46b-ca05-9b99-68fc-942bf91da9e0/43422cdf0fd2a57769b51382d1d603bbb48deaffd146d6832d35b6319b6d52ba</link>
-    <description>Episode 1601 of Doraemon (1979) is out!</description>
-    <fansub>CanolaPetal</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/d5bf8252abe69f8f5361d6bc6450c84b6abf2fa61eae87950025859d048b4979.jpg</snapshot>
 </item>
 
 </channel>
