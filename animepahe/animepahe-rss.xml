@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Sekaiichi Hatsukoi - Episode 5</title>
+    <link>https://animepahe.com/play/9fa53d66-d5b4-48d6-3aa7-3e7e3e3b14c4/fea7b7bb555a781178cac7ee2c69d39227141c547cddef60fc96661ff2977631</link>
+    <description>Episode 5 of Sekaiichi Hatsukoi is out!</description>
+    <fansub>Anonymous</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/78b2d1eaeb6597bd6cde78251d0cc7e3f018ab7313753824bb4cb37fcb45b364.jpg</snapshot>
+</item>
+
+<item>
     <title>Yu☆Gi☆Oh!: Go Rush!! - Episode 37</title>
     <link>https://animepahe.com/play/db864cec-4b06-191f-da24-52acb1138066/0cf37623f2e1716ed51724ae69cabfa3a7806085c65e66848a37b72930d2a0e9</link>
     <description>Episode 37 of Yu☆Gi☆Oh!: Go Rush!! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1601 of Doraemon (1979) is out!</description>
     <fansub>CanolaPetal</fansub>
     <snapshot>https://i.animepahe.com/snapshots/d5bf8252abe69f8f5361d6bc6450c84b6abf2fa61eae87950025859d048b4979.jpg</snapshot>
-</item>
-
-<item>
-    <title>Naruto x UT - Episode 1</title>
-    <link>https://animepahe.com/play/cbc36994-0f10-4f05-e367-b6b6ec00478d/6cd4130ce82bbaa77c8c0fe94a8b225fbfc384e208708e3c1cd0d0bcdfcd641d</link>
-    <description>Episode 1 of Naruto x UT is out!</description>
-    <fansub>Taka</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/1b0e3be6545f59f1db84a3cff9991a0af6a305c8e43945e3ed4c814a1e2d1fd7.jpg</snapshot>
 </item>
 
 </channel>
