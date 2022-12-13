@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Shinobi no Ittoki - Episode 11</title>
+    <link>https://animepahe.com/play/6de18199-97ec-38b8-13f5-3236b3624997/914db41415c3d88ca6f1e7b2e8955459f8b53c6e83ca1ad70cda2bff7394e6e4</link>
+    <description>Episode 11 of Shinobi no Ittoki is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/e8e29d88e442b329bc22f09a4deb9ff5f03401967173d2bc65fd5ba63ad946df.jpg</snapshot>
+</item>
+
+<item>
     <title>Cool Doji Danshi - Episode 10</title>
     <link>https://animepahe.com/play/6deb26be-4d63-d20d-91fa-d59db90a58a4/b003bb553efc00834084a192f148632874ceec864bec1f5f220a0dc701f572fd</link>
     <description>Episode 10 of Cool Doji Danshi is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 279 of Boruto: Naruto Next Generations is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/7239fd2a6733f50e94c00c50b2b12481eed0497f982aafbe9bbd0d025dfa7d39.jpg</snapshot>
-</item>
-
-<item>
-    <title>Yarichin☆Bitch-bu - Episode 2</title>
-    <link>https://animepahe.com/play/1966f7a5-f5e3-b3b3-d097-db996b017eec/6a5ba3e6f0cfb14091717634bed909d093ffec6bd5967392954a71d6a591d395</link>
-    <description>Episode 2 of Yarichin☆Bitch-bu is out!</description>
-    <fansub>izu</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/b48c3b7f10f64c19507fbb08b51749ec912a78e1f68268df1a40598146bdbe9a.jpg</snapshot>
 </item>
 
 </channel>
