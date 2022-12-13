@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Yama no Susume: Next Summit - Episode 11</title>
+    <link>https://animepahe.com/play/8977449c-e5be-cc13-7c2b-ed537731b2c5/46f3104259bff4ceca0cd007ede684582c502f4de726d1d447f9f2283e3e80c3</link>
+    <description>Episode 11 of Yama no Susume: Next Summit is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/e52e8900856c8321bdcdb67ad3f392dca89bd807aa34bc75be8884825894d67f.jpg</snapshot>
+</item>
+
+<item>
     <title>Vazzrock The Animation - Episode 11</title>
     <link>https://animepahe.com/play/797ac3c3-4b62-c275-9775-3bb49169161d/ca52d1362f2a3739ed6791c4bb664bb3397ba922792899b950171c9e9b78de15</link>
     <description>Episode 11 of Vazzrock The Animation is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 37 of Yu☆Gi☆Oh! Go Rush!! is out!</description>
     <fansub>entameSubs</fansub>
     <snapshot>https://i.animepahe.com/snapshots/f0b7e9010130560a51be86129b071963e4d93746bcfdb1a64be9e73e3b4b4b0b.jpg</snapshot>
-</item>
-
-<item>
-    <title>Pui Pui Molcar: Driving School - Episode 10</title>
-    <link>https://animepahe.com/play/f4eda7c7-7e95-43eb-8c2a-7ef631a8c5da/d00d75b186ce97620592ae4a3c712e4390b78bf85ba72d56c46524110120ee50</link>
-    <description>Episode 10 of Pui Pui Molcar: Driving School is out!</description>
-    <fansub>MoyaiCars</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/f6e85eb17484eed14227677fc675a318cd13470a7b2cb5169c2356f37d6e1e64.jpg</snapshot>
 </item>
 
 </channel>
