@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Mob Psycho 100 III - Episode 11</title>
+    <link>https://animepahe.com/play/1ed9729e-f339-02c9-0b8c-402d47a014ff/5200215c8cde3de7ba6dafcd9d2009e42a3004fe570dbeaa1c85885f6da42b6a</link>
+    <description>Episode 11 of Mob Psycho 100 III is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/6c4111ffbca22df932051c65fcad20fb223e6f19c02165a45b2d8e58d1192725.jpg</snapshot>
+</item>
+
+<item>
     <title>Renai Flops - Episode 10</title>
     <link>https://animepahe.com/play/7002f51f-7aad-f2c0-8654-5f4d7404476e/46fc044787ac4e832052a6e491048bdeb959c5bb8b706c3b907962821d3d69a4</link>
     <description>Episode 10 of Renai Flops is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Cool Doji Danshi is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c055159da81ae72b173d38fa38fabfb3ed77861aea4e8d33b18d6057bfc6d75e.jpg</snapshot>
-</item>
-
-<item>
-    <title>Bleach: Sennen Kessen-hen - Episode 10</title>
-    <link>https://animepahe.com/play/68d41469-4f79-b684-dfa7-3560c59c2dbd/946f93f164122ffdc5f7e9d3d42f1bf1e8a25ae3ac5550dc2ce0273be08c3d40</link>
-    <description>Episode 10 of Bleach: Sennen Kessen-hen is out!</description>
-    <fansub>Disney_Plus</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/442dca48a95c590785e9358214e43aeceab05c4c2e21add6b23f3a68e052b760.jpg</snapshot>
 </item>
 
 </channel>
