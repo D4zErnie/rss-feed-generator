@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Renai Flops - Episode 10</title>
+    <link>https://animepahe.com/play/7002f51f-7aad-f2c0-8654-5f4d7404476e/46fc044787ac4e832052a6e491048bdeb959c5bb8b706c3b907962821d3d69a4</link>
+    <description>Episode 10 of Renai Flops is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/7ece87d1858e1856c98d577ecd1745dd6732ea9cbc856e823e8673a7a8031257.jpg</snapshot>
+</item>
+
+<item>
     <title>Kage no Jitsuryokusha ni Naritakute! - Episode 11</title>
     <link>https://animepahe.com/play/bba92334-d4b3-26af-bc91-1d68c66f7774/83a136573a55a2107e9febea0ddfb7d3dc3274d56eeb2d5bf62cc36ad740f243</link>
     <description>Episode 11 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Bleach: Sennen Kessen-hen is out!</description>
     <fansub>Disney_Plus</fansub>
     <snapshot>https://i.animepahe.com/snapshots/442dca48a95c590785e9358214e43aeceab05c4c2e21add6b23f3a68e052b760.jpg</snapshot>
-</item>
-
-<item>
-    <title>Shinmai Renkinjutsushi no Tenpo Keiei - Episode 11</title>
-    <link>https://animepahe.com/play/46e61ac7-b82c-e88e-8e5f-861134a06717/1195eed65b4bed1a97d7f6d2461da917a010eca5bdb7b382c26c01ba2ad07d3d</link>
-    <description>Episode 11 of Shinmai Renkinjutsushi no Tenpo Keiei is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/b644b0a0fe4ba1754508a26ac58ec3852411bedcc58a1c69d1405939c2d173e8.jpg</snapshot>
 </item>
 
 </channel>
