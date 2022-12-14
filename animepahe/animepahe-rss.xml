@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kage no Jitsuryokusha ni Naritakute! - Episode 11</title>
+    <link>https://animepahe.com/play/bba92334-d4b3-26af-bc91-1d68c66f7774/83a136573a55a2107e9febea0ddfb7d3dc3274d56eeb2d5bf62cc36ad740f243</link>
+    <description>Episode 11 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/155602ba5af4079fc3aeb151a4e74efdcc9e799578d739704fa4780f25c26b31.jpg</snapshot>
+</item>
+
+<item>
     <title>Human Bug Daigaku - Episode 11</title>
     <link>https://animepahe.com/play/3838dd2c-05dc-9d0e-f200-3a577dc5f821/c4fca1986549b6b5381a8ee79fcfb53da53d2a87e28bdce2b56f6d09a271b915</link>
     <description>Episode 11 of Human Bug Daigaku is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Shinmai Renkinjutsushi no Tenpo Keiei is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/b644b0a0fe4ba1754508a26ac58ec3852411bedcc58a1c69d1405939c2d173e8.jpg</snapshot>
-</item>
-
-<item>
-    <title>Sekaiichi Hatsukoi: Propose-hen - Episode 1</title>
-    <link>https://animepahe.com/play/215132c2-6149-3cdb-07ce-0d216c49df22/d7a6d6d0e96448f0796620609186caf27076342fe68198011e99cebdf754b26d</link>
-    <description>Episode 1 of Sekaiichi Hatsukoi: Propose-hen is out!</description>
-    <fansub>Anonymous</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/4710ec8580323167f6030b4f0007da0298f8171b7ff7f0056f73254b6654aa35.jpg</snapshot>
 </item>
 
 </channel>
