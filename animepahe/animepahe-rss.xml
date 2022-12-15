@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Mushikaburi-hime - Episode 11</title>
+    <link>https://animepahe.com/play/8d0413e3-02c1-d799-72c8-1264cac4277f/c99e3c894902708e0ad019069cc573047e4c93dce07da50126c4bdef3896bc92</link>
+    <description>Episode 11 of Mushikaburi-hime is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/e2c54b83881e5b660f31f63346ef150520ab98e6c84a272da819fe428cd6b23c.jpg</snapshot>
+</item>
+
+<item>
     <title>JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3 - Episode 38</title>
     <link>https://animepahe.com/play/41a093e6-f88f-a1bf-c860-897d477d0cfc/c66caa6957b187cb84351a6486668a26db7962dc6bfbdd4f195063c04c798f4e</link>
     <description>Episode 38 of JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Chainsaw Man is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/3621cbde7291bb61de7e35b390e85270a3d58c64d194f26eec45a0d50dcf0c16.jpg</snapshot>
-</item>
-
-<item>
-    <title>Yama no Susume: Next Summit - Episode 11</title>
-    <link>https://animepahe.com/play/e2d94cab-a521-21d0-8ca9-97bfc3809a83/861fc6b705df353416191f1bd2f64282b3cb78b7d80355da9cc6b7a207366bff</link>
-    <description>Episode 11 of Yama no Susume: Next Summit is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/e52e8900856c8321bdcdb67ad3f392dca89bd807aa34bc75be8884825894d67f.jpg</snapshot>
 </item>
 
 </channel>
