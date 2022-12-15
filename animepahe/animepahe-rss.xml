@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Akiba Meido Sensou - Episode 11</title>
+    <link>https://animepahe.com/play/6ffa8074-97f8-24f1-2bb7-31c60fd2e197/3abf6ddb3c3684cd5071d2a6a482e16f4f578c8363e18572c7b1c8538042af8f</link>
+    <description>Episode 11 of Akiba Meido Sensou is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/1d1833632d2dcc998884fb92db5f48eceb9ab697ff54ce17fc8ecc49185043d3.jpg</snapshot>
+</item>
+
+<item>
     <title>Mushikaburi-hime - Episode 11</title>
     <link>https://animepahe.com/play/8d0413e3-02c1-d799-72c8-1264cac4277f/c99e3c894902708e0ad019069cc573047e4c93dce07da50126c4bdef3896bc92</link>
     <description>Episode 11 of Mushikaburi-hime is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Isekai Ojisan is out!</description>
     <fansub>SubsWhen</fansub>
     <snapshot>https://i.animepahe.com/snapshots/ee8969216d3eec034a0c07cbaeff7737a48644f8974d0d598e87b3034c66bfca.jpg</snapshot>
-</item>
-
-<item>
-    <title>Chainsaw Man - Episode 10</title>
-    <link>https://animepahe.com/play/d3cee65e-1c69-c32f-0779-48f1d8f7673d/2bea5ddc3098135b58f646cc393a1afb5f877220e71195aa4c3e5edaad1b459f</link>
-    <description>Episode 10 of Chainsaw Man is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/3621cbde7291bb61de7e35b390e85270a3d58c64d194f26eec45a0d50dcf0c16.jpg</snapshot>
 </item>
 
 </channel>
