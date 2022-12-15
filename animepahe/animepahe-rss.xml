@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>KanColle: Itsuka Ano Umi de - Episode 4</title>
+    <link>https://animepahe.com/play/9598db68-2f3a-4a14-51f0-2dc472a6f60b/cc7e1bd43d975c0cad3f0ac2ab3872077eb7cffcf6cce640c8b777bbad65ff91</link>
+    <description>Episode 4 of KanColle: Itsuka Ano Umi de is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/4cb38c44ba4c67be35f31122c67e16c62efe5a952f8df445f82fcbd1f07febe4.jpg</snapshot>
+</item>
+
+<item>
     <title>Akiba Meido Sensou - Episode 11</title>
     <link>https://animepahe.com/play/6ffa8074-97f8-24f1-2bb7-31c60fd2e197/3abf6ddb3c3684cd5071d2a6a482e16f4f578c8363e18572c7b1c8538042af8f</link>
     <description>Episode 11 of Akiba Meido Sensou is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 3 of Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c443c00d7273f27f0d6559a22abb0b46b0fc30b176a5cc4f2cc56dd094dbb7eb.jpg</snapshot>
-</item>
-
-<item>
-    <title>Isekai Ojisan - Episode 10</title>
-    <link>https://animepahe.com/play/805b452f-ab38-ec9a-eb50-a3b7ec5c8ba5/cbe072f911c115f274e632cf70c740402ec2b5dafc9a8a54a70b775dd8ce8d35</link>
-    <description>Episode 10 of Isekai Ojisan is out!</description>
-    <fansub>SubsWhen</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/ee8969216d3eec034a0c07cbaeff7737a48644f8974d0d598e87b3034c66bfca.jpg</snapshot>
 </item>
 
 </channel>
