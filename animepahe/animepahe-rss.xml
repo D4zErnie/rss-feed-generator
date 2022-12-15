@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Urusei Yatsura (2022) - Episode 10</title>
+    <link>https://animepahe.com/play/d278b04f-04a0-c018-2db2-ac0c2b28eec4/5f68c4de30895141ef2e4e7fd4a3c974a87fa9a2916bca42175c3c3bcb5bd0ec</link>
+    <description>Episode 10 of Urusei Yatsura (2022) is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/8f353d4e84282a8a9e2e6bc8b32349292d3888a98b4dfec50900d5458c39226e.jpg</snapshot>
+</item>
+
+<item>
     <title>KanColle: Itsuka Ano Umi de - Episode 4</title>
     <link>https://animepahe.com/play/9598db68-2f3a-4a14-51f0-2dc472a6f60b/cc7e1bd43d975c0cad3f0ac2ab3872077eb7cffcf6cce640c8b777bbad65ff91</link>
     <description>Episode 4 of KanColle: Itsuka Ano Umi de is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Tensei shitara Ken Deshita is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c84003e97472c7c57249027f291b756592df78a536c2a3004564c7586209fed5.jpg</snapshot>
-</item>
-
-<item>
-    <title>Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi - Episode 3</title>
-    <link>https://animepahe.com/play/5b5d0cbe-76f3-b63d-2e21-c7220939b2ab/44035ae6461331cc36f6fb23e68f9821c7285a160112c7c13db19fa4f58d7712</link>
-    <description>Episode 3 of Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/c443c00d7273f27f0d6559a22abb0b46b0fc30b176a5cc4f2cc56dd094dbb7eb.jpg</snapshot>
 </item>
 
 </channel>
