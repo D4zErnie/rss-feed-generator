@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Seiken Densetsu: Legend of Mana - The Teardrop Crystal - Episode 11</title>
+    <link>https://animepahe.com/play/35bd2705-f08f-4fc8-4ca5-f8110d59c17c/77582e79d6aa2d56b21309e130b6461e39a39630201ad7c7aecc728d7c809e09</link>
+    <description>Episode 11 of Seiken Densetsu: Legend of Mana - The Teardrop Crystal is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/b94b63e77ed2f499d539533901eb0f4d5495fda7fdb4a4c744f4289d37bdcaee.jpg</snapshot>
+</item>
+
+<item>
     <title>Obey Me! Season 2 - Episode 11</title>
     <link>https://animepahe.com/play/1bba9bc2-5010-160a-9176-0a0196bd66c7/3df3486e8d1a9ca97759c985ac364a775f3fec7fde3b974b47e9d891c398d97d</link>
     <description>Episode 11 of Obey Me! Season 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Akiba Meido Sensou is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/1d1833632d2dcc998884fb92db5f48eceb9ab697ff54ce17fc8ecc49185043d3.jpg</snapshot>
-</item>
-
-<item>
-    <title>Mushikaburi-hime - Episode 11</title>
-    <link>https://animepahe.com/play/9b6150cb-cc06-6544-b18d-17f7b0d2d67f/e275f7c1034051ec8773f7cf62e2118dcf83e39ed9a7c4544395db2eccd34291</link>
-    <description>Episode 11 of Mushikaburi-hime is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/e2c54b83881e5b660f31f63346ef150520ab98e6c84a272da819fe428cd6b23c.jpg</snapshot>
 </item>
 
 </channel>
