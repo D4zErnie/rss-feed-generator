@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pokemon (2019) - Episode 136</title>
+    <link>https://animepahe.com/play/bc6d07e2-1456-5d9c-e002-df65f69bb8cd/0f15084ea0faf871b867829bc6e1887e6e52a5760648594e44e1747ac3c609c0</link>
+    <description>Episode 136 of Pokemon (2019) is out!</description>
+    <fansub>Some-Stuffs</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/2b08d6992d09855e76f12c27e856706b65a5c817a5c09c8b295ec2e0d4339699.jpg</snapshot>
+</item>
+
+<item>
     <title>Hoshi no Samidare - Episode 23</title>
     <link>https://animepahe.com/play/6b10b52e-b184-2123-63cf-c87ae6ff69aa/de4abf40dbbce8e6fa39b72c423156d65df7483638b504c293e73fdfd8239af5</link>
     <description>Episode 23 of Hoshi no Samidare is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Urusei Yatsura (2022) is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/8f353d4e84282a8a9e2e6bc8b32349292d3888a98b4dfec50900d5458c39226e.jpg</snapshot>
-</item>
-
-<item>
-    <title>KanColle: Itsuka Ano Umi de - Episode 4</title>
-    <link>https://animepahe.com/play/179d87b5-7d3c-010c-0544-349ce1b31d23/0e99d64f08395986bcdef6ab93f30e3498d344d2b92e40f4e5093c2cf59ac711</link>
-    <description>Episode 4 of KanColle: Itsuka Ano Umi de is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/4cb38c44ba4c67be35f31122c67e16c62efe5a952f8df445f82fcbd1f07febe4.jpg</snapshot>
 </item>
 
 </channel>
