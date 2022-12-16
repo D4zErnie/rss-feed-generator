@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Arknights: Reimei Zensou - Episode 8</title>
+    <link>https://animepahe.com/play/ccb6a49f-272e-6fbf-f2e2-e8260b880c18/481f1aef0746a0865220c0d35b25d6485eccbd5915a423da718db84224a67121</link>
+    <description>Episode 8 of Arknights: Reimei Zensou is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/9e97e065e31f66bd0edf3835403f868fd08d7c719edf9e97462b11e55cefa1c8.jpg</snapshot>
+</item>
+
+<item>
     <title>All Saints Street 3 - Episode 7</title>
     <link>https://animepahe.com/play/70820cb1-82ee-8def-6750-75d48b1b07a9/09efbf94b49fb4f114db5448f272dee8dbbf85cf33f43859f7bb2060c1707541</link>
     <description>Episode 7 of All Saints Street 3 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 38 of JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3 is out!</description>
     <fansub>Netflix</fansub>
     <snapshot>https://i.animepahe.com/snapshots/a70c3f81e1623c3adb738723392156ea152b30b42bba5d28446def8c61088369.jpg</snapshot>
-</item>
-
-<item>
-    <title>Muv-Luv Alternative 2nd Season - Episode 23</title>
-    <link>https://animepahe.com/play/fc1a2649-7282-2bbb-888d-f577efb1a64f/a5b08ff437d13421ad1b4eaeb9d2d3fb20882fb5e5b316745c991614043433c8</link>
-    <description>Episode 23 of Muv-Luv Alternative 2nd Season is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/faf5c67496ec36f07675136160a726facc3003807b5da5016833fd9d66707c5e.jpg</snapshot>
 </item>
 
 </channel>
