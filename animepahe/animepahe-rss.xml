@@ -7,6 +7,30 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Koukyoushihen Eureka Seven Hi-Evolution 3: Eureka - Episode 1</title>
+    <link>https://animepahe.com/play/492ce80c-d934-092b-ee31-edf46fd6bf01/7b8f568184e54c1f9c9e4150b4e801d80faff6535290663822ee8469e9c75152</link>
+    <description>Episode 1 of Koukyoushihen Eureka Seven Hi-Evolution 3: Eureka is out!</description>
+    <fansub>Fix-Fontsizecolor</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/c43c28e79ddc755275c2fbce089ee8b934d43b9d54d71f062c7be0b999f0e796.jpg</snapshot>
+</item>
+
+<item>
+    <title>Nisekoi: - Episode 12</title>
+    <link>https://animepahe.com/play/6a6869d6-69cb-45a4-098c-858bf31eb27e/91f0d3abbd4a3a85c428373a0c35633d35dd4a6dd262669b3dea63461413d815</link>
+    <description>Episode 12 of Nisekoi: is out!</description>
+    <fansub>Commie</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/c1a7ad1eaee5436df1e2afdededd493fad95555f630c600216bc96acadb825a4.jpg</snapshot>
+</item>
+
+<item>
+    <title>Nisekoi - Episode 20</title>
+    <link>https://animepahe.com/play/b595b504-6e35-fea0-3b98-a7cb6428e7c9/31f146b7f2efa8da224a16e390b0177572058cb555f66fc0f98ad1538a1b25ea</link>
+    <description>Episode 20 of Nisekoi is out!</description>
+    <fansub>Commie</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/9db30f7f87491fdc2de54aaa4e7118008bea3822b1bfe5a905ae951abfbb9e1d.jpg</snapshot>
+</item>
+
+<item>
     <title>Ginga Eiyuu Densetsu: Die Neue These - Sakubou - Episode 48</title>
     <link>https://animepahe.com/play/40d6ab4c-1b31-6518-c56a-363ee694912e/63fa1ae4e966225e2897ae97da1b2bfc5c95efb3c669569fab9124a2a6105447</link>
     <description>Episode 48 of Ginga Eiyuu Densetsu: Die Neue These - Sakubou is out!</description>
@@ -76,30 +100,6 @@
     <description>Episode 11 of Mob Psycho 100 III is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/6c4111ffbca22df932051c65fcad20fb223e6f19c02165a45b2d8e58d1192725.jpg</snapshot>
-</item>
-
-<item>
-    <title>Renai Flops - Episode 10</title>
-    <link>https://animepahe.com/play/654621a2-b0c7-820e-3abc-389274e2fb49/ef6701782cc2b949015b4909d04339cd0125767cfb1f35be46c1d3a867f7539f</link>
-    <description>Episode 10 of Renai Flops is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/7ece87d1858e1856c98d577ecd1745dd6732ea9cbc856e823e8673a7a8031257.jpg</snapshot>
-</item>
-
-<item>
-    <title>Kage no Jitsuryokusha ni Naritakute! - Episode 11</title>
-    <link>https://animepahe.com/play/c6ed1e77-08f9-1664-eac3-0a692c594236/9ce28c8c86aa3f41fb7f65077643931f6432eb77d8c824d8740363b9ecb717ef</link>
-    <description>Episode 11 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/155602ba5af4079fc3aeb151a4e74efdcc9e799578d739704fa4780f25c26b31.jpg</snapshot>
-</item>
-
-<item>
-    <title>Human Bug Daigaku - Episode 11</title>
-    <link>https://animepahe.com/play/60b7b7a8-e738-292e-dd83-5ec63bd32fdf/c78077a26cee415a88b32e752c6a0f264d6c872f66ced298ada6eef84a83092e</link>
-    <description>Episode 11 of Human Bug Daigaku is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/eb1d38d968ad6347d72001db05bdc12566e65ac31b5b4dd4dd508b399b9ace83.jpg</snapshot>
 </item>
 
 </channel>
