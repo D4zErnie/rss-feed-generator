@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Chiikawa - Episode 36</title>
+    <link>https://animepahe.com/play/405af33f-e1f5-07bd-c6d8-8d41f28546f1/505e608972d21ab68c9d550d0b790dc474d638071e5f977d372c02e96347e966</link>
+    <description>Episode 36 of Chiikawa is out!</description>
+    <fansub>OdesaSubs</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/c1a083993598f392e7ca48f9eb3c1a74da5bce49b15aa1e422285282242a763b.jpg</snapshot>
+</item>
+
+<item>
     <title>4-nin wa Sorezore Uso wo Tsuku - Episode 10</title>
     <link>https://animepahe.com/play/14559d02-c4e6-74c4-1567-4d91166f98ae/d5019c3e69ccd82d019368665bd544516e4df332167fd58bebe4510a319bc847</link>
     <description>Episode 10 of 4-nin wa Sorezore Uso wo Tsuku is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of The Sky Crawlers is out!</description>
     <fansub>3xR</fansub>
     <snapshot>https://i.animepahe.com/snapshots/f8fd83a2c1ab84d3624aa3988b5cc510df4682cedb81651cf6f951318d34b274.jpg</snapshot>
-</item>
-
-<item>
-    <title>Lupin Zero - Episode 2</title>
-    <link>https://animepahe.com/play/e27bdaf4-1c42-12fa-44df-e586698b4aa9/c56a7733ad08b3848cb017f89b4d6ff0f525d29ee9f1ef5aa8d4feba4d4f9cf9</link>
-    <description>Episode 2 of Lupin Zero is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/9e72c15ef8df1319ee73988e7b465edd71e8f9885597dad6e0fa7354655167b7.jpg</snapshot>
 </item>
 
 </channel>
