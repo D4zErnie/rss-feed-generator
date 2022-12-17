@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Yowamushi Pedal: Limit Break - Episode 9</title>
+    <link>https://animepahe.com/play/09dc8a2c-72c4-6471-667f-789fe9cdb287/f22ff0cfb6b484cdbc70f4e5e45f41497be04e95c47ad11490a4be4271b6a451</link>
+    <description>Episode 9 of Yowamushi Pedal: Limit Break is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/c86655dc62c4e2682cd6ea12461988403d4dfa63d132ff2b90a2a4e82f0f017e.jpg</snapshot>
+</item>
+
+<item>
     <title>Blue Lock - Episode 11</title>
     <link>https://animepahe.com/play/95f3a3c5-a21f-9545-d49f-0977d0c358a7/00f64df3ca8269d745cb6270d17bc867ae31c8cfc72f662e6fb0990fa4f37958</link>
     <description>Episode 11 of Blue Lock is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Uzaki-chan wa Asobitai! Double is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/e38528fb2ac5a6549062dab0e329ceb037e1930c8d1843398e8b170c5ee6d473.jpg</snapshot>
-</item>
-
-<item>
-    <title>Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. - Episode 12</title>
-    <link>https://animepahe.com/play/fd9cba23-733b-af9c-40f7-1385cb63d1a3/50592b0c033aeb78fe76eeecb0f3944b35c86b302e5aa9cbb9784ea68988de97</link>
-    <description>Episode 12 of Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/da7c90d6c54603df93bd0017d90e16c2da0a6ea14884c80cdecb175dd413439f.jpg</snapshot>
 </item>
 
 </channel>
