@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Bocchi the Rock! - Episode 11</title>
+    <link>https://animepahe.com/play/bcf22499-440d-3b55-4730-13409628bbbf/39e5afa0f71eeddb889cb03b9ad1c5fcd0a51cb694047ae47fef0c053c9479a7</link>
+    <description>Episode 11 of Bocchi the Rock! is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/980c1da5924c74e9003f8dd9935859c71002a1211d674f57c224e85dd0ef3431.jpg</snapshot>
+</item>
+
+<item>
     <title>Koukyuu no Karasu - Episode 12</title>
     <link>https://animepahe.com/play/24e0b494-d98d-e28d-ad7b-159fec994582/457e0dea3234269ca4764220425aa5cbed84cca1b8399d5b079028c610494d87</link>
     <description>Episode 12 of Koukyuu no Karasu is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 5 of Bureau of Paranormal Investigation is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/28215485934a01b71230858b14c10945ba7f45a90e841b727c0fe67685a791ed.jpg</snapshot>
-</item>
-
-<item>
-    <title>Pokemon (2019) - Episode 136</title>
-    <link>https://animepahe.com/play/b4dfb027-5951-8bbd-02a1-5de64f6a1a47/3fe21aabe8906f5de8b5630d2eb9abf516f3c913d1e7aee0535db26800634a33</link>
-    <description>Episode 136 of Pokemon (2019) is out!</description>
-    <fansub>Some-Stuffs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/2b08d6992d09855e76f12c27e856706b65a5c817a5c09c8b295ec2e0d4339699.jpg</snapshot>
 </item>
 
 </channel>
