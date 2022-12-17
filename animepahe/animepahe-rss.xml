@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Mairimashita! Iruma-kun 3rd Season - Episode 11</title>
+    <link>https://animepahe.com/play/ba5bf49c-1568-cf71-0ce1-e98e762f2b47/3ca2c9ec6a124e61278b337cdb650ff22f8050301e71e17535754d75643676d0</link>
+    <description>Episode 11 of Mairimashita! Iruma-kun 3rd Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/bc47d36cf73351b778d925ff84257f89c3823ae1b444391b1c8cc5a9da126b32.jpg</snapshot>
+</item>
+
+<item>
     <title>Boku no Hero Academia 6th Season - Episode 125</title>
     <link>https://animepahe.com/play/0ef7970e-ccd2-7f94-0a26-30a5dd7c676d/baf975c41a3e2bdbac657182f25918d38132e8a65c245ebb22cd7f01bb75100f</link>
     <description>Episode 125 of Boku no Hero Academia 6th Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Koukyoushihen Eureka Seven Hi-Evolution 3: Eureka is out!</description>
     <fansub>Fix-Fontsizecolor</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c43c28e79ddc755275c2fbce089ee8b934d43b9d54d71f062c7be0b999f0e796.jpg</snapshot>
-</item>
-
-<item>
-    <title>Nisekoi: - Episode 12</title>
-    <link>https://animepahe.com/play/d04188ee-0c6a-bf27-4885-6b4308565a96/51ef84d16561d68be01b7a54f742e521a62552a86228726a53040ed33c1f99fe</link>
-    <description>Episode 12 of Nisekoi: is out!</description>
-    <fansub>Commie</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/c1a7ad1eaee5436df1e2afdededd493fad95555f630c600216bc96acadb825a4.jpg</snapshot>
 </item>
 
 </channel>
