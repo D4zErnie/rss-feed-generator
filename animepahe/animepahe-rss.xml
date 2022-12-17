@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Uzaki-chan wa Asobitai! Double - Episode 12</title>
+    <link>https://animepahe.com/play/a5cadb18-57fd-eac5-0193-5e2c38094e8b/63dfbed04580966f4b8527c39e6af0ae4eafb9cc64ce11d605c76d5cc249bda0</link>
+    <description>Episode 12 of Uzaki-chan wa Asobitai! Double is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/e38528fb2ac5a6549062dab0e329ceb037e1930c8d1843398e8b170c5ee6d473.jpg</snapshot>
+</item>
+
+<item>
     <title>Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. - Episode 12</title>
     <link>https://animepahe.com/play/fd9cba23-733b-af9c-40f7-1385cb63d1a3/50592b0c033aeb78fe76eeecb0f3944b35c86b302e5aa9cbb9784ea68988de97</link>
     <description>Episode 12 of Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta. is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 7 of All Saints Street 3 is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/8e03f0a22a1cf22e8372c12d3d0493364bff24d7495a7691c6fe1e680575bf1d.jpg</snapshot>
-</item>
-
-<item>
-    <title>Uchi no Shishou wa Shippo ga Nai - Episode 12</title>
-    <link>https://animepahe.com/play/d32b3a64-71b0-296f-9629-6a4757248aa0/9275a30312d9c75bbcf431b9a2a6f73ea0d8f5f41dac427d0f7696f26dea17f0</link>
-    <description>Episode 12 of Uchi no Shishou wa Shippo ga Nai is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/49ee50b24b562d769dcad5ead2ce3bbc0e86c3ae05e504c9b05bf944ad8db364.jpg</snapshot>
 </item>
 
 </channel>
