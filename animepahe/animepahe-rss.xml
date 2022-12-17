@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Koukyuu no Karasu - Episode 12</title>
+    <link>https://animepahe.com/play/24e0b494-d98d-e28d-ad7b-159fec994582/457e0dea3234269ca4764220425aa5cbed84cca1b8399d5b079028c610494d87</link>
+    <description>Episode 12 of Koukyuu no Karasu is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/e919fb054148a5c39732c0307572b88a3eb505510a56fe66d69b792a3ddec7d3.jpg</snapshot>
+</item>
+
+<item>
     <title>Spy x Family Part 2 - Episode 24</title>
     <link>https://animepahe.com/play/4983bb70-ebcc-0389-225d-5a6c73f52a22/a13429c2c2b2d227edda4f9b71847b9bdcecd1319d298c5b5979194a468106de</link>
     <description>Episode 24 of Spy x Family Part 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 136 of Pokemon (2019) is out!</description>
     <fansub>Some-Stuffs</fansub>
     <snapshot>https://i.animepahe.com/snapshots/2b08d6992d09855e76f12c27e856706b65a5c817a5c09c8b295ec2e0d4339699.jpg</snapshot>
-</item>
-
-<item>
-    <title>Hoshi no Samidare - Episode 23</title>
-    <link>https://animepahe.com/play/ac4dea71-8d80-3c86-992b-27132201e53a/f4a701c1961a31a609bc9112f69b4f62849ab177cb0f4201f42d4229649d0d70</link>
-    <description>Episode 23 of Hoshi no Samidare is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/bd10317fff30463505c05d6fa34ef419ab979a196f9d67b00e536efb46287632.jpg</snapshot>
 </item>
 
 </channel>
