@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Yu☆Gi☆Oh! Go Rush!! - Episode 38</title>
+    <link>https://animepahe.com/play/cadf6cd2-5cca-1aef-121b-5bffbe1afd08/ee400dbb66f047666a4bca89a1d2f8465323643c34f0eb217bedefbd22d0ad8c</link>
+    <description>Episode 38 of Yu☆Gi☆Oh! Go Rush!! is out!</description>
+    <fansub>entameSubs</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/5e78690419996bc502fdd6f7f52f2c64616814fd9835c5d14333b66db5d12a9a.jpg</snapshot>
+</item>
+
+<item>
     <title>Peter Grill to Kenja no Jikan: Super Extra - Episode 11</title>
     <link>https://animepahe.com/play/b97f036c-33ba-3a1d-4f32-fa0dc82ffc69/497c2583943f32d0c57402622f071c4083d3c792c01e1edaa54d1f4ed7be4483</link>
     <description>Episode 11 of Peter Grill to Kenja no Jikan: Super Extra is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of 4-nin wa Sorezore Uso wo Tsuku is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/a9ac331f93aeaff3f5c1ed81c4aa3ee92be26953ec02d1bd9fe0c5ced7ce7306.jpg</snapshot>
-</item>
-
-<item>
-    <title>Yowamushi Pedal: Limit Break - Episode 9</title>
-    <link>https://animepahe.com/play/533c14bd-7571-1d38-1d06-889101b21030/151a56e170a7c379838bf0aff789f144d4c31b9754d647b1223698674f1a3ce1</link>
-    <description>Episode 9 of Yowamushi Pedal: Limit Break is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/c86655dc62c4e2682cd6ea12461988403d4dfa63d132ff2b90a2a4e82f0f017e.jpg</snapshot>
 </item>
 
 </channel>
