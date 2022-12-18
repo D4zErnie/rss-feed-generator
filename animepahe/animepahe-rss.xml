@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Digimon Ghost Game - Episode 56</title>
+    <link>https://animepahe.com/play/a431c22e-5798-1810-e0f3-04f61b305a87/5c60abb4470af622229ebc3851ea43b1190fa712818a843812c09d0b60e44a97</link>
+    <description>Episode 56 of Digimon Ghost Game is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/96f5d66893eb3dd1f89c3b40cfa75e696934bfad350f16be5a49e502ccf74c9c.jpg</snapshot>
+</item>
+
+<item>
     <title>One Piece - Episode 1045</title>
     <link>https://animepahe.com/play/6f753137-6244-935e-67d7-9da4bffc4a6a/067ef840bcc8ac87712332c385799f5e361c9c34c6cb6ff3d95024efb4a4c676</link>
     <description>Episode 1045 of One Piece is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Koukyuu no Karasu is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/e919fb054148a5c39732c0307572b88a3eb505510a56fe66d69b792a3ddec7d3.jpg</snapshot>
-</item>
-
-<item>
-    <title>Spy x Family Part 2 - Episode 24</title>
-    <link>https://animepahe.com/play/adfd2422-37cb-6e2d-f98a-404bfe7bc8f2/694b4c550750feceb87b5324059466bfa19c6c0d6046cafea263c5b3d0dafaf8</link>
-    <description>Episode 24 of Spy x Family Part 2 is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/fbc6ccc6ab7fd883ba23f0a9a6117d9fd311b9b7cea06f3ff8c80c094a013d1b.jpg</snapshot>
 </item>
 
 </channel>
