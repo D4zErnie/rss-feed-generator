@@ -7,6 +7,22 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>One Piece - Episode 1045</title>
+    <link>https://animepahe.com/play/6f753137-6244-935e-67d7-9da4bffc4a6a/067ef840bcc8ac87712332c385799f5e361c9c34c6cb6ff3d95024efb4a4c676</link>
+    <description>Episode 1045 of One Piece is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/c2e8ee182661af612c5be86f1a1ee232cd4b26930bab39f011141d2acf8a9c55.jpg</snapshot>
+</item>
+
+<item>
+    <title>Delicious Party♡Precure - Episode 40</title>
+    <link>https://animepahe.com/play/5e39a623-e4ca-bb69-da9f-f3fb9868c5f0/12488577fb245810974052a62bda30f387eed057989483487cba64be78e961d9</link>
+    <description>Episode 40 of Delicious Party♡Precure is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/b6adb0d537d992c1119d7adfecd6f4903ef702834b68b7e260ee1189cc145dd4.jpg</snapshot>
+</item>
+
+<item>
     <title>Chiikawa - Episode 37</title>
     <link>https://animepahe.com/play/df80642b-104e-03cb-03ca-4549c3f21a20/4c2318c367feee3154713b637ba4a929331bd81daf0cfca23b0b2926ef1e4e6e</link>
     <description>Episode 37 of Chiikawa is out!</description>
@@ -84,22 +100,6 @@
     <description>Episode 24 of Spy x Family Part 2 is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/fbc6ccc6ab7fd883ba23f0a9a6117d9fd311b9b7cea06f3ff8c80c094a013d1b.jpg</snapshot>
-</item>
-
-<item>
-    <title>Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau - Episode 12</title>
-    <link>https://animepahe.com/play/41fbcb38-f448-b0a9-831f-3a37aba862ea/6f65ab73b9c5be69f886b2a4d9e2443e7bdd00e7c860516834493f04193c7a33</link>
-    <description>Episode 12 of Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/23c4dad32c7f5e9f577326309804adc84afd9da88ca9da9c72e75dd9320ed480.jpg</snapshot>
-</item>
-
-<item>
-    <title>The Sky Crawlers - Episode 1</title>
-    <link>https://animepahe.com/play/3fd4d113-a488-2cbb-0947-8ba4a57f9de6/111d795702d8224e8400137b5697061ddca4b4530807c8806ad9000f404883af</link>
-    <description>Episode 1 of The Sky Crawlers is out!</description>
-    <fansub>3xR</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/f8fd83a2c1ab84d3624aa3988b5cc510df4682cedb81651cf6f951318d34b274.jpg</snapshot>
 </item>
 
 </channel>
