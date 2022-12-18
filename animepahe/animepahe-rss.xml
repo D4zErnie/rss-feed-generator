@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Boruto: Naruto Next Generations - Episode 280</title>
+    <link>https://animepahe.com/play/fc6abb84-292f-40c1-64c6-8d668ed09779/112bc207a6f17885f2555cd11885b571150b7a0bb42adbb4b864a126626d4132</link>
+    <description>Episode 280 of Boruto: Naruto Next Generations is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/972e22715dd40048b5ecb6b5992ab12f763e57dbba91022169a57583dc1a11e1.jpg</snapshot>
+</item>
+
+<item>
     <title>Digimon Ghost Game - Episode 56</title>
     <link>https://animepahe.com/play/a431c22e-5798-1810-e0f3-04f61b305a87/5c60abb4470af622229ebc3851ea43b1190fa712818a843812c09d0b60e44a97</link>
     <description>Episode 56 of Digimon Ghost Game is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Bocchi the Rock! is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/980c1da5924c74e9003f8dd9935859c71002a1211d674f57c224e85dd0ef3431.jpg</snapshot>
-</item>
-
-<item>
-    <title>Koukyuu no Karasu - Episode 12</title>
-    <link>https://animepahe.com/play/56746a58-8ce4-e15f-aac1-f05692de720f/0f0499c0251ad3b14b1379d3a65239ebe6708a28ab3340ca04d1f77853583bb4</link>
-    <description>Episode 12 of Koukyuu no Karasu is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/e919fb054148a5c39732c0307572b88a3eb505510a56fe66d69b792a3ddec7d3.jpg</snapshot>
 </item>
 
 </channel>
