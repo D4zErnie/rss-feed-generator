@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Cool Doji Danshi - Episode 11</title>
+    <link>https://animepahe.com/play/3102abc2-7411-ae00-336c-8dbefb940c52/1afa28c431f46881689010f2752f319fc285e1f43eb2f80b1bc548a5a71ce0bb</link>
+    <description>Episode 11 of Cool Doji Danshi is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/8176a6200b3a1cfad4a33524ae815f730d055f7b1aba49f9db2d4f7879c55a36.jpg</snapshot>
+</item>
+
+<item>
     <title>Shinmai Renkinjutsushi no Tenpo Keiei - Episode 12</title>
     <link>https://animepahe.com/play/061ee979-2db6-ced9-d21e-5fb322626678/823a0d41c6401e20194a37f9c9512c2b74e4c53c382e6269cbc73dbb808cafd7</link>
     <description>Episode 12 of Shinmai Renkinjutsushi no Tenpo Keiei is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1045 of One Piece is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c2e8ee182661af612c5be86f1a1ee232cd4b26930bab39f011141d2acf8a9c55.jpg</snapshot>
-</item>
-
-<item>
-    <title>Delicious Party♡Precure - Episode 40</title>
-    <link>https://animepahe.com/play/84daa346-fc81-b065-b8c5-ff05b296e941/8c20a135c655a7b96da52e1320815762fa46f76c33e2c7f7e98654b34753ab21</link>
-    <description>Episode 40 of Delicious Party♡Precure is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/b6adb0d537d992c1119d7adfecd6f4903ef702834b68b7e260ee1189cc145dd4.jpg</snapshot>
 </item>
 
 </channel>
