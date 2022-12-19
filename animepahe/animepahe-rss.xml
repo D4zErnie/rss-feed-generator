@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Meitantei Conan: Hannin no Hanzawa-san - Episode 11</title>
+    <link>https://animepahe.com/play/c3a65ae4-e1af-9e1a-8668-64a63ba7e6e9/1a7981416d800c89e4db485a234073c9403ecf8104e57301a08573858c388543</link>
+    <description>Episode 11 of Meitantei Conan: Hannin no Hanzawa-san is out!</description>
+    <fansub>Poop</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/fc1557bbed127d95fdc95dc76dea271ad425c0cf0d1967c2609b666b716d8ef4.jpg</snapshot>
+</item>
+
+<item>
     <title>Yu☆Gi☆Oh! Go Rush!! - Episode 38</title>
     <link>https://animepahe.com/play/ce06a928-e2bd-de0b-0836-aea40b9b1fdc/24ea25d7101af0ae61436163a219322e87431dd4d05f1bd24094fcb6e29c881d</link>
     <description>Episode 38 of Yu☆Gi☆Oh! Go Rush!! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 37 of Chiikawa is out!</description>
     <fansub>OdesaSubs</fansub>
     <snapshot>https://i.animepahe.com/snapshots/3cfe3b304dc29bc197395ef3b74a0b7bee2b339a7a8660b4ddbd146f61f6398a.jpg</snapshot>
-</item>
-
-<item>
-    <title>4-nin wa Sorezore Uso wo Tsuku - Episode 10</title>
-    <link>https://animepahe.com/play/d6cbb160-169b-cb9e-525b-828db5799765/7245c17fcfa30944f716afb5a3650c6093057aad6ef1ec8a249de7955519ae83</link>
-    <description>Episode 10 of 4-nin wa Sorezore Uso wo Tsuku is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/a9ac331f93aeaff3f5c1ed81c4aa3ee92be26953ec02d1bd9fe0c5ced7ce7306.jpg</snapshot>
 </item>
 
 </channel>
