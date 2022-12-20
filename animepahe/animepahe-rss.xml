@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Yama no Susume: Next Summit - Episode 12</title>
+    <link>https://animepahe.com/play/bff1fc1b-6243-6430-f8bc-6340eff0424e/43bcebd079cbd3b5178bcbaf4b22520f7a8f636accf0a16082331d685471127e</link>
+    <description>Episode 12 of Yama no Susume: Next Summit is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/f45177b5bbe728bb93d3694c3d362079284744d8294f19116ded566a0a82e3ab.jpg</snapshot>
+</item>
+
+<item>
     <title>Vazzrock The Animation - Episode 12</title>
     <link>https://animepahe.com/play/2d7fb62b-b8ad-baf8-879a-5b3018ce1391/af08699289e8367ed8bf754a622535beef34b0dd04e454ef01c6987a9769451b</link>
     <description>Episode 12 of Vazzrock The Animation is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Fuufu Ijou, Koibito Miman. is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/15831d33a09d93adc090e418ee63db8993727e1aaf64d7b01ef2f4bd45dd2cf0.jpg</snapshot>
-</item>
-
-<item>
-    <title>Fumetsu no Anata e 2nd Season - Episode 9</title>
-    <link>https://animepahe.com/play/64982021-e5f1-5248-db85-57e8aee85c29/53a933666f6032ceb7d95b5331441f4f3556116bbd9d296aadaa95d32d8543c8</link>
-    <description>Episode 9 of Fumetsu no Anata e 2nd Season is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/fcb28ead4c48753fdf8b759d8aa50746f74917d7cc387b23de5565e8c03691ea.jpg</snapshot>
 </item>
 
 </channel>
