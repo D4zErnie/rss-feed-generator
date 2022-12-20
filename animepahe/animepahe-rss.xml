@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Vazzrock The Animation - Episode 12</title>
+    <link>https://animepahe.com/play/2d7fb62b-b8ad-baf8-879a-5b3018ce1391/af08699289e8367ed8bf754a622535beef34b0dd04e454ef01c6987a9769451b</link>
+    <description>Episode 12 of Vazzrock The Animation is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/41e60e24882decb606acbb7dd5b6023f816c88172acabbd50ac3462b71fde8b1.jpg</snapshot>
+</item>
+
+<item>
     <title>Meitantei Conan: Hannin no Hanzawa-san - Episode 12</title>
     <link>https://animepahe.com/play/ea32a846-6129-a4bc-4bbd-2b5d6e4ce74b/7349756a5834a5204ca0303d04e68abd51b60c97c95252177737e3ae0dc17ea4</link>
     <description>Episode 12 of Meitantei Conan: Hannin no Hanzawa-san is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 9 of Fumetsu no Anata e 2nd Season is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/fcb28ead4c48753fdf8b759d8aa50746f74917d7cc387b23de5565e8c03691ea.jpg</snapshot>
-</item>
-
-<item>
-    <title>Boruto: Naruto Next Generations - Episode 280</title>
-    <link>https://animepahe.com/play/cc584e1b-6c0e-3055-2967-dc2d786a7458/5d04c8368933a58d76323fa88dacae020713af4dae35daef192bd33b4175f115</link>
-    <description>Episode 280 of Boruto: Naruto Next Generations is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/972e22715dd40048b5ecb6b5992ab12f763e57dbba91022169a57583dc1a11e1.jpg</snapshot>
 </item>
 
 </channel>
