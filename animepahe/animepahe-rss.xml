@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Renai Flops - Episode 11</title>
+    <link>https://animepahe.com/play/e076f53e-c8f1-b3ae-1462-85da432831c5/9000daae672a8bca7eacb8ae509ea30c66b9916c7620b9919854d4b687dceb32</link>
+    <description>Episode 11 of Renai Flops is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/afc0038bb55f96e656b0b27e865d6dbe87b2f403321d3bdb8bb2e3253f7d1aba.jpg</snapshot>
+</item>
+
+<item>
     <title>Kage no Jitsuryokusha ni Naritakute! - Episode 12</title>
     <link>https://animepahe.com/play/db012fb8-1a50-140e-5857-7813beef2468/03b69e7c6e127c5566c300ba6b3371ec90401db559d286b0f7009068ce815cc0</link>
     <description>Episode 12 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Cool Doji Danshi is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/8176a6200b3a1cfad4a33524ae815f730d055f7b1aba49f9db2d4f7879c55a36.jpg</snapshot>
-</item>
-
-<item>
-    <title>Shinmai Renkinjutsushi no Tenpo Keiei - Episode 12</title>
-    <link>https://animepahe.com/play/6ef8d412-ff94-8d47-eba6-9a58f02b78f7/35b7f980169194a5bb20043dd1451a5c914e035f3661e7cc006b6703d8134df4</link>
-    <description>Episode 12 of Shinmai Renkinjutsushi no Tenpo Keiei is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/fc1a7d576d9236f5cfcdc5f38c70211ad0e9481000c81d98c99eab781097802e.jpg</snapshot>
 </item>
 
 </channel>
