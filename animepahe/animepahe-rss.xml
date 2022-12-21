@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Muv-Luv Alternative 2nd Season - Episode 24</title>
+    <link>https://animepahe.com/play/2dd00520-17f4-0ffb-3165-9ab6efe5e773/68ae828ba90a4a6985ebf828f1489541746d3d03b802c4b44c4297068b32b268</link>
+    <description>Episode 24 of Muv-Luv Alternative 2nd Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/f495f9cea98853e2125272c4c3af4349afb16dedcac938b77f941803a9bab478.jpg</snapshot>
+</item>
+
+<item>
     <title>Do It Yourself!! - Episode 12</title>
     <link>https://animepahe.com/play/ea0b039b-3dbf-2f67-c966-7922912a957d/1a835cbbd8bf341c9370fa7327c85b887f6474531792b4a2c4da103c30c05c83</link>
     <description>Episode 12 of Do It Yourself!! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Meitantei Conan: Hannin no Hanzawa-san is out!</description>
     <fansub>Poop</fansub>
     <snapshot>https://i.animepahe.com/snapshots/0a69546722d04626735d9d1d7abad0eaa658e727dfef090b4225cbfc79b46eac.jpg</snapshot>
-</item>
-
-<item>
-    <title>Shinobi no Ittoki - Episode 12</title>
-    <link>https://animepahe.com/play/a8f9efe2-a087-f9aa-d13a-e769ba107609/ec925a34496ff717fef893e0038397aae2da075b8002508569c49e720e90aa63</link>
-    <description>Episode 12 of Shinobi no Ittoki is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/eeb5ad64163fe5ccde1e432e079d8ddce1c8dac4822cb78adc7bab2fe1b55815.jpg</snapshot>
 </item>
 
 </channel>
