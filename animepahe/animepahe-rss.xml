@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kage no Jitsuryokusha ni Naritakute! - Episode 12</title>
+    <link>https://animepahe.com/play/db012fb8-1a50-140e-5857-7813beef2468/03b69e7c6e127c5566c300ba6b3371ec90401db559d286b0f7009068ce815cc0</link>
+    <description>Episode 12 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/7e4ccfbfca3767e018ec930cac18310715d69d44112083689ab91b09995870af.jpg</snapshot>
+</item>
+
+<item>
     <title>Tensei shitara Ken Deshita - Episode 12</title>
     <link>https://animepahe.com/play/90f6bfeb-d691-6638-9e51-17afd129a85d/d1d271b3ff547b3f1e9087ba418daf8648273f279fd22ae3e52fdfdb362c9e8d</link>
     <description>Episode 12 of Tensei shitara Ken Deshita is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Shinmai Renkinjutsushi no Tenpo Keiei is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/fc1a7d576d9236f5cfcdc5f38c70211ad0e9481000c81d98c99eab781097802e.jpg</snapshot>
-</item>
-
-<item>
-    <title>Yu☆Gi☆Oh! Go Rush!! - Episode 38</title>
-    <link>https://animepahe.com/play/0e5ac642-6314-8e10-c5c1-ce9f058afbbd/f2c9d916ce9c06f505b4a5cf2f2654d316d1ab43c3c00da1db7818b991864f7a</link>
-    <description>Episode 38 of Yu☆Gi☆Oh! Go Rush!! is out!</description>
-    <fansub>entameSubs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/5e78690419996bc502fdd6f7f52f2c64616814fd9835c5d14333b66db5d12a9a.jpg</snapshot>
 </item>
 
 </channel>
