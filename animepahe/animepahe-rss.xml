@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Urusei Yatsura (2022) - Episode 11</title>
+    <link>https://animepahe.com/play/8fc2c467-ecc4-4e50-b88c-97fcbfa1517d/6a58af666259f3584486cce162ed38d9d4707ea889c062e6c45e546a44010188</link>
+    <description>Episode 11 of Urusei Yatsura (2022) is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/01af62dce86409e2335ce408f622a3a374d06d42ed0ef4ea2fb2baed52f7d810.jpg</snapshot>
+</item>
+
+<item>
     <title>KanColle: Itsuka Ano Umi de - Episode 5</title>
     <link>https://animepahe.com/play/740fbac2-720d-4bbc-3258-621ef63dc066/fe5009d7b10bfccef2de4eb76189b36f2e7128ad54c8b2f6c664845f85839c74</link>
     <description>Episode 5 of KanColle: Itsuka Ano Umi de is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Pui Pui Molcar: Driving School is out!</description>
     <fansub>MoyaiCars</fansub>
     <snapshot>https://i.animepahe.com/snapshots/5480a95fa07449b06428eecb006f727131fa42fe23849f650286149db60f9f50.jpg</snapshot>
-</item>
-
-<item>
-    <title>Chainsaw Man - Episode 11</title>
-    <link>https://animepahe.com/play/11bb12bb-0b0d-a224-b480-1c99d711170d/996b6ed4cd81e6e77a8246d3fb29aaa1337e8971ffb794476358af7b7244814b</link>
-    <description>Episode 11 of Chainsaw Man is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/9980ffebe9728149a1f26a2b456b5eb56b299ac173c91424309c8b91d2036971.jpg</snapshot>
 </item>
 
 </channel>
