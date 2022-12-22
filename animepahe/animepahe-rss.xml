@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>KanColle: Itsuka Ano Umi de - Episode 5</title>
+    <link>https://animepahe.com/play/740fbac2-720d-4bbc-3258-621ef63dc066/fe5009d7b10bfccef2de4eb76189b36f2e7128ad54c8b2f6c664845f85839c74</link>
+    <description>Episode 5 of KanColle: Itsuka Ano Umi de is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/bf9a1264caffbc1e806ac941b4218d51b792ba5394853ea4a968e13a0a1bb71b.jpg</snapshot>
+</item>
+
+<item>
     <title>Akiba Meido Sensou - Episode 12</title>
     <link>https://animepahe.com/play/215970ae-072b-a4c0-c632-99c32a54f57e/a51b6f5792053d1dee2c7ea6028aa702552fef2d8adfaf9ced08e61b6e4f3c27</link>
     <description>Episode 12 of Akiba Meido Sensou is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Chainsaw Man is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/9980ffebe9728149a1f26a2b456b5eb56b299ac173c91424309c8b91d2036971.jpg</snapshot>
-</item>
-
-<item>
-    <title>Yama no Susume: Next Summit - Episode 12</title>
-    <link>https://animepahe.com/play/10ccb323-872d-ddd0-a7e2-a607a4cadcf8/10ccaecd0aad39219c6143bed6d5d3e40fd423849ba9e7642b5130c30c11269d</link>
-    <description>Episode 12 of Yama no Susume: Next Summit is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/f45177b5bbe728bb93d3694c3d362079284744d8294f19116ded566a0a82e3ab.jpg</snapshot>
 </item>
 
 </channel>
