@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Akiba Meido Sensou - Episode 12</title>
+    <link>https://animepahe.com/play/215970ae-072b-a4c0-c632-99c32a54f57e/a51b6f5792053d1dee2c7ea6028aa702552fef2d8adfaf9ced08e61b6e4f3c27</link>
+    <description>Episode 12 of Akiba Meido Sensou is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/b22cc75dffbdbb2ae2be22251d89c049147e9f3f86018a5b3568f4dc1aa52355.jpg</snapshot>
+</item>
+
+<item>
     <title>Mushikaburi-hime - Episode 12</title>
     <link>https://animepahe.com/play/22965ef4-147d-68cc-e502-aeee542e028f/76c0aa06abb3d479b44f15a8668ac724a8b711597cf7ed4d634676865982fb10</link>
     <description>Episode 12 of Mushikaburi-hime is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Yama no Susume: Next Summit is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/f45177b5bbe728bb93d3694c3d362079284744d8294f19116ded566a0a82e3ab.jpg</snapshot>
-</item>
-
-<item>
-    <title>Vazzrock The Animation - Episode 12</title>
-    <link>https://animepahe.com/play/88740afe-2902-7e60-8da1-e97a7d1953b7/5ed3683f27c4dc931e85591e24f6e4d6e16a7a18ab4361a9c9b13166d7a10fd5</link>
-    <description>Episode 12 of Vazzrock The Animation is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/41e60e24882decb606acbb7dd5b6023f816c88172acabbd50ac3462b71fde8b1.jpg</snapshot>
 </item>
 
 </channel>
