@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Bureau of Paranormal Investigation - Episode 6</title>
+    <link>https://animepahe.com/play/3c056549-2aeb-dbb6-b283-5492f4622036/88a9658e89b93b2ffa85df1ab9d439721186ec994f00a3f1de49170b0c55419c</link>
+    <description>Episode 6 of Bureau of Paranormal Investigation is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/f4b27779673befafca497ff5e2dbbc9cf816223062dcc6c0f3613303c34c5449.jpg</snapshot>
+</item>
+
+<item>
     <title>Hoshi no Samidare - Episode 24</title>
     <link>https://animepahe.com/play/44995cc4-c1b5-e4d7-71d5-c898d53cad9a/a0e327b76452dae472002ee2e024cc13c72a75ca4f45b085a94ebfca6ff3a5ce</link>
     <description>Episode 24 of Hoshi no Samidare is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 24 of Muv-Luv Alternative 2nd Season is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/f495f9cea98853e2125272c4c3af4349afb16dedcac938b77f941803a9bab478.jpg</snapshot>
-</item>
-
-<item>
-    <title>Do It Yourself!! - Episode 12</title>
-    <link>https://animepahe.com/play/ef6dc409-559a-442d-ca4b-bc86ef4a2ddf/4beee71a17656faa18368da481b9551bf161c7415ef54ed9bd9a8fcab6950d3c</link>
-    <description>Episode 12 of Do It Yourself!! is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/3571c88cbe169a13bd5f8f79bdb2b0740ac56bf2ada3b3c64d2ad9ccdba64f7c.jpg</snapshot>
 </item>
 
 </channel>
