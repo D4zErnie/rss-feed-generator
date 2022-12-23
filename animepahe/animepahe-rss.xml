@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Reiwa no Di Gi Charat - Episode 11</title>
+    <link>https://animepahe.com/play/0f8d797f-e64e-ca01-daa3-e03ce7b396bf/d9d89bd610d96e210921cc6053c5f004ce8a5b8b43ac5e5497941ae58c8fd0a8</link>
+    <description>Episode 11 of Reiwa no Di Gi Charat is out!</description>
+    <fansub>MoyaiSubs</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/4bbe1a778ac682669826d809216965b589cd854dd93171af998db4ecc6b76a42.jpg</snapshot>
+</item>
+
+<item>
     <title>Urusei Yatsura (2022) - Episode 11</title>
     <link>https://animepahe.com/play/932fa1df-30e6-6ff2-ccf8-40e2a7c0e997/246fe92f2f488878f3ae77aff5f543aae19608743e949a2c44277f2a4900747c</link>
     <description>Episode 11 of Urusei Yatsura (2022) is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Human Bug Daigaku is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/8db70e8b48145c9bf79d9f4c57a5e5443aa81c00c9f5b69ec99e5a30c0e706f3.jpg</snapshot>
-</item>
-
-<item>
-    <title>Pui Pui Molcar: Driving School - Episode 11</title>
-    <link>https://animepahe.com/play/29da1e42-c311-05a9-8b3e-3451feae0c0d/4e5632a113ea9b3a0e244867f7803ef5e296b5cb575498d24cd63b0d4c723afb</link>
-    <description>Episode 11 of Pui Pui Molcar: Driving School is out!</description>
-    <fansub>MoyaiCars</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/5480a95fa07449b06428eecb006f727131fa42fe23849f650286149db60f9f50.jpg</snapshot>
 </item>
 
 </channel>
