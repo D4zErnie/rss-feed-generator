@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Uchi no Shishou wa Shippo ga Nai - Episode 13</title>
+    <link>https://animepahe.com/play/77fb6d75-6494-6d36-6e96-c606b74d8a75/547333c82046f5bd34094500b70d0838c77ca26609cbe75fa7f7ce802b67dfe4</link>
+    <description>Episode 13 of Uchi no Shishou wa Shippo ga Nai is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/46170278078d98d9ba1d24186056576cff267c9abb9096b57dca023684c82e0f.jpg</snapshot>
+</item>
+
+<item>
     <title>Chiikawa - Episode 39</title>
     <link>https://animepahe.com/play/40ffe6a8-4453-a3b6-06cc-2912c9fef5d1/6639296961ffee6cb4ed06005727560d47f7f7d44f47856762737ac9c029a7bb</link>
     <description>Episode 39 of Chiikawa is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/7e4ccfbfca3767e018ec930cac18310715d69d44112083689ab91b09995870af.jpg</snapshot>
-</item>
-
-<item>
-    <title>Tensei shitara Ken deshita - Episode 12</title>
-    <link>https://animepahe.com/play/3a4caea5-4369-01bd-a8dd-629734b01568/9340718992485389862b388a82d44eaa1279fc00fcb919b7fd243abf08d3e6c5</link>
-    <description>Episode 12 of Tensei shitara Ken deshita is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/13d7d6592ec0af1640a5196993e5453725988ebf51b915b5c4784f0457177a39.jpg</snapshot>
 </item>
 
 </channel>
