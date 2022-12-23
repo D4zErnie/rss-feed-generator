@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Chiikawa - Episode 39</title>
+    <link>https://animepahe.com/play/40ffe6a8-4453-a3b6-06cc-2912c9fef5d1/6639296961ffee6cb4ed06005727560d47f7f7d44f47856762737ac9c029a7bb</link>
+    <description>Episode 39 of Chiikawa is out!</description>
+    <fansub>OdesaSubs</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/64828a7873841cc4fde7ff56dbe2d95b75a25d70defa8977aebb25a534397a95.jpg</snapshot>
+</item>
+
+<item>
     <title>Reiwa no Di Gi Charat - Episode 11</title>
     <link>https://animepahe.com/play/0f8d797f-e64e-ca01-daa3-e03ce7b396bf/d9d89bd610d96e210921cc6053c5f004ce8a5b8b43ac5e5497941ae58c8fd0a8</link>
     <description>Episode 11 of Reiwa no Di Gi Charat is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Tensei shitara Ken deshita is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/13d7d6592ec0af1640a5196993e5453725988ebf51b915b5c4784f0457177a39.jpg</snapshot>
-</item>
-
-<item>
-    <title>Human Bug Daigaku - Episode 12</title>
-    <link>https://animepahe.com/play/27f2e466-685d-c4da-9a05-d6c7d91f3c69/d00b6bb871676dbe9afe64514de7e07875f0bc69e9a352da6b1520966051423b</link>
-    <description>Episode 12 of Human Bug Daigaku is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/8db70e8b48145c9bf79d9f4c57a5e5443aa81c00c9f5b69ec99e5a30c0e706f3.jpg</snapshot>
 </item>
 
 </channel>
