@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Lupin Zero - Episode 3</title>
+    <link>https://animepahe.com/play/3937c5d7-dd90-ade2-7a2d-3e032326d034/f02900245bf20ea6b6df2a6dfe04e52e3748806e148876538d59fddf70b552ce</link>
+    <description>Episode 3 of Lupin Zero is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/772900037805de2fea75960ac5be35b9c9185d10351a06e35bd816752e96bbe9.jpg</snapshot>
+</item>
+
+<item>
     <title>Uchi no Shishou wa Shippo ga Nai - Episode 13</title>
     <link>https://animepahe.com/play/77fb6d75-6494-6d36-6e96-c606b74d8a75/547333c82046f5bd34094500b70d0838c77ca26609cbe75fa7f7ce802b67dfe4</link>
     <description>Episode 13 of Uchi no Shishou wa Shippo ga Nai is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Renai Flops is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/afc0038bb55f96e656b0b27e865d6dbe87b2f403321d3bdb8bb2e3253f7d1aba.jpg</snapshot>
-</item>
-
-<item>
-    <title>Kage no Jitsuryokusha ni Naritakute! - Episode 12</title>
-    <link>https://animepahe.com/play/55634e70-324c-0551-4d50-37a0aff53b58/7d2ac74d3ae312138a9e0deefe44c8631d095aec6c636723613681ba82838e4c</link>
-    <description>Episode 12 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/7e4ccfbfca3767e018ec930cac18310715d69d44112083689ab91b09995870af.jpg</snapshot>
 </item>
 
 </channel>
