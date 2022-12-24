@@ -7,6 +7,22 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Boku no Hero Academia 4th Season - Episode 74</title>
+    <link>https://animepahe.com/play/fef99d28-2755-e979-4edd-3d42a1bc02eb/a4a68be4fe9ec3c2265cd559958006d171a1726ba9362d2523ed6c38b305f4a0</link>
+    <description>Episode 74 of Boku no Hero Academia 4th Season is out!</description>
+    <fansub>EMBER</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/4ead6d2b1b3f49b3416b88241273f252171fe117e95dbc7a7b82cdcc2f771376.jpg</snapshot>
+</item>
+
+<item>
+    <title>Boku no Hero Academia 3rd Season - Episode 63</title>
+    <link>https://animepahe.com/play/e906edc1-da39-d46e-9875-3aaa6aefb2dd/b2d803e11de5a15fa171b82da027d1f60736a07a1fa4c09e345e13304203ef46</link>
+    <description>Episode 63 of Boku no Hero Academia 3rd Season is out!</description>
+    <fansub>Yūrei</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/f1b8fef0f7b06e00a2cd9b13cabb1a400b296d1b6e3102330edee31f07bdf6c5.jpg</snapshot>
+</item>
+
+<item>
     <title>Boku no Hero Academia 2nd Season - Episode 38</title>
     <link>https://animepahe.com/play/6539dac4-0c02-4a30-c413-fae263b4f191/751ce0e89a31c244e9bef8fefce0b89dfb671044b6cdab63b373b9a66a0ec1a1</link>
     <description>Episode 38 of Boku no Hero Academia 2nd Season is out!</description>
@@ -84,22 +100,6 @@
     <description>Episode 11 of Reiwa no Di Gi Charat is out!</description>
     <fansub>MoyaiSubs</fansub>
     <snapshot>https://i.animepahe.com/snapshots/4bbe1a778ac682669826d809216965b589cd854dd93171af998db4ecc6b76a42.jpg</snapshot>
-</item>
-
-<item>
-    <title>Urusei Yatsura (2022) - Episode 11</title>
-    <link>https://animepahe.com/play/6050d4cd-b5e2-0d71-8709-906b27ff5808/b807dd717aaf6933ffa377c758ffaaec320ecba932cad10d489e89575a73823e</link>
-    <description>Episode 11 of Urusei Yatsura (2022) is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/01af62dce86409e2335ce408f622a3a374d06d42ed0ef4ea2fb2baed52f7d810.jpg</snapshot>
-</item>
-
-<item>
-    <title>KanColle: Itsuka Ano Umi de - Episode 5</title>
-    <link>https://animepahe.com/play/a1ea2f3e-4f3f-56c8-e0c0-0f7d10b1de13/5bb7adf7c69c396a9c96be715343f7dc1cb44b0c1da29c061d633063601bc20a</link>
-    <description>Episode 5 of KanColle: Itsuka Ano Umi de is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/bf9a1264caffbc1e806ac941b4218d51b792ba5394853ea4a968e13a0a1bb71b.jpg</snapshot>
 </item>
 
 </channel>
