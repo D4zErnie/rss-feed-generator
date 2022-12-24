@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Boku no Hero Academia - Episode 13</title>
+    <link>https://animepahe.com/play/fe88283d-b9c6-fc79-038e-9779466de6c7/161d86167c95acb386ec3242a3d35aae36eca2544b460dd055896299c6e1bc59</link>
+    <description>Episode 13 of Boku no Hero Academia is out!</description>
+    <fansub>Nep_Blanc</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/136fcea9ebff05ed35706465e6809072825052ca63ce756b90bd972f663a258d.jpg</snapshot>
+</item>
+
+<item>
     <title>Shadowverse Flame - Episode 38</title>
     <link>https://animepahe.com/play/0d769ece-28f5-00c2-6179-ac11d2f119f6/af294146a12751c0aa392d569539cd06a4701df9f059fadb329e50d1504373d0</link>
     <description>Episode 38 of Shadowverse Flame is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Akiba Meido Sensou is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/b22cc75dffbdbb2ae2be22251d89c049147e9f3f86018a5b3568f4dc1aa52355.jpg</snapshot>
-</item>
-
-<item>
-    <title>Mushikaburi-hime - Episode 12</title>
-    <link>https://animepahe.com/play/57c6642d-a3a8-8e46-656f-ebc4b4864b18/bcb9b6d73716e9b8c19637938f70cd0abdad0037c6050f8b15c9473ed416b244</link>
-    <description>Episode 12 of Mushikaburi-hime is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/52c37295ba654b27a4472665794876b5994fc56895e81edf18948e246fc8f892.jpg</snapshot>
 </item>
 
 </channel>
