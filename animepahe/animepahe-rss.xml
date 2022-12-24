@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Utawarerumono: Futari no Hakuoro - Episode 27</title>
+    <link>https://animepahe.com/play/7a2bc470-9e8f-6315-33f4-a711870bbb40/c8f85c3f55b166206eb2ad14fabbb1687b934d47af9e4517a90e6f9526ddb18a</link>
+    <description>Episode 27 of Utawarerumono: Futari no Hakuoro is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/e22e5d393de38e87a4d106387e5457cb24349e983f452f5421fdd987f4c00a8f.jpg</snapshot>
+</item>
+
+<item>
     <title>Bocchi the Rock! - Episode 12</title>
     <link>https://animepahe.com/play/e5a2bc46-66c9-ad7d-bef4-b90b0eeae519/89e75b43536d7f6c14a19bbabb8a2b5fac565ac77226854bb0844f9392e6cad0</link>
     <description>Episode 12 of Bocchi the Rock! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 63 of Boku no Hero Academia 3rd Season is out!</description>
     <fansub>Yūrei</fansub>
     <snapshot>https://i.animepahe.com/snapshots/f1b8fef0f7b06e00a2cd9b13cabb1a400b296d1b6e3102330edee31f07bdf6c5.jpg</snapshot>
-</item>
-
-<item>
-    <title>Boku no Hero Academia 2nd Season - Episode 38</title>
-    <link>https://animepahe.com/play/6539dac4-0c02-4a30-c413-fae263b4f191/751ce0e89a31c244e9bef8fefce0b89dfb671044b6cdab63b373b9a66a0ec1a1</link>
-    <description>Episode 38 of Boku no Hero Academia 2nd Season is out!</description>
-    <fansub>ITH</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/05c3f05d749b6fcd28e3d36516a2cea014c06842738ddca99e0e52e33208d1ca.jpg</snapshot>
 </item>
 
 </channel>
