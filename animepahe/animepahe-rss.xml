@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Uzaki-chan wa Asobitai! Double - Episode 13</title>
+    <link>https://animepahe.com/play/e7be5f7f-977b-8f2b-1fce-66781cf26e72/0ae8cbd47c3bc15e5ef2de076b09f020b84465cea5542aa5921ee7a27f38b647</link>
+    <description>Episode 13 of Uzaki-chan wa Asobitai! Double is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/80f1c68cc10168c73337782c51874b92996687593c7c8bdb61dd2cf5d7497389.jpg</snapshot>
+</item>
+
+<item>
     <title>Mairimashita! Iruma-kun 3rd Season - Episode 12</title>
     <link>https://animepahe.com/play/ee0d6982-f530-9ffc-b74e-59e6afa0b39e/8d77333ddb4847efc75ed010cc19a73af348d10a7024dbd4f46c3b0f428f4213</link>
     <description>Episode 12 of Mairimashita! Iruma-kun 3rd Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 24 of Hoshi no Samidare is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/e91ab333b5cb04e619973de7534ac675a21b8c6452526aca414cd8ececf24b29.jpg</snapshot>
-</item>
-
-<item>
-    <title>Seiken Densetsu: Legend of Mana - The Teardrop Crystal - Episode 12</title>
-    <link>https://animepahe.com/play/5c610fc9-9e0e-8b47-3635-f61db368f590/2156947f0207793bf9592a3106c96f218306c9090fd715c6c69a14aa827c6fa1</link>
-    <description>Episode 12 of Seiken Densetsu: Legend of Mana - The Teardrop Crystal is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/971aaf86d29edfa1231591c4179b0668134fed7a1d510995410350a336197f95.jpg</snapshot>
 </item>
 
 </channel>
