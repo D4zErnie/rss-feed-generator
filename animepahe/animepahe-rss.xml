@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Detective Conan - Episode 1067</title>
+    <link>https://animepahe.com/play/44ddf014-ac39-80e5-dfb7-dc4969499cc0/c211716cef61ced0be97ec908e14e98f316e63a7bf815caae67b541bd89827c8</link>
+    <description>Episode 1067 of Detective Conan is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/736c0f280624d8492ae9fb17a64bd019708c8752693445112d9aaa4a72d202cc.jpg</snapshot>
+</item>
+
+<item>
     <title>Pokemon (2019): Harukanaru Aoi Sora - Episode 1</title>
     <link>https://animepahe.com/play/53bf7e9d-7e08-9109-965e-227dc2a4aadf/038f31dc28b8e866ef07dea4cfc851b814b84b15da2125ae2a26fb021bf25504</link>
     <description>Episode 1 of Pokemon (2019): Harukanaru Aoi Sora is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 3 of Lupin Zero is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/772900037805de2fea75960ac5be35b9c9185d10351a06e35bd816752e96bbe9.jpg</snapshot>
-</item>
-
-<item>
-    <title>Uchi no Shishou wa Shippo ga Nai - Episode 13</title>
-    <link>https://animepahe.com/play/ab7a0af6-4b4e-a969-d3e1-01bcf05a09a2/2c0f1242ef7b48bc9c5ee966f1f93eefc56bb640873042f386d43230779f7f16</link>
-    <description>Episode 13 of Uchi no Shishou wa Shippo ga Nai is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/46170278078d98d9ba1d24186056576cff267c9abb9096b57dca023684c82e0f.jpg</snapshot>
 </item>
 
 </channel>
