@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>4-nin wa Sorezore Uso wo Tsuku - Episode 11</title>
+    <link>https://animepahe.com/play/c61f9b36-97cf-53eb-5d88-066f3a541ba9/b6ff890e84f26fa957db5a5a0dd440742956623fbebfa06fbfe9ab5826d1d2db</link>
+    <description>Episode 11 of 4-nin wa Sorezore Uso wo Tsuku is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/ae95c9fd661438150492749f2d1e0c0afc783d6d105c3e6efa7d8268cd4c73a7.jpg</snapshot>
+</item>
+
+<item>
     <title>Yowamushi Pedal: Limit Break - Episode 10</title>
     <link>https://animepahe.com/play/4fba9a9f-a035-896a-9672-32e972e2ee1d/d1be3bfd1ca346cea4286da021978fedcd943bd06e833e2d6ab22fb5e04e6e17</link>
     <description>Episode 10 of Yowamushi Pedal: Limit Break is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1067 of Detective Conan is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/736c0f280624d8492ae9fb17a64bd019708c8752693445112d9aaa4a72d202cc.jpg</snapshot>
-</item>
-
-<item>
-    <title>Pokemon (2019): Harukanaru Aoi Sora - Episode 1</title>
-    <link>https://animepahe.com/play/53bf7e9d-7e08-9109-965e-227dc2a4aadf/038f31dc28b8e866ef07dea4cfc851b814b84b15da2125ae2a26fb021bf25504</link>
-    <description>Episode 1 of Pokemon (2019): Harukanaru Aoi Sora is out!</description>
-    <fansub>Some-Stuffs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/92a04d04e5684d923868ec255f07c5800dfce49405ad0d5fdb2b112f8ecb087d.jpg</snapshot>
 </item>
 
 </channel>
