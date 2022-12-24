@@ -7,11 +7,19 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
-    <title>Boku no Hero Academia 4th Season - Episode 74</title>
-    <link>https://animepahe.com/play/fef99d28-2755-e979-4edd-3d42a1bc02eb/a4a68be4fe9ec3c2265cd559958006d171a1726ba9362d2523ed6c38b305f4a0</link>
-    <description>Episode 74 of Boku no Hero Academia 4th Season is out!</description>
+    <title>Boku no Hero Academia 6th Season - Episode 126</title>
+    <link>https://animepahe.com/play/4b2a5406-3a1d-132e-0cbb-34fb7af2c890/0232327f1044bbee1007afac9fcb9b7ccedd46f212de9e906b4237f1e6fb4238</link>
+    <description>Episode 126 of Boku no Hero Academia 6th Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/971a40829c5ca55ec5deaf84243c5d7e883ae11c846f244ef010f1457411aee1.jpg</snapshot>
+</item>
+
+<item>
+    <title>Boku no Hero Academia 4th Season - Episode 88</title>
+    <link>https://animepahe.com/play/fef99d28-2755-e979-4edd-3d42a1bc02eb/fa499cfc5c7811ca2f9c2fde4652322871945a9c911e787fed1af5b986d192a9</link>
+    <description>Episode 88 of Boku no Hero Academia 4th Season is out!</description>
     <fansub>EMBER</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/4ead6d2b1b3f49b3416b88241273f252171fe117e95dbc7a7b82cdcc2f771376.jpg</snapshot>
+    <snapshot>https://i.animepahe.com/snapshots/19abc534fc3c48e99d61e92df36905104a2dc76748042d5b4e10021f473b026c.jpg</snapshot>
 </item>
 
 <item>
@@ -92,14 +100,6 @@
     <description>Episode 39 of Chiikawa is out!</description>
     <fansub>OdesaSubs</fansub>
     <snapshot>https://i.animepahe.com/snapshots/64828a7873841cc4fde7ff56dbe2d95b75a25d70defa8977aebb25a534397a95.jpg</snapshot>
-</item>
-
-<item>
-    <title>Reiwa no Di Gi Charat - Episode 11</title>
-    <link>https://animepahe.com/play/65914ea2-6dd2-ec9a-36e3-a45b7826c9ec/a44dd4ad9907bf49d1e6a1cb85abcceed935f0925e320edecbcdd5e0f799a112</link>
-    <description>Episode 11 of Reiwa no Di Gi Charat is out!</description>
-    <fansub>MoyaiSubs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/4bbe1a778ac682669826d809216965b589cd854dd93171af998db4ecc6b76a42.jpg</snapshot>
 </item>
 
 </channel>
