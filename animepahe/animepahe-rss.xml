@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Futoku no Guild - Episode 12</title>
+    <link>https://animepahe.com/play/cfaa73fd-1897-62da-5958-82aff7ce33b3/6d1a775d03c9c8879c2b58a1f0adf5563b79112365b9768f3236fdd071fc703d</link>
+    <description>Episode 12 of Futoku no Guild is out!</description>
+    <fansub>Anime_Chap</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/9008950f3d2c97e8da085fd7b1a398d70f4bf6313f79c9dbce313863d1db92b7.jpg</snapshot>
+</item>
+
+<item>
     <title>4-nin wa Sorezore Uso wo Tsuku - Episode 11</title>
     <link>https://animepahe.com/play/c61f9b36-97cf-53eb-5d88-066f3a541ba9/b6ff890e84f26fa957db5a5a0dd440742956623fbebfa06fbfe9ab5826d1d2db</link>
     <description>Episode 11 of 4-nin wa Sorezore Uso wo Tsuku is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Mairimashita! Iruma-kun 3rd Season is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/05755a2a0d921ab40bcccb44b43b650cc55bd2aa6d578511f263f162a5c3c78d.jpg</snapshot>
-</item>
-
-<item>
-    <title>Detective Conan - Episode 1067</title>
-    <link>https://animepahe.com/play/44ddf014-ac39-80e5-dfb7-dc4969499cc0/c211716cef61ced0be97ec908e14e98f316e63a7bf815caae67b541bd89827c8</link>
-    <description>Episode 1067 of Detective Conan is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/736c0f280624d8492ae9fb17a64bd019708c8752693445112d9aaa4a72d202cc.jpg</snapshot>
 </item>
 
 </channel>
