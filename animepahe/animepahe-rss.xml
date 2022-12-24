@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Koukyuu no Karasu - Episode 13</title>
+    <link>https://animepahe.com/play/8759176d-901c-64b8-4e29-1e1862fb0721/223d9f6f27dc86378f77e371c08ef22a090c2ab5c67f184d4a2247f5c2e1e6a8</link>
+    <description>Episode 13 of Koukyuu no Karasu is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/f4d0d70fcf043423372bcedb96c15290f5e809d5f4fc30e19f0ff33d0ef5add5.jpg</snapshot>
+</item>
+
+<item>
     <title>Spy x Family Part 2 - Episode 25</title>
     <link>https://animepahe.com/play/8a1b6d1e-4ee1-f01a-0815-fe467ed7614b/f2b0d1cda4d02f7c7d7252df3198fa39c73a3a2302e03f939ac2b659bc35a145</link>
     <description>Episode 25 of Spy x Family Part 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 13 of Boku no Hero Academia is out!</description>
     <fansub>Nep_Blanc</fansub>
     <snapshot>https://i.animepahe.com/snapshots/136fcea9ebff05ed35706465e6809072825052ca63ce756b90bd972f663a258d.jpg</snapshot>
-</item>
-
-<item>
-    <title>Shadowverse Flame - Episode 38</title>
-    <link>https://animepahe.com/play/0d769ece-28f5-00c2-6179-ac11d2f119f6/af294146a12751c0aa392d569539cd06a4701df9f059fadb329e50d1504373d0</link>
-    <description>Episode 38 of Shadowverse Flame is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/5cc393812c3bb35494ce27802168a2592b2811457a93e5eac218c38e59a2afc6.jpg</snapshot>
 </item>
 
 </channel>
