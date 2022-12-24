@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Yowamushi Pedal: Limit Break - Episode 10</title>
+    <link>https://animepahe.com/play/4fba9a9f-a035-896a-9672-32e972e2ee1d/d1be3bfd1ca346cea4286da021978fedcd943bd06e833e2d6ab22fb5e04e6e17</link>
+    <description>Episode 10 of Yowamushi Pedal: Limit Break is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/7eb3e54622ede7927471921afc94096729a31035b10f80032369c0233aa82265.jpg</snapshot>
+</item>
+
+<item>
     <title>Blue Lock - Episode 12</title>
     <link>https://animepahe.com/play/ab0e37b8-eb1c-8470-5d57-a6c8be85326d/df108a6d5ab2624aeb7b0eb1283d8dfda93088f8f2c33db2752d8c355dd8cddb</link>
     <description>Episode 12 of Blue Lock is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Pokemon (2019): Harukanaru Aoi Sora is out!</description>
     <fansub>Some-Stuffs</fansub>
     <snapshot>https://i.animepahe.com/snapshots/92a04d04e5684d923868ec255f07c5800dfce49405ad0d5fdb2b112f8ecb087d.jpg</snapshot>
-</item>
-
-<item>
-    <title>Boku no Hero Academia 6th Season - Episode 126</title>
-    <link>https://animepahe.com/play/4b2a5406-3a1d-132e-0cbb-34fb7af2c890/0232327f1044bbee1007afac9fcb9b7ccedd46f212de9e906b4237f1e6fb4238</link>
-    <description>Episode 126 of Boku no Hero Academia 6th Season is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/971a40829c5ca55ec5deaf84243c5d7e883ae11c846f244ef010f1457411aee1.jpg</snapshot>
 </item>
 
 </channel>
