@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pokemon (2019): Harukanaru Aoi Sora - Episode 1</title>
+    <link>https://animepahe.com/play/53bf7e9d-7e08-9109-965e-227dc2a4aadf/038f31dc28b8e866ef07dea4cfc851b814b84b15da2125ae2a26fb021bf25504</link>
+    <description>Episode 1 of Pokemon (2019): Harukanaru Aoi Sora is out!</description>
+    <fansub>Some-Stuffs</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/92a04d04e5684d923868ec255f07c5800dfce49405ad0d5fdb2b112f8ecb087d.jpg</snapshot>
+</item>
+
+<item>
     <title>Boku no Hero Academia 6th Season - Episode 126</title>
     <link>https://animepahe.com/play/4b2a5406-3a1d-132e-0cbb-34fb7af2c890/0232327f1044bbee1007afac9fcb9b7ccedd46f212de9e906b4237f1e6fb4238</link>
     <description>Episode 126 of Boku no Hero Academia 6th Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 13 of Uchi no Shishou wa Shippo ga Nai is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/46170278078d98d9ba1d24186056576cff267c9abb9096b57dca023684c82e0f.jpg</snapshot>
-</item>
-
-<item>
-    <title>Chiikawa - Episode 39</title>
-    <link>https://animepahe.com/play/48c1a5d4-b497-9a59-2e90-1477f505f93e/92d5f04911532646f363096bc3f1dc79cb8657aad8c070e26ace79cefa2e0fc3</link>
-    <description>Episode 39 of Chiikawa is out!</description>
-    <fansub>OdesaSubs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/64828a7873841cc4fde7ff56dbe2d95b75a25d70defa8977aebb25a534397a95.jpg</snapshot>
 </item>
 
 </channel>
