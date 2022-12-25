@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Fumetsu no Anata e 2nd Season - Episode 10</title>
+    <link>https://animepahe.com/play/b0e84f00-fc28-3a90-b56a-7c52af768196/38b2acc7623a375bda1071faf0dab49f3728d0334229473b443a6bc5edba313e</link>
+    <description>Episode 10 of Fumetsu no Anata e 2nd Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/c029e34ce2a63a5e6c8ea3ede340810373f9a5e476dcfa49bc3ba0006386dcc9.jpg</snapshot>
+</item>
+
+<item>
     <title>Utawarerumono: Futari no Hakuoro - Episode 28</title>
     <link>https://animepahe.com/play/03350f94-1cd1-50bd-0dc5-7fd288504d15/84186fda610ac6603f0a5c09428c15cc298c13daba71544504d705a6037c9872</link>
     <description>Episode 28 of Utawarerumono: Futari no Hakuoro is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Yowamushi Pedal: Limit Break is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/7eb3e54622ede7927471921afc94096729a31035b10f80032369c0233aa82265.jpg</snapshot>
-</item>
-
-<item>
-    <title>Blue Lock - Episode 12</title>
-    <link>https://animepahe.com/play/9be46426-1aa7-33a0-e3ea-0e81879d7855/26d55c41e2b5e4658a7df6d119d64501e56c98464dd7dc1cb9b0199c59a80396</link>
-    <description>Episode 12 of Blue Lock is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/83d75915b548e800c97affd6a40aae87d5652b36aa06936f6a92aabfac0635ac.jpg</snapshot>
 </item>
 
 </channel>
