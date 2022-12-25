@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Utawarerumono: Futari no Hakuoro - Episode 28</title>
+    <link>https://animepahe.com/play/03350f94-1cd1-50bd-0dc5-7fd288504d15/84186fda610ac6603f0a5c09428c15cc298c13daba71544504d705a6037c9872</link>
+    <description>Episode 28 of Utawarerumono: Futari no Hakuoro is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/84d18f6934a1f7612a9ec0d9e549c073d7eaec7010b9ce487a0130c8dd42f138.jpg</snapshot>
+</item>
+
+<item>
     <title>Kidou Senshi Gundam: Suisei no Majo - Episode 11</title>
     <link>https://animepahe.com/play/5e31df1f-0295-14e2-7b73-42c932357157/6e2f5dbabb2ccc3ac2a83319fd711637e54c435c25c70bfdb5fda44e86ddbe16</link>
     <description>Episode 11 of Kidou Senshi Gundam: Suisei no Majo is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Blue Lock is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/83d75915b548e800c97affd6a40aae87d5652b36aa06936f6a92aabfac0635ac.jpg</snapshot>
-</item>
-
-<item>
-    <title>Berserk: Ougon Jidai-hen - Memorial Edition - Episode 13</title>
-    <link>https://animepahe.com/play/72ff9b14-9adc-824f-8967-916cec623681/3d5dcc96fe56c5fb297adbd3e24a8dfca4e63ec86527a1526132c42b01da5ea3</link>
-    <description>Episode 13 of Berserk: Ougon Jidai-hen - Memorial Edition is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/ce96c76adea2927861a36a9cc133e465e0bb44399add3f2ce2b5932ca9bfb7a4.jpg</snapshot>
 </item>
 
 </channel>
