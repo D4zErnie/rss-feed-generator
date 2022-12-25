@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Isekai Quartet Movie: Another World - Episode 1</title>
+    <link>https://animepahe.com/play/39af32d3-ac81-640e-91a7-a301cf53ef2d/2f52b2b1857792586d590b5a512f0bddc92c1d6cc6bcf0286bd3d8da5d8cde20</link>
+    <description>Episode 1 of Isekai Quartet Movie: Another World is out!</description>
+    <fansub>NC-Raws</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/b91eac2e3619b81351b1632b00ad68ede14733d4df35d5a15c33f5c2b75862ea.jpg</snapshot>
+</item>
+
+<item>
     <title>Isekai Ojisan - Episode 11</title>
     <link>https://animepahe.com/play/ab60ba1a-07e0-b40c-09f2-a1a6f9d51114/3509935f2efa43645f52f4699bb70a3db1440bbff0e967b37ff4c3ed0e82674f</link>
     <description>Episode 11 of Isekai Ojisan is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Bocchi the Rock! is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/634141c91e994f720a22fa35726175f883656133fd8b4fa41b42873b28064b99.jpg</snapshot>
-</item>
-
-<item>
-    <title>Koukyuu no Karasu - Episode 13</title>
-    <link>https://animepahe.com/play/012a2e93-92ca-9a9e-960c-7c28eb27412e/288f46a3d060abbfea3f1d53da8ae9204462b6c3c612b743e675b2b349236909</link>
-    <description>Episode 13 of Koukyuu no Karasu is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/f4d0d70fcf043423372bcedb96c15290f5e809d5f4fc30e19f0ff33d0ef5add5.jpg</snapshot>
 </item>
 
 </channel>
