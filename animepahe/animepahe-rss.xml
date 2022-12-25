@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Delicious Party♡Precure - Episode 41</title>
+    <link>https://animepahe.com/play/e8273799-22df-c15d-27b5-bc0f725d6c3b/6ba9828afca65ee7b0d36a7782b2b77c9542c662607d73fb59bb6b1874b0b690</link>
+    <description>Episode 41 of Delicious Party♡Precure is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/bbb7e20452e168a142c31d1b6c2e3ddd2832030f41e2f91418d353255babe836.jpg</snapshot>
+</item>
+
+<item>
     <title>Pui Pui Molcar: Driving School - Episode 12</title>
     <link>https://animepahe.com/play/2783c4b5-c0fa-2ab3-f16c-1447a9cddb73/a60c76f3924d256b74469245a9f1471797947ba11f2aea1982874184de2366fd</link>
     <description>Episode 12 of Pui Pui Molcar: Driving School is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 13 of Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/7b3c2b816e14e5452cb7e8051e524c846cfbaeedc60ddc29192259d0be9f6607.jpg</snapshot>
-</item>
-
-<item>
-    <title>Uzaki-chan wa Asobitai! Double - Episode 13</title>
-    <link>https://animepahe.com/play/53024476-91a3-d5c4-632c-5a13ce3c5dfc/2bcb30c3b4ddf87ab4da851b1366cd801798ddbbd505e714f2edf4c3a47c6001</link>
-    <description>Episode 13 of Uzaki-chan wa Asobitai! Double is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/80f1c68cc10168c73337782c51874b92996687593c7c8bdb61dd2cf5d7497389.jpg</snapshot>
 </item>
 
 </channel>
