@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kidou Senshi Gundam: Suisei no Majo - Episode 11</title>
+    <link>https://animepahe.com/play/5e31df1f-0295-14e2-7b73-42c932357157/6e2f5dbabb2ccc3ac2a83319fd711637e54c435c25c70bfdb5fda44e86ddbe16</link>
+    <description>Episode 11 of Kidou Senshi Gundam: Suisei no Majo is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/f91f2a29bb25fb6bdd0b19ce9792ce7557bb3fe8ce6124a5393427625b2bf07e.jpg</snapshot>
+</item>
+
+<item>
     <title>Boruto: Naruto Next Generations - Episode 281</title>
     <link>https://animepahe.com/play/0cb53383-98a4-91d5-b521-f4096b511210/fb8ebc30812eb9935fd4a0eef27426df11ae38966c9590e8da33b70bb2aea4b7</link>
     <description>Episode 281 of Boruto: Naruto Next Generations is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 13 of Berserk: Ougon Jidai-hen - Memorial Edition is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/ce96c76adea2927861a36a9cc133e465e0bb44399add3f2ce2b5932ca9bfb7a4.jpg</snapshot>
-</item>
-
-<item>
-    <title>Utawarerumono: Futari no Hakuoro - Episode 27</title>
-    <link>https://animepahe.com/play/03350f94-1cd1-50bd-0dc5-7fd288504d15/29eab45c8895681a1b3ad8256e6ac3a48eadf1c5a5ccb02dc2273e8db65db9b5</link>
-    <description>Episode 27 of Utawarerumono: Futari no Hakuoro is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/e22e5d393de38e87a4d106387e5457cb24349e983f452f5421fdd987f4c00a8f.jpg</snapshot>
 </item>
 
 </channel>
