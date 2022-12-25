@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Peter Grill to Kenja no Jikan: Super Extra - Episode 12</title>
+    <link>https://animepahe.com/play/f472c434-4ed9-4af7-4807-cbb5263352c5/f40cc8509441a8b6286e3c0fc9095fcf1b1f2a862e4ad93db499e85ce443535f</link>
+    <description>Episode 12 of Peter Grill to Kenja no Jikan: Super Extra is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/c307cff18538c06d8eb4b5ca3daf36e3440e398563ad2eda05a80a826bfe75fa.jpg</snapshot>
+</item>
+
+<item>
     <title>IDOLiSH7 Third Beat! Part 2 - Episode 26</title>
     <link>https://animepahe.com/play/cb0a43f9-fdde-89cf-e613-e05f37e77678/769fb8d82c4046e3352f272e33ab471a91f27660c88dbd97dbeae75eea1a3e2a</link>
     <description>Episode 26 of IDOLiSH7 Third Beat! Part 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Pui Pui Molcar: Driving School is out!</description>
     <fansub>MoyaiCars</fansub>
     <snapshot>https://i.animepahe.com/snapshots/52bdeac78c60212fcedab37333c4ef472c73e9cbf83b060f9b0892b5b99fcc73.jpg</snapshot>
-</item>
-
-<item>
-    <title>Futoku no Guild - Episode 12</title>
-    <link>https://animepahe.com/play/a7eab191-ccb6-b5a6-8f70-68405cb13552/fe96497915ab1477b2c6fff5316e9140e31fd67bb9b2ab21793538d38dc5c584</link>
-    <description>Episode 12 of Futoku no Guild is out!</description>
-    <fansub>Anime_Chap</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/9008950f3d2c97e8da085fd7b1a398d70f4bf6313f79c9dbce313863d1db92b7.jpg</snapshot>
 </item>
 
 </channel>
