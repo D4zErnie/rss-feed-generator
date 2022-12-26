@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Isekai Ojisan - Episode 12</title>
+    <link>https://animepahe.com/play/15f95512-d68d-4321-c578-1ba1948d6c6e/1d60663dbcd0884e62dcc0a645cc50c080a2997b5db02d9b22c0109717aac877</link>
+    <description>Episode 12 of Isekai Ojisan is out!</description>
+    <fansub>SubsWhen</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/b21eeb3b498246a6398c340040d589a4d4cb748222e1cc450ea4acee1fdb2621.jpg</snapshot>
+</item>
+
+<item>
     <title>Bleach: Sennen Kessen-hen - Episode 13</title>
     <link>https://animepahe.com/play/a3bde54b-84ba-b6c1-bdb1-d67a5635eb89/c28d72227802f213b88d08fb2f4335527f584dc3861ff3c9adb7a5b1b135274e</link>
     <description>Episode 13 of Bleach: Sennen Kessen-hen is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Isekai Quartet Movie: Another World is out!</description>
     <fansub>NC-Raws</fansub>
     <snapshot>https://i.animepahe.com/snapshots/b91eac2e3619b81351b1632b00ad68ede14733d4df35d5a15c33f5c2b75862ea.jpg</snapshot>
-</item>
-
-<item>
-    <title>Isekai Ojisan - Episode 11</title>
-    <link>https://animepahe.com/play/15f95512-d68d-4321-c578-1ba1948d6c6e/c7ffde43d8551be505ad43145c355c64a4f434a38fba982986527fe5ae6956a7</link>
-    <description>Episode 11 of Isekai Ojisan is out!</description>
-    <fansub>SubsWhen</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/1ff03c7a6fbdb3e5008da965d4611a5f6ddf981e8ae02abb37a2296d9449f134.jpg</snapshot>
 </item>
 
 </channel>
