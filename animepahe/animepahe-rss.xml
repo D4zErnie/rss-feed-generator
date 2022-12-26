@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Bleach: Sennen Kessen-hen - Episode 13</title>
+    <link>https://animepahe.com/play/a3bde54b-84ba-b6c1-bdb1-d67a5635eb89/c28d72227802f213b88d08fb2f4335527f584dc3861ff3c9adb7a5b1b135274e</link>
+    <description>Episode 13 of Bleach: Sennen Kessen-hen is out!</description>
+    <fansub>Disney_Plus</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/d128060f3fdcdad50d5031cb2d21e5b13bfc98f4b4c8ffde3c9cd5e2df385dad.jpg</snapshot>
+</item>
+
+<item>
     <title>Cool Doji Danshi - Episode 12</title>
     <link>https://animepahe.com/play/6babbdc2-a2ac-353c-490a-14b49152a003/c31e4c96a3780117cb0e50d62d5c5f003ed24c9a6791f5aa2e87edc1eb1260f2</link>
     <description>Episode 12 of Cool Doji Danshi is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Isekai Ojisan is out!</description>
     <fansub>SubsWhen</fansub>
     <snapshot>https://i.animepahe.com/snapshots/1ff03c7a6fbdb3e5008da965d4611a5f6ddf981e8ae02abb37a2296d9449f134.jpg</snapshot>
-</item>
-
-<item>
-    <title>Digimon Ghost Game - Episode 57</title>
-    <link>https://animepahe.com/play/559c965e-1ca8-e3e8-1852-8e8dbf95e9ce/60f1e946b8ad146eaadaefc731a3a6d307ed76a6e59f30c9ea7fb562f7dd4533</link>
-    <description>Episode 57 of Digimon Ghost Game is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/080d71ba38696787dea5007e5c0468f0ceac1cbfc3b3f3093c8ef5eb0b8edc3b.jpg</snapshot>
 </item>
 
 </channel>
