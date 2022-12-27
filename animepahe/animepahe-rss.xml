@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Vazzrock The Animation - Episode 13</title>
+    <link>https://animepahe.com/play/3d76d33d-0b38-600a-b823-64749662cbbe/21ef59c414990dc9c2e0d0c5ac7884bc8779664d93c4a0df51bbb6ccc2e01cf1</link>
+    <description>Episode 13 of Vazzrock The Animation is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/868218f6c38ecc9ad9bec9ab30a3f2fc0a18cee0b6502e4fb2979be2a550e741.jpg</snapshot>
+</item>
+
+<item>
     <title>Isekai Ojisan - Episode 12</title>
     <link>https://animepahe.com/play/e6d5596a-0f95-e120-c394-491b7ac47455/fa694145975a62c861e3e649b6d128842dd24ed89920a34de4602b64b52ec796</link>
     <description>Episode 12 of Isekai Ojisan is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 281 of Boruto: Naruto Next Generations is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/a77d23da4d1192f6150f9b8263bfc6529f780231b40e342017a024acc4a45c3b.jpg</snapshot>
-</item>
-
-<item>
-    <title>Isekai Quartet Movie: Another World - Episode 1</title>
-    <link>https://animepahe.com/play/2b2308d1-57c9-2718-c69e-ae440ce019f3/13a0b1e75e04c3561782c07a760a86dc7b9a201703d5741fce98d6395fe54649</link>
-    <description>Episode 1 of Isekai Quartet Movie: Another World is out!</description>
-    <fansub>NC-Raws</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/b91eac2e3619b81351b1632b00ad68ede14733d4df35d5a15c33f5c2b75862ea.jpg</snapshot>
 </item>
 
 </channel>
