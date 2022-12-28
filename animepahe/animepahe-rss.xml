@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Crayon Shin-chan - Episode 47</title>
+    <link>https://animepahe.com/play/fc22c26d-68d2-bbab-c59a-24d7fcbff6c6/10927965cf2735333cd90b286def9e82547c1547ce949cb0279e5a0c5f3d3aa5</link>
+    <description>Episode 47 of Crayon Shin-chan is out!</description>
+    <fansub>BuriBuri</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/7ad2ecf76c69d8bf60edd4c0304615d5470002481c767140eecf6ce03416436e.jpg</snapshot>
+</item>
+
+<item>
     <title>Eternal Boys - Episode 13</title>
     <link>https://animepahe.com/play/5a417ff4-0fe5-9d8d-742e-afa8989d2f67/a0bb7f08c936d28747d8674369b7d347e6e8c92c7a80f30d7db5f954f8a7e630</link>
     <description>Episode 13 of Eternal Boys is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 10 of Fumetsu no Anata e 2nd Season is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c029e34ce2a63a5e6c8ea3ede340810373f9a5e476dcfa49bc3ba0006386dcc9.jpg</snapshot>
-</item>
-
-<item>
-    <title>Utawarerumono: Futari no Hakuoro - Episode 28</title>
-    <link>https://animepahe.com/play/d4bc8153-c8dc-4c82-36ef-d7f7e4a2bdd7/f1e62cee91d631fff5d131bf1968c224f3448cc71bada7960b44ed1f4e2b55f2</link>
-    <description>Episode 28 of Utawarerumono: Futari no Hakuoro is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/84d18f6934a1f7612a9ec0d9e549c073d7eaec7010b9ce487a0130c8dd42f138.jpg</snapshot>
 </item>
 
 </channel>
