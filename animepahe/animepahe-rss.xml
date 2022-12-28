@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Renai Flops - Episode 12</title>
+    <link>https://animepahe.com/play/489b047c-d1e9-172f-d3d3-e1a994c53d69/c8770e520fcd62be02d11435fdaafd4aa59cbb8410fb86978a1f000ed60c6e12</link>
+    <description>Episode 12 of Renai Flops is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/197ad61431fd09bb089336803191e8b74f039e0c2f4fe9d94b7414e170654748.jpg</snapshot>
+</item>
+
+<item>
     <title>Kage no Jitsuryokusha ni Naritakute! - Episode 13</title>
     <link>https://animepahe.com/play/f4be83ed-650d-3d22-3a2b-4c528acc481a/763e33abb784ed0830a3ddc48162090c2bb86baea412f9d06f12387513f3504d</link>
     <description>Episode 13 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 26 of IDOLiSH7 Third Beat! Part 2 is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/aca125cbdfaa7982237edb4e7ab24e2eee62b542bcbb0fef732cb9bd9e21b007.jpg</snapshot>
-</item>
-
-<item>
-    <title>Fuufu Ijou, Koibito Miman. - Episode 12</title>
-    <link>https://animepahe.com/play/f7b26602-d664-8e05-9232-be4068f23c67/79db10879e86f6f2152d8eb34931fb7204a9eb3f8897dbb70e342cbf407f8286</link>
-    <description>Episode 12 of Fuufu Ijou, Koibito Miman. is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/4cd880552bacc3643fd2871f04543eab45871a5841bf080dab5a5ddcae7169ac.jpg</snapshot>
 </item>
 
 </channel>
