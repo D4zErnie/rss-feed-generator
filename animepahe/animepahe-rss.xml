@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Beyblade Burst Dynamite Battle - Episode 52</title>
+    <link>https://animepahe.com/play/9341ea7a-0cce-11ab-91d2-00737e882cac/7f64d11da5f76a8f365b0a2bf6c1a2d401143b141657c1f062ae4014eb15647a</link>
+    <description>Episode 52 of Beyblade Burst Dynamite Battle is out!</description>
+    <fansub>HnY</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/c38523fa2f29aa8a5700e3e8a318375494e81e5ed3f2481a185f8bee5299afbf.jpg</snapshot>
+</item>
+
+<item>
     <title>Obey Me! Season 2 - Episode 12</title>
     <link>https://animepahe.com/play/e5f1f90c-663c-85d4-5e76-290270e4926e/c2e4aa8ad0acdf72ca8d1045ea7daf38844ba5b20e9045b48aeb78be7d4e8436</link>
     <description>Episode 12 of Obey Me! Season 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 13 of Vazzrock The Animation is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/868218f6c38ecc9ad9bec9ab30a3f2fc0a18cee0b6502e4fb2979be2a550e741.jpg</snapshot>
-</item>
-
-<item>
-    <title>Isekai Ojisan - Episode 12</title>
-    <link>https://animepahe.com/play/65b26440-e56a-1a3c-8afd-08723a9991a5/9e7b90a75da3d34b5a15b85d33c058ff39970e68d72387943462de9efa4ee875</link>
-    <description>Episode 12 of Isekai Ojisan is out!</description>
-    <fansub>SubsWhen</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/b21eeb3b498246a6398c340040d589a4d4cb748222e1cc450ea4acee1fdb2621.jpg</snapshot>
 </item>
 
 </channel>
