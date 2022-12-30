@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Obey Me! Season 2 - Episode 12</title>
+    <link>https://animepahe.com/play/e5f1f90c-663c-85d4-5e76-290270e4926e/c2e4aa8ad0acdf72ca8d1045ea7daf38844ba5b20e9045b48aeb78be7d4e8436</link>
+    <description>Episode 12 of Obey Me! Season 2 is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/af08e3be45e6253b97804ab1585b0ce6ded4241288f36455b0cce18d0b1fe88c.jpg</snapshot>
+</item>
+
+<item>
     <title>Megaton-kyuu Musashi 2nd Season - Episode 21</title>
     <link>https://animepahe.com/play/41f04bad-7038-4ac1-f29b-a0881d21465a/03cedffe2f056357773151bf3484c021ae18702994b00a092befca9c6342e6fb</link>
     <description>Episode 21 of Megaton-kyuu Musashi 2nd Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Isekai Ojisan is out!</description>
     <fansub>SubsWhen</fansub>
     <snapshot>https://i.animepahe.com/snapshots/b21eeb3b498246a6398c340040d589a4d4cb748222e1cc450ea4acee1fdb2621.jpg</snapshot>
-</item>
-
-<item>
-    <title>Bleach: Sennen Kessen-hen - Episode 13</title>
-    <link>https://animepahe.com/play/4a9ff873-e5f6-4694-5594-7706501a6a13/5fde8263e6ac684c4df26be1eb7fae1a42a4f30939d85b365ec14a090c1bb00b</link>
-    <description>Episode 13 of Bleach: Sennen Kessen-hen is out!</description>
-    <fansub>Disney_Plus</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/d128060f3fdcdad50d5031cb2d21e5b13bfc98f4b4c8ffde3c9cd5e2df385dad.jpg</snapshot>
 </item>
 
 </channel>
