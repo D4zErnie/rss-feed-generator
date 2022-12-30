@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Golden Kamuy - Episode 8</title>
+    <link>https://animepahe.com/play/021c8062-a0ec-8647-54bc-e1f5f9dc3098/eb75d8f3cdadfaf3a049fb9c4bc24505296de6cf24e73c5b2cfd510b04d4f5fe</link>
+    <description>Episode 8 of Golden Kamuy is out!</description>
+    <fansub>Bunny-Apocalypse</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/7c09c646592bac53bbdd46000bb6b4d3335435084b9c06b6d018ee807691a60e.jpg</snapshot>
+</item>
+
+<item>
     <title>Beyblade Burst Dynamite Battle - Episode 52</title>
     <link>https://animepahe.com/play/9341ea7a-0cce-11ab-91d2-00737e882cac/7f64d11da5f76a8f365b0a2bf6c1a2d401143b141657c1f062ae4014eb15647a</link>
     <description>Episode 52 of Beyblade Burst Dynamite Battle is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Chainsaw Man is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/67f75670920549fbd7ef032927974a9d6e87f24a11564ad6d72eb0cbf98df92c.jpg</snapshot>
-</item>
-
-<item>
-    <title>Vazzrock The Animation - Episode 13</title>
-    <link>https://animepahe.com/play/b1d30af9-9c83-ef15-33de-3aef26a9a1da/f447e7558058e30fcc8d228e843efcb7fa23d4c10662113011eb379a7bbdcaea</link>
-    <description>Episode 13 of Vazzrock The Animation is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/868218f6c38ecc9ad9bec9ab30a3f2fc0a18cee0b6502e4fb2979be2a550e741.jpg</snapshot>
 </item>
 
 </channel>
