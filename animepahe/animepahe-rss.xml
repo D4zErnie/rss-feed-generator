@@ -7,6 +7,30 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Dr. Slump Movie 10: Arale no Bikkuriman - Episode 1</title>
+    <link>https://animepahe.com/play/f23a2e31-9e27-303c-1d76-b33e9e2e153b/ed2afcd481feb3159897c016d6275afa87780ff2ac51a960c55f32f9a0054014</link>
+    <description>Episode 1 of Dr. Slump Movie 10: Arale no Bikkuriman is out!</description>
+    <fansub>zman</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/7061d39965b2a72995c1048ca011ae55827ac75cf5a64f00877751f1b97061d8.jpg</snapshot>
+</item>
+
+<item>
+    <title>Dr. Slump: Robot Taiketsu! Shukuteki Dr. Mashirito Toujou / Keen de Yuushou!? Penguin Grand Prix - Episode 14.5</title>
+    <link>https://animepahe.com/play/7084e6a7-4c20-86a7-5091-eff1dc75b12c/61d852de735c14c7a74ebeaa3ab42ba700cfda6800eea32369dc6bf0670d1e8f</link>
+    <description>Episode 14.5 of Dr. Slump: Robot Taiketsu! Shukuteki Dr. Mashirito Toujou / Keen de Yuushou!? Penguin Grand Prix is out!</description>
+    <fansub>zman</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/6c32747cba51e528a5220fdca4b6d6409d4a573fb138e019b500ea1ea75d73bb.jpg</snapshot>
+</item>
+
+<item>
+    <title>Dr. Slump - Episode 74</title>
+    <link>https://animepahe.com/play/72fcd461-29f5-f9fa-818f-b7205df0f29b/eb3dafba288d6648277c60a9a6e32b25ed0d3f2a7aff1fd34d747f705e6a9483</link>
+    <description>Episode 74 of Dr. Slump is out!</description>
+    <fansub>zman</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/fbca78dbf89c186eb56133417f5658755549531504b4bd7312f00defa5e9c18d.jpg</snapshot>
+</item>
+
+<item>
     <title>Bureau of Paranormal Investigation - Episode 7</title>
     <link>https://animepahe.com/play/32e9cf65-b59d-7e39-0848-dfc022793ead/8c3043d5018085033d5aefaa7dfeb94663f98298b0f8479117e256020eb2eeb1</link>
     <description>Episode 7 of Bureau of Paranormal Investigation is out!</description>
@@ -76,30 +100,6 @@
     <description>Episode 4 of Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen is out!</description>
     <fansub>BlackLuster</fansub>
     <snapshot>https://i.animepahe.com/snapshots/a0a1f599eef7fbc378dd7f73872a4baad940742648252d55fadf1a0c5e7a64a8.jpg</snapshot>
-</item>
-
-<item>
-    <title>Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen - Episode 3</title>
-    <link>https://animepahe.com/play/73ab1ef7-516b-c9b0-57ff-4e1957cf4158/03e7f305cac9896b462443c1ba2885ba3cc9e11b07806c5bd08f25521fdce04d</link>
-    <description>Episode 3 of Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen is out!</description>
-    <fansub>BlackLuster</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/69d79426eb75b7cb671d5390e15e93eb51f3eb5051440de2af6af6c23a1ff3c2.jpg</snapshot>
-</item>
-
-<item>
-    <title>Doraemon Movie 41: Nobita no Little Star Wars - Episode 1</title>
-    <link>https://animepahe.com/play/4fcd492b-f7c9-420b-6277-6db8ecfa5fa4/8a00a22a2555c7491f997401950e9024ca131317aacd910662a73e0bb4fa2973</link>
-    <description>Episode 1 of Doraemon Movie 41: Nobita no Little Star Wars is out!</description>
-    <fansub>BlueMoon</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/54a58d1f5840ea404dbb3e5823e084b53e918bd26c77298bdfdb837eed9f38e8.jpg</snapshot>
-</item>
-
-<item>
-    <title>Eternal Boys - Episode 14</title>
-    <link>https://animepahe.com/play/7985d386-93df-d8e2-97ad-22927ad27aea/539f498360000e47697afe9d8522de0f0a2bb0d3fec437fc077918ea6f74d62c</link>
-    <description>Episode 14 of Eternal Boys is out!</description>
-    <fansub>KudouSubs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/11449c4723cf5fe989f5f03ad7e2e94ba4faedc9a501959bd8d7ef2ef14ea97b.jpg</snapshot>
 </item>
 
 </channel>
