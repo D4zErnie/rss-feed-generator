@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Gokushufudou Season 2 - Episode 5</title>
+    <link>https://animepahe.com/play/13758d5a-5821-d845-e390-2d0940a4a54d/884a72a3497530e584c26a295041bea8058f1450ff282bcad5f4516e2b88e64e</link>
+    <description>Episode 5 of Gokushufudou Season 2 is out!</description>
+    <fansub>Netflix</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/7bb99e1e0fbab31695dfa633471b7a4ac201102e3dbd7e191b2be72c1181ba43.jpg</snapshot>
+</item>
+
+<item>
     <title>Eternal Boys - Episode 16</title>
     <link>https://animepahe.com/play/53a48eb0-acb6-6684-95e0-f09b5f78adfe/e566acaf9dcd14dce4ff48db066fc4960fd23511d860ffafb93d0911446e28d1</link>
     <description>Episode 16 of Eternal Boys is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 4 of Lupin Zero is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/7fb9f0178e1052bd9baff5868f4309b5941adea667648d1011d6d51877c3fb9e.jpg</snapshot>
-</item>
-
-<item>
-    <title>Golden Kamuy 3rd Season - Episode 36</title>
-    <link>https://animepahe.com/play/c4d41c25-3aae-0a44-13dc-c87648960994/4a98aa844653f9f1508ff788aad9c2aa2dc7d9b97e82a154b437d9cd4a041882</link>
-    <description>Episode 36 of Golden Kamuy 3rd Season is out!</description>
-    <fansub>Bunny-Apocalypse</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/ef54d8efb2be511d340f3d4648553f372c45ead070343520e0431bb0775e89f1.jpg</snapshot>
 </item>
 
 </channel>
