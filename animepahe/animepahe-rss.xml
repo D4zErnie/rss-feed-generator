@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Karakai Jouzu no Takagi-san Movie - Episode 1</title>
+    <link>https://animepahe.com/play/6a8b72e5-6f6a-68d3-3498-d191b4a6f4ea/6792c529a495285d044a36c4330fa86b593ea61643dfc790ed9cf767872681cd</link>
+    <description>Episode 1 of Karakai Jouzu no Takagi-san Movie is out!</description>
+    <fansub>TakaNishi</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/85b3c027905814b9c044c1751fe30c0ddec7822f97b5d3cb82135ca6078f7815.jpg</snapshot>
+</item>
+
+<item>
     <title>Tsurune: Kazemai Koukou Kyuudou-bu - Yabai - Episode 14</title>
     <link>https://animepahe.com/play/89279b68-e61d-8434-bd28-19535a502ea1/2259dcbccbd847199ccb3671e61946ae954109a838c32c5f36845a626897fb8d</link>
     <description>Episode 14 of Tsurune: Kazemai Koukou Kyuudou-bu - Yabai is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Dr. Slump Movie 10: Arale no Bikkuriman is out!</description>
     <fansub>zman</fansub>
     <snapshot>https://i.animepahe.com/snapshots/7061d39965b2a72995c1048ca011ae55827ac75cf5a64f00877751f1b97061d8.jpg</snapshot>
-</item>
-
-<item>
-    <title>Dr. Slump: Robot Taiketsu! Shukuteki Dr. Mashirito Toujou / Keen de Yuushou!? Penguin Grand Prix - Episode 14.5</title>
-    <link>https://animepahe.com/play/4d152762-bf5f-898b-daa5-73864923819d/80a63bd553d3989b58fef8da440adacd18aaedd5f97a4457ff642c4d9146487d</link>
-    <description>Episode 14.5 of Dr. Slump: Robot Taiketsu! Shukuteki Dr. Mashirito Toujou / Keen de Yuushou!? Penguin Grand Prix is out!</description>
-    <fansub>zman</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/6c32747cba51e528a5220fdca4b6d6409d4a573fb138e019b500ea1ea75d73bb.jpg</snapshot>
 </item>
 
 </channel>
