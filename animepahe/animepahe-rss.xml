@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou - Episode 4</title>
+    <link>https://animepahe.com/play/ff3eb4e4-a59c-1550-d40b-1c3c963be60e/64e769dce10ac4a6d54a1721215fe2883c347626d7d0e09a9aea8885d496c435</link>
+    <description>Episode 4 of Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou is out!</description>
+    <fansub>Vanilla</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/403e9bf3d86a5f3bfeb98ff94c65a294276d9c3f4f463a38fa4977794fd55ae5.jpg</snapshot>
+</item>
+
+<item>
     <title>Gokushufudou Season 2 - Episode 5</title>
     <link>https://animepahe.com/play/13758d5a-5821-d845-e390-2d0940a4a54d/884a72a3497530e584c26a295041bea8058f1450ff282bcad5f4516e2b88e64e</link>
     <description>Episode 5 of Gokushufudou Season 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 7 of Bureau of Paranormal Investigation is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/513a0b7071e5ed490c89fc2d930de1dd4f3b5fe4b67e6ab477550ff5018688b8.jpg</snapshot>
-</item>
-
-<item>
-    <title>Lupin Zero - Episode 4</title>
-    <link>https://animepahe.com/play/df80039e-cb57-3578-0adb-fca75535deab/096ec9761d9ff858554790c7c9201e26e22198fef1fa4dc85fc5edcac516b495</link>
-    <description>Episode 4 of Lupin Zero is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/7fb9f0178e1052bd9baff5868f4309b5941adea667648d1011d6d51877c3fb9e.jpg</snapshot>
 </item>
 
 </channel>
