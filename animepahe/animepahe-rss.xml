@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu - Episode 1</title>
+    <link>https://animepahe.com/play/ee4e3a6d-c7b0-6797-c48d-19f837e29074/4f3a6876d86b438b4d3e5e8f3c5685930f7274dfdb920fb546a618860f0fcc24</link>
+    <description>Episode 1 of Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/80384562bdbbf86b2083b0596f18d02e8fcc78485b5cf4999234dac16c80cd06.jpg</snapshot>
+</item>
+
+<item>
     <title>Karakai Jouzu no Takagi-san Movie - Episode 1</title>
     <link>https://animepahe.com/play/6ca2d7a9-5373-c63f-dbb5-d86d2b321ae4/68873c51cfe1f715a98c4e17630738e1f94be4cb96695a48731a2b27faf8aaa4</link>
     <description>Episode 1 of Karakai Jouzu no Takagi-san Movie is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 26 of Kimetsu no Yaiba is out!</description>
     <fansub>SCY</fansub>
     <snapshot>https://i.animepahe.com/snapshots/a7abf92b7c5b8182234fd468553c09eb4e24b5c73205962ee98e807f48802827.jpg</snapshot>
-</item>
-
-<item>
-    <title>Dr. Slump Movie 10: Arale no Bikkuriman - Episode 1</title>
-    <link>https://animepahe.com/play/4e3351a7-7f15-f439-0c15-11cd7b3dd799/9bb782d4c634511a46903be5d4f2b502e6ff1f4f95b27bf2d2a7a64a7d6cad2b</link>
-    <description>Episode 1 of Dr. Slump Movie 10: Arale no Bikkuriman is out!</description>
-    <fansub>zman</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/7061d39965b2a72995c1048ca011ae55827ac75cf5a64f00877751f1b97061d8.jpg</snapshot>
 </item>
 
 </channel>
