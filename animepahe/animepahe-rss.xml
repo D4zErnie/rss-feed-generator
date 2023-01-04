@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Free! Movie 5: The Final Stroke - Kouhen - Episode 1</title>
+    <link>https://animepahe.com/play/a5775eee-5fef-b711-f1e1-112d583168a4/e9975d1d32d338554b69782ee4eb059310b851ad664da52ba79b8daa2d6893d5</link>
+    <description>Episode 1 of Free! Movie 5: The Final Stroke - Kouhen is out!</description>
+    <fansub>KudouSubs</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/c3a87a92ac9540a90422e9bd27419eae89b26e66e6feca6ddcc454cbd31ceeec.jpg</snapshot>
+</item>
+
+<item>
     <title>Reiwa no Di Gi Charat - Episode 12</title>
     <link>https://animepahe.com/play/50694096-a273-783c-fa44-a3a17fc469e4/3f856c6a6c87bdc2da077fc1108050bc0854fc558e2ccb85128eb2f90c27947e</link>
     <description>Episode 12 of Reiwa no Di Gi Charat is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 7 of Kimetsu no Yaiba: Mugen Ressha-hen is out!</description>
     <fansub>OZR</fansub>
     <snapshot>https://i.animepahe.com/snapshots/ec998be53f98bce28bc715d021636ad509279a517ffe18f71b607fe2aa94c065.jpg</snapshot>
-</item>
-
-<item>
-    <title>Kimetsu no Yaiba Movie: Mugen Ressha-hen - Episode 1</title>
-    <link>https://animepahe.com/play/7a01f3bd-4b78-ff2f-3dc7-9915b3c71744/2af855a9caa43113c322b70f99eb69bfa4c2c68799a1e32d968354fc785106b0</link>
-    <description>Episode 1 of Kimetsu no Yaiba Movie: Mugen Ressha-hen is out!</description>
-    <fansub>OZR</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/62fd4c082eda2fc7dcc4123172dc53a9141f3aad687e14c08259df037508e197.jpg</snapshot>
 </item>
 
 </channel>
