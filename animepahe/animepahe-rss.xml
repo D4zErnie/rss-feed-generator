@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Reiwa no Di Gi Charat - Episode 12</title>
+    <link>https://animepahe.com/play/50694096-a273-783c-fa44-a3a17fc469e4/3f856c6a6c87bdc2da077fc1108050bc0854fc558e2ccb85128eb2f90c27947e</link>
+    <description>Episode 12 of Reiwa no Di Gi Charat is out!</description>
+    <fansub>MoyaiSubs</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/d2f1cd54c2d0999819c3b7e347b8627d82cac8f9780183676dc9ac1078c30071.jpg</snapshot>
+</item>
+
+<item>
     <title>Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu - Episode 1</title>
     <link>https://animepahe.com/play/016332bf-43fe-2c63-0f8a-4badf906d8c8/11beeb43fd3b806573c551b9915492232587ccb139097499025e750770011cdc</link>
     <description>Episode 1 of Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Kimetsu no Yaiba Movie: Mugen Ressha-hen is out!</description>
     <fansub>OZR</fansub>
     <snapshot>https://i.animepahe.com/snapshots/62fd4c082eda2fc7dcc4123172dc53a9141f3aad687e14c08259df037508e197.jpg</snapshot>
-</item>
-
-<item>
-    <title>Kimetsu no Yaiba - Episode 26</title>
-    <link>https://animepahe.com/play/6db4fa45-d83e-f8f6-43c2-0fe0d7de4c86/2e85c019d94e4abb33158e43605bd37d875e3be235bca3903323439c2b5210d3</link>
-    <description>Episode 26 of Kimetsu no Yaiba is out!</description>
-    <fansub>SCY</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/a7abf92b7c5b8182234fd468553c09eb4e24b5c73205962ee98e807f48802827.jpg</snapshot>
 </item>
 
 </channel>
