@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Revenger - Episode 1</title>
+    <link>https://animepahe.com/play/49ee04f1-3f29-6e62-5367-e307a2ef9d4f/25de34613f2e5a18d731787c9c9c0fc4f9f34495459c9a077bdb3d02d18739cc</link>
+    <description>Episode 1 of Revenger is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/66003e39df2665ef1824a98e77c761b1d73eda9a6ff44570560959406d66f5ea.jpg</snapshot>
+</item>
+
+<item>
     <title>Spy Kyoushitsu - Episode 1</title>
     <link>https://animepahe.com/play/484d7ddf-9e62-f363-d021-525454e0b52f/310d67f3e599b2a8fe99505320a03e7519d7ed740d6731af748930a844739dc8</link>
     <description>Episode 1 of Spy Kyoushitsu is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/80384562bdbbf86b2083b0596f18d02e8fcc78485b5cf4999234dac16c80cd06.jpg</snapshot>
-</item>
-
-<item>
-    <title>Karakai Jouzu no Takagi-san Movie - Episode 1</title>
-    <link>https://animepahe.com/play/5092fd26-3b6a-852f-84e5-0290e9d14483/a642396a2ce41f8068fb6da3665070a6d16fcd3ed418ebb192cdf0bf5b9374d0</link>
-    <description>Episode 1 of Karakai Jouzu no Takagi-san Movie is out!</description>
-    <fansub>TakaNishi</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/85b3c027905814b9c044c1751fe30c0ddec7822f97b5d3cb82135ca6078f7815.jpg</snapshot>
 </item>
 
 </channel>
