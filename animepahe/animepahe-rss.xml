@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Pokemon (2019): Harukanaru Aoi Sora - Episode 1</title>
+    <link>https://animepahe.com/play/73b57ae3-d199-1fcb-e097-7ef431e1da13/2229cd318b325b4bf1b6484baf26f3f6b906f4fdfe2a8585037eccd8e6dbdc9d</link>
+    <description>Episode 1 of Pokemon (2019): Harukanaru Aoi Sora is out!</description>
+    <fansub>Some-Stuffs</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/92a04d04e5684d923868ec255f07c5800dfce49405ad0d5fdb2b112f8ecb087d.jpg</snapshot>
+</item>
+
+<item>
     <title>Hyouken no Majutsushi ga Sekai wo Suberu - Episode 1</title>
     <link>https://animepahe.com/play/9c26cc3d-ea64-0a80-a31b-d161051755e7/f4b49bcc197a52d056c1cf90e02bb5cd83edc13f7bfa23aadeaf4a6865a90ad9</link>
     <description>Episode 1 of Hyouken no Majutsushi ga Sekai wo Suberu is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Tsurune: Tsunagari no Issha is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c7ec5b6aafbd1026495c694c728d2619f5fe15244bbfc7a42ff472540f4391ec.jpg</snapshot>
-</item>
-
-<item>
-    <title>Koori Zokusei Danshi to Cool na Douryou Joshi - Episode 1</title>
-    <link>https://animepahe.com/play/6aed4095-6400-5d1a-e748-9c7146767de1/fcd2271d464ffe9da7dcd74a77905c3ecb2dbe41f247cbce3bd65f00018132d4</link>
-    <description>Episode 1 of Koori Zokusei Danshi to Cool na Douryou Joshi is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/c5a0ef707afd564c6eba16e9095cae1dd8cb673f65894082c1f0c304dada20b0.jpg</snapshot>
 </item>
 
 </channel>
