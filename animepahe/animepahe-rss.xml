@@ -7,6 +7,22 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Hyouken no Majutsushi ga Sekai wo Suberu - Episode 1</title>
+    <link>https://animepahe.com/play/9c26cc3d-ea64-0a80-a31b-d161051755e7/f4b49bcc197a52d056c1cf90e02bb5cd83edc13f7bfa23aadeaf4a6865a90ad9</link>
+    <description>Episode 1 of Hyouken no Majutsushi ga Sekai wo Suberu is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/51e525f18717237e4703625babc2c2657c33b626756eea79bf40230b9c58657a.jpg</snapshot>
+</item>
+
+<item>
+    <title>Inu ni Nattara Suki na Hito ni Hirowareta. - Episode 1</title>
+    <link>https://animepahe.com/play/bf7090a8-8b30-4e4d-650c-9a76fee25bb3/8b63c21b510a2223c8343ff2d1b2e3fa8823ac30dd8a8ca422afcc321f5ffcec</link>
+    <description>Episode 1 of Inu ni Nattara Suki na Hito ni Hirowareta. is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/94f0288d2e1915ece47ea32ed2102a6ee7b509c54577282062bece4e4ceb78bd.jpg</snapshot>
+</item>
+
+<item>
     <title>Urusei Yatsura (2022) - Episode 12</title>
     <link>https://animepahe.com/play/9ce67d00-032d-61fc-3bd1-34c6a0389e0a/bfa4ac4de67c986c7328b753a73fdbedade39df9e32ac0ec7677b0078e719c8f</link>
     <description>Episode 12 of Urusei Yatsura (2022) is out!</description>
@@ -84,22 +100,6 @@
     <description>Episode 1 of Koori Zokusei Danshi to Cool na Douryou Joshi is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c5a0ef707afd564c6eba16e9095cae1dd8cb673f65894082c1f0c304dada20b0.jpg</snapshot>
-</item>
-
-<item>
-    <title>Tensei Oujo to Tensai Reijou no Mahou Kakumei - Episode 1</title>
-    <link>https://animepahe.com/play/c3220c9a-d896-e9eb-3398-73fa4cd648a0/981a2811ce09ba99d298e9b4ab4222a626b13c81868f8608009b09bbee17d076</link>
-    <description>Episode 1 of Tensei Oujo to Tensai Reijou no Mahou Kakumei is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/fdb0a05f78f7ee8c162b07570c867d8c112c495dd76b40d025f4658b81ef6e01.jpg</snapshot>
-</item>
-
-<item>
-    <title>Kage no Jitsuryokusha ni Naritakute! - Episode 14</title>
-    <link>https://animepahe.com/play/6b93886a-a920-9a16-05cf-09ade3a430da/93c4a500d59b1da23685707da7c711d5b79ddc18ad5caf19e22552510143ef57</link>
-    <description>Episode 14 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/1bf8c991d416c8a0b3125ef13010406cbf10ead8b5653da4dcd279a372646203.jpg</snapshot>
 </item>
 
 </channel>
