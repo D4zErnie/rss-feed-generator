@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Urusei Yatsura (2022) - Episode 12</title>
+    <link>https://animepahe.com/play/9ce67d00-032d-61fc-3bd1-34c6a0389e0a/bfa4ac4de67c986c7328b753a73fdbedade39df9e32ac0ec7677b0078e719c8f</link>
+    <description>Episode 12 of Urusei Yatsura (2022) is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/015a796931d38f7093eee470ff03e55f6728011c79af17b2c2f7a4d39b6b9876.jpg</snapshot>
+</item>
+
+<item>
     <title>Oniichan wa Oshimai! - Episode 1</title>
     <link>https://animepahe.com/play/0db51c64-d244-7f53-82b4-fdb56ceabc63/a95a89caa007aae0010826be845f9071bde17a92f29b6ee8b91ddadf4e5b676a</link>
     <description>Episode 1 of Oniichan wa Oshimai! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 14 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/1bf8c991d416c8a0b3125ef13010406cbf10ead8b5653da4dcd279a372646203.jpg</snapshot>
-</item>
-
-<item>
-    <title>Free! Movie 5: The Final Stroke - Kouhen - Episode 1</title>
-    <link>https://animepahe.com/play/074536c4-912c-c70c-42cc-81d32fc857da/c693c4ea5460489946415e2312e733810218df154093219472ced163656d500e</link>
-    <description>Episode 1 of Free! Movie 5: The Final Stroke - Kouhen is out!</description>
-    <fansub>KudouSubs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/c3a87a92ac9540a90422e9bd27419eae89b26e66e6feca6ddcc454cbd31ceeec.jpg</snapshot>
 </item>
 
 </channel>
