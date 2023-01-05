@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Oniichan wa Oshimai! - Episode 1</title>
+    <link>https://animepahe.com/play/0db51c64-d244-7f53-82b4-fdb56ceabc63/a95a89caa007aae0010826be845f9071bde17a92f29b6ee8b91ddadf4e5b676a</link>
+    <description>Episode 1 of Oniichan wa Oshimai! is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/5a104f5e7ab640a24413f37768a1b401b292301f48b6c95a9a75f71a50095a68.jpg</snapshot>
+</item>
+
+<item>
     <title>Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen - Episode 12</title>
     <link>https://animepahe.com/play/66a22d27-bb2e-0294-0684-f81450c474cf/6feaddad157184e4e205562302f4c9e4cec8c75e4e48378a169277f67c636eb1</link>
     <description>Episode 12 of Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Free! Movie 5: The Final Stroke - Kouhen is out!</description>
     <fansub>KudouSubs</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c3a87a92ac9540a90422e9bd27419eae89b26e66e6feca6ddcc454cbd31ceeec.jpg</snapshot>
-</item>
-
-<item>
-    <title>Reiwa no Di Gi Charat - Episode 12</title>
-    <link>https://animepahe.com/play/7bc60097-120f-05e7-da66-ff8b46a13970/b8daba98ee2380187ffa1ad642c14f7f39b67c5e0e4fde2546f27a5ae1991e38</link>
-    <description>Episode 12 of Reiwa no Di Gi Charat is out!</description>
-    <fansub>MoyaiSubs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/d2f1cd54c2d0999819c3b7e347b8627d82cac8f9780183676dc9ac1078c30071.jpg</snapshot>
 </item>
 
 </channel>
