@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Lupin Zero - Episode 5</title>
+    <link>https://animepahe.com/play/5bb65f95-9a53-7f54-5faf-d254606a90df/638e022a33f386d3fc0a2f16ae4d4b15906999227b4d0b3126eedb38deec2f7b</link>
+    <description>Episode 5 of Lupin Zero is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/ac33aa3978308a8c53502ac8faf4360e31467c5a161581692f59d11383c32db2.jpg</snapshot>
+</item>
+
+<item>
     <title>The Legend of Heroes: Sen no Kiseki - Northern War - Episode 1</title>
     <link>https://animepahe.com/play/9619a8bd-0ab1-ea36-3d34-03f8e32a637d/a1499d9cabe5d474a5bbd10d5308d46903beb1481872357191b77437e0e8ba43</link>
     <description>Episode 1 of The Legend of Heroes: Sen no Kiseki - Northern War is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Spy Kyoushitsu is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/50d769119b2ae9428bdd95096c2bcbbdf1b7d5e6563f31a40db27f685876f5a0.jpg</snapshot>
-</item>
-
-<item>
-    <title>Technoroid: Overmind - Episode 1</title>
-    <link>https://animepahe.com/play/b7ba9cd2-42e0-5546-1be7-50247da4d517/ed36f70745790f9b6a2b1670b875898bf8d7d8954d77655d9e824dffed5860a1</link>
-    <description>Episode 1 of Technoroid: Overmind is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/a302231a0612da47b9d2b1f2a46f20f2515cd75f11252d38c84aac5491970300.jpg</snapshot>
 </item>
 
 </channel>
