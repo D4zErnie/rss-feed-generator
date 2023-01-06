@@ -7,6 +7,22 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>The Legend of Heroes: Sen no Kiseki - Northern War - Episode 1</title>
+    <link>https://animepahe.com/play/9619a8bd-0ab1-ea36-3d34-03f8e32a637d/a1499d9cabe5d474a5bbd10d5308d46903beb1481872357191b77437e0e8ba43</link>
+    <description>Episode 1 of The Legend of Heroes: Sen no Kiseki - Northern War is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/e8f8e808a35e95b332deddb03aa92b638cb7e21bbbfa5d34fc71999aded30ceb.jpg</snapshot>
+</item>
+
+<item>
+    <title>Nijiyon Animation - Episode 1</title>
+    <link>https://animepahe.com/play/dead1510-1fe6-a4bf-858c-271b2ed9b116/82b67493e00cc2143b73227aa452ab47776d8bd15565f7a07862ba8ad744bbdd</link>
+    <description>Episode 1 of Nijiyon Animation is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/802a3c3bab3e27a00424b8e281787fea5463f042663fa926680cea0610fd185b.jpg</snapshot>
+</item>
+
+<item>
     <title>Sugar Apple Fairy Tale - Episode 1</title>
     <link>https://animepahe.com/play/fce000b2-6565-01f4-dc25-5f62cfddb059/652bc8abff2ed8fda30ec4f1e30b0d66172048713ff12ad0201df268308b3559</link>
     <description>Episode 1 of Sugar Apple Fairy Tale is out!</description>
@@ -84,22 +100,6 @@
     <description>Episode 1 of Technoroid: Overmind is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/a302231a0612da47b9d2b1f2a46f20f2515cd75f11252d38c84aac5491970300.jpg</snapshot>
-</item>
-
-<item>
-    <title>Bungou Stray Dogs 4th Season - Episode 38</title>
-    <link>https://animepahe.com/play/33141e7b-c2fa-2e07-d2aa-7d18a02e5046/d256a4577443868eb2eb4efe7dc566d856c44e52877018a70cd36396458a91f8</link>
-    <description>Episode 38 of Bungou Stray Dogs 4th Season is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/6a3f17d1b9828cbab2ec5db0dbf1557d9da5a162552dde62a31b432e10e3d6c3.jpg</snapshot>
-</item>
-
-<item>
-    <title>Tomo-chan wa Onnanoko! - Episode 1</title>
-    <link>https://animepahe.com/play/63a5202b-7a1d-c449-bad0-a1861a2a3902/e40742433a9abc1b7bf34c8cf7fd94aec2d2f3658f374d33de8bb3041e19cd2a</link>
-    <description>Episode 1 of Tomo-chan wa Onnanoko! is out!</description>
-    <fansub>Yameii</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/c4eec40190e4002012c926bbcc70f6b9a46feacde8ee6a446fdc295ae4504582.jpg</snapshot>
 </item>
 
 </channel>
