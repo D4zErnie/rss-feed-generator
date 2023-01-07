@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Mairimashita! Iruma-kun 3rd Season - Episode 13</title>
+    <link>https://animepahe.com/play/c28916ab-1ecd-adf9-45a4-4ab151208c68/9b383bc2672116b987a06c1f7813ffb9ec9e19a4fb1d82e832c0864166dcb470</link>
+    <description>Episode 13 of Mairimashita! Iruma-kun 3rd Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/6e76ae913ccc7ac53a4f9ea88498b46c1a083def834589171b003440be378774.jpg</snapshot>
+</item>
+
+<item>
     <title>Detective Conan - Episode 1068</title>
     <link>https://animepahe.com/play/ebf12fac-e70d-5dd5-5335-cb40d230ef12/394ca659686c62ed0c78f9f15e8b818510390747c7ba9b34f745b535887ae252</link>
     <description>Episode 1068 of Detective Conan is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 5 of Lupin Zero is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/ac33aa3978308a8c53502ac8faf4360e31467c5a161581692f59d11383c32db2.jpg</snapshot>
-</item>
-
-<item>
-    <title>The Legend of Heroes: Sen no Kiseki - Northern War - Episode 1</title>
-    <link>https://animepahe.com/play/0831e0f8-744c-56fa-3c22-d91e29907717/270af714b7dccc37b48fead6ff3abfd3905f0c9ba4c9e6d7fbc7bd7ca61a18f9</link>
-    <description>Episode 1 of The Legend of Heroes: Sen no Kiseki - Northern War is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/e8f8e808a35e95b332deddb03aa92b638cb7e21bbbfa5d34fc71999aded30ceb.jpg</snapshot>
 </item>
 
 </channel>
