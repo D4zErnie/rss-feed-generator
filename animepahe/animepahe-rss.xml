@@ -7,6 +7,30 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>UniteUp! - Episode 1</title>
+    <link>https://animepahe.com/play/f8bf87a8-997e-7e46-8e5d-01a025df464a/9f1ccd96ab0006d87d9de7f7d0e3a3f6c7d89b287772af0e191dbecb43069bc9</link>
+    <description>Episode 1 of UniteUp! is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/638df25f75732c507452c11ac7f3923ed704a0b18c06f6497332e4b0bb98966e.jpg</snapshot>
+</item>
+
+<item>
+    <title>Trigun Stampede - Episode 1</title>
+    <link>https://animepahe.com/play/36f76256-3919-4965-5464-41083e45c660/f5aa362b4d685e2dc854c1458dba189c210743cc15bf8f40806ff158dc1e1d0d</link>
+    <description>Episode 1 of Trigun Stampede is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/a8c19c029657929afaab5b56a45c02aa983b278323dffd3a0448dcecca4d2cca.jpg</snapshot>
+</item>
+
+<item>
+    <title>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken - Episode 1</title>
+    <link>https://animepahe.com/play/aa6a04ab-b035-8648-fc0b-023af294f076/1c4e9168e2d8fe8cad3248559ac36a5e6ae6dcf3b09024bb0961df59d8c77056</link>
+    <description>Episode 1 of Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/6f6d02e07f974a153fbcf71e21ba3361a4fbbd4d4cfd5b60b66ab9a0d1a7fd03.jpg</snapshot>
+</item>
+
+<item>
     <title>Yowamushi Pedal: Limit Break - Episode 11</title>
     <link>https://animepahe.com/play/346e356d-734e-7019-d34b-b1d7b3b5f372/32cd016c8f5e2e4381097407e110455e4de9d3ff0c7e07a4ce388d3615a5228b</link>
     <description>Episode 11 of Yowamushi Pedal: Limit Break is out!</description>
@@ -76,30 +100,6 @@
     <description>Episode 39 of Shadowverse Flame is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/0ce6c0496ffc49da0981b3ffc12c4052f8c62740273620d2ecb4c8a7cb2231c8.jpg</snapshot>
-</item>
-
-<item>
-    <title>Megaton-kyuu Musashi 2nd Season - Episode 23</title>
-    <link>https://animepahe.com/play/cf6dcc06-4b31-97ed-008c-b7dc07937f32/96726402b1ea18cda22c051d71b4534a273c4ac3d57dfd81d682657c684301c5</link>
-    <description>Episode 23 of Megaton-kyuu Musashi 2nd Season is out!</description>
-    <fansub>Nofunloli</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/ecb592a4e41a505250a55d989dd2ae668ff2f105dad8fa8aa5fd40f8b0c7c700.jpg</snapshot>
-</item>
-
-<item>
-    <title>Isekai Nonbiri Nouka - Episode 1</title>
-    <link>https://animepahe.com/play/fc5f5331-f160-f0e3-6792-95b12dc42188/ffa8f3afa3f1ecab5ec7c47988183394d9689cc081cc88936fd2f3b488768ee1</link>
-    <description>Episode 1 of Isekai Nonbiri Nouka is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/a41c8196023e4b0fa296a51bf7185967ff24675b8fbc10832cdb24faa37451b6.jpg</snapshot>
-</item>
-
-<item>
-    <title>Bureau of Paranormal Investigation - Episode 8</title>
-    <link>https://animepahe.com/play/e11dcc14-a1a7-f050-cb37-8a1e96c405fa/3b750f090180bae714c3f8988302404fc7bde5b824778ef70e811db5cb77c485</link>
-    <description>Episode 8 of Bureau of Paranormal Investigation is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/178b110eb30d11789899f50c74d226a94721aa3d4c26d5130038c05f064decb3.jpg</snapshot>
 </item>
 
 </channel>
