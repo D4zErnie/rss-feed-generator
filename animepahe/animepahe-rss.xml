@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Yowamushi Pedal: Limit Break - Episode 11</title>
+    <link>https://animepahe.com/play/346e356d-734e-7019-d34b-b1d7b3b5f372/32cd016c8f5e2e4381097407e110455e4de9d3ff0c7e07a4ce388d3615a5228b</link>
+    <description>Episode 11 of Yowamushi Pedal: Limit Break is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/1aae88ed72b5ac65fa0515c68af911a05cfa67b59c4916688e152fbff38de616.jpg</snapshot>
+</item>
+
+<item>
     <title>Blue Lock - Episode 13</title>
     <link>https://animepahe.com/play/b3867a19-fe90-3bbb-7356-1da43026b58a/c212efcb772174032615a0e8f79cc86abb0673df29528c396cedef7c8bed85b8</link>
     <description>Episode 13 of Blue Lock is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 8 of Bureau of Paranormal Investigation is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/178b110eb30d11789899f50c74d226a94721aa3d4c26d5130038c05f064decb3.jpg</snapshot>
-</item>
-
-<item>
-    <title>Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san - Episode 1</title>
-    <link>https://animepahe.com/play/cf52b7ef-82b6-7da0-4004-780dda13c417/ba20198cebd099ef0d01c2e15a1e55f7ae31dfab1c626761b9490aadc0764662</link>
-    <description>Episode 1 of Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/16989e9ecfadbb597fde850786fb8767e4dabe76d0ae810e19826ec3d4d8df11.jpg</snapshot>
 </item>
 
 </channel>
