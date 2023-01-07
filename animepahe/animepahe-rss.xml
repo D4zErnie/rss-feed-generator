@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Shadowverse Flame - Episode 39</title>
+    <link>https://animepahe.com/play/a7b77c58-f33c-273a-5fa4-b10200f13bba/9d3624cd27d2e3e15727349e7e80c1ae2c6cd9ef9fdf34f367caa12adb7bd588</link>
+    <description>Episode 39 of Shadowverse Flame is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/0ce6c0496ffc49da0981b3ffc12c4052f8c62740273620d2ecb4c8a7cb2231c8.jpg</snapshot>
+</item>
+
+<item>
     <title>Megaton-kyuu Musashi 2nd Season - Episode 23</title>
     <link>https://animepahe.com/play/cf6dcc06-4b31-97ed-008c-b7dc07937f32/96726402b1ea18cda22c051d71b4534a273c4ac3d57dfd81d682657c684301c5</link>
     <description>Episode 23 of Megaton-kyuu Musashi 2nd Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Sugar Apple Fairy Tale is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/7c629fd9bf14cbac4611e8b91b445a0be00d04389a13e3bb4ab7d02b53c8c6f8.jpg</snapshot>
-</item>
-
-<item>
-    <title>Pokemon (2019): Harukanaru Aoi Sora - Episode 1</title>
-    <link>https://animepahe.com/play/11a893b4-9db8-1b07-64e8-9684fa0016ba/4387a4ddebae82da3ef035458d86eae32a4bd24a2d1780c283ebd3a8d2672765</link>
-    <description>Episode 1 of Pokemon (2019): Harukanaru Aoi Sora is out!</description>
-    <fansub>Some-Stuffs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/92a04d04e5684d923868ec255f07c5800dfce49405ad0d5fdb2b112f8ecb087d.jpg</snapshot>
 </item>
 
 </channel>
