@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Cuticle Tantei Inaba - Episode 12</title>
+    <link>https://animepahe.com/play/c8770c5a-5b6c-9a7d-3766-f084ea37bf35/ca679cde06e6e4df367097fdb8eefb1d159335e8d14ec818702847d11f0c3b92</link>
+    <description>Episode 12 of Cuticle Tantei Inaba is out!</description>
+    <fansub>SCP-2223</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/621ed2a1523cf7e19c79b6393e221b4482ebadc87e1ee70494042e7ae40570c0.jpg</snapshot>
+</item>
+
+<item>
     <title>Mairimashita! Iruma-kun 3rd Season - Episode 13</title>
     <link>https://animepahe.com/play/c28916ab-1ecd-adf9-45a4-4ab151208c68/9b383bc2672116b987a06c1f7813ffb9ec9e19a4fb1d82e832c0864166dcb470</link>
     <description>Episode 13 of Mairimashita! Iruma-kun 3rd Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Oniichan wa Oshimai! is out!</description>
     <fansub>Okay-Subs</fansub>
     <snapshot>https://i.animepahe.com/snapshots/5a104f5e7ab640a24413f37768a1b401b292301f48b6c95a9a75f71a50095a68.jpg</snapshot>
-</item>
-
-<item>
-    <title>Lupin Zero - Episode 5</title>
-    <link>https://animepahe.com/play/023505d9-624b-b202-eea5-a074c20c126e/d8613d7d9a4d38c81c299feddf8534e35a7a85e1fd1d50459bc805feff9e2085</link>
-    <description>Episode 5 of Lupin Zero is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/ac33aa3978308a8c53502ac8faf4360e31467c5a161581692f59d11383c32db2.jpg</snapshot>
 </item>
 
 </channel>
