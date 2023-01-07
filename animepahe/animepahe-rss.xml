@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Blue Lock - Episode 13</title>
+    <link>https://animepahe.com/play/b3867a19-fe90-3bbb-7356-1da43026b58a/c212efcb772174032615a0e8f79cc86abb0673df29528c396cedef7c8bed85b8</link>
+    <description>Episode 13 of Blue Lock is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/c3f23caf805b17d0ee06fc16140d48b91cf8c4989acea7f92c0f9cefe922d517.jpg</snapshot>
+</item>
+
+<item>
     <title>Minna Atsumare! Falcom Gakuen SC - Episode 12</title>
     <link>https://animepahe.com/play/b9fa5be8-ea10-da8d-44b7-125740708140/5f387b706a48a4884c2fa6776e729752c725e71ba33f3b1a834100ea9fd1288b</link>
     <description>Episode 12 of Minna Atsumare! Falcom Gakuen SC is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/16989e9ecfadbb597fde850786fb8767e4dabe76d0ae810e19826ec3d4d8df11.jpg</snapshot>
-</item>
-
-<item>
-    <title>Ars no Kyojuu - Episode 1</title>
-    <link>https://animepahe.com/play/21e23f4d-c84e-84c7-ccb1-36235a902fcb/322639ab6226b5186ebd3d3bddd7216a846d7f51b1cf0b222dac9d78e2c8e08b</link>
-    <description>Episode 1 of Ars no Kyojuu is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/8a1aefaacf1755a79fab449fa453b96130b77385033d94d308793020c25190cb.jpg</snapshot>
 </item>
 
 </channel>
