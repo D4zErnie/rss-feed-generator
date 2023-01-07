@@ -7,6 +7,22 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Minna Atsumare! Falcom Gakuen SC - Episode 12</title>
+    <link>https://animepahe.com/play/b9fa5be8-ea10-da8d-44b7-125740708140/5f387b706a48a4884c2fa6776e729752c725e71ba33f3b1a834100ea9fd1288b</link>
+    <description>Episode 12 of Minna Atsumare! Falcom Gakuen SC is out!</description>
+    <fansub>Orphan-Migoto</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/e05c4399f299411eefa539769590221bc3db8a605d240605162aa910b8b95823.jpg</snapshot>
+</item>
+
+<item>
+    <title>Minna Atsumare! Falcom Gakuen - Episode 13</title>
+    <link>https://animepahe.com/play/574f549c-6cc1-44a3-6080-0bf8876f2804/5c1107db742cee6843ed0044d117ed2bd70e374ece359c81be0ec5214731dd6d</link>
+    <description>Episode 13 of Minna Atsumare! Falcom Gakuen is out!</description>
+    <fansub>Migoto</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/1c64fcf8432d684e21db787125388e4138173e81ad965449ba0fd8703b1332a4.jpg</snapshot>
+</item>
+
+<item>
     <title>Cuticle Tantei Inaba - Episode 12</title>
     <link>https://animepahe.com/play/c8770c5a-5b6c-9a7d-3766-f084ea37bf35/ca679cde06e6e4df367097fdb8eefb1d159335e8d14ec818702847d11f0c3b92</link>
     <description>Episode 12 of Cuticle Tantei Inaba is out!</description>
@@ -84,22 +100,6 @@
     <description>Episode 1 of Ars no Kyojuu is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/8a1aefaacf1755a79fab449fa453b96130b77385033d94d308793020c25190cb.jpg</snapshot>
-</item>
-
-<item>
-    <title>Buddy Daddies - Episode 1</title>
-    <link>https://animepahe.com/play/9c552207-46c5-06ee-e759-985900c425b4/60303d91d3b2e787309353fa37ca3b898ed3f7c9a8aba2b9461557128a643f2c</link>
-    <description>Episode 1 of Buddy Daddies is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/c8f98dcc6cff37a3bac969ba723fb165c2efbbf506e378f8062c1702154ec25f.jpg</snapshot>
-</item>
-
-<item>
-    <title>Oniichan wa Oshimai! - Episode 1</title>
-    <link>https://animepahe.com/play/070a1eab-7afc-bef5-10ee-3f79f5b1b645/1ce6b1456f71977dfc7076b931860ad3ee2838d5c106818cbc1a71d8e23af331</link>
-    <description>Episode 1 of Oniichan wa Oshimai! is out!</description>
-    <fansub>Okay-Subs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/5a104f5e7ab640a24413f37768a1b401b292301f48b6c95a9a75f71a50095a68.jpg</snapshot>
 </item>
 
 </channel>
