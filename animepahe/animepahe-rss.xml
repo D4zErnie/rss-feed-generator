@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Nokemono-tachi no Yoru - Episode 1</title>
+    <link>https://animepahe.com/play/df6ab4cc-9b2d-5694-b495-a0b706726ed0/e1f9d12f70eec3319b3c163776a30d0c350ee2dd2e0023ac1aab9c920a905b3b</link>
+    <description>Episode 1 of Nokemono-tachi no Yoru is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/89ccaf4c39d792089396ffddac6bd0d848ae4df822acf4f79923764638a82f34.jpg</snapshot>
+</item>
+
+<item>
     <title>Fumetsu no Anata e 2nd Season - Episode 11</title>
     <link>https://animepahe.com/play/ce12f37e-d924-cbf5-7412-03889ef03100/7871c802e9bb1f9d622a59fe434a0abb92cf5221703fc7c82709cd14dfd67a0c</link>
     <description>Episode 11 of Fumetsu no Anata e 2nd Season is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Saikyou Onmyouji no Isekai Tenseiki is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/d3478609fdf0fb4025cd7cd2dc7b85e52f5c3a7ea820a070981d81eb853ba60b.jpg</snapshot>
-</item>
-
-<item>
-    <title>NieR:Automata Ver1.1a - Episode 1</title>
-    <link>https://animepahe.com/play/7162cbbb-4cdc-7009-e18f-cb7aeaec7bb5/14824e89f7d96ceacae72a5c4a456c5187bc8405201d90e5cc106603e55e1f4c</link>
-    <description>Episode 1 of NieR:Automata Ver1.1a is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/2a8a7d3f399cdcc69284feb64b97bab19f45d3d0bf436a260c86de005d551832.jpg</snapshot>
 </item>
 
 </channel>
