@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kyokou Suiri Season 2 - Episode 13</title>
+    <link>https://animepahe.com/play/318814e4-7b19-3982-1295-70af1abd3a42/4b75b98fb2b48403b85b3d02ceaaae8cf1f7cfbe5fab98237153a2a79fecb392</link>
+    <description>Episode 13 of Kyokou Suiri Season 2 is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/ce83a7b99934b5b48df0e93d537d6af3aa60f279e9a530e06975c084d8b69ec3.jpg</snapshot>
+</item>
+
+<item>
     <title>D4DJ All Mix - Episode 1</title>
     <link>https://animepahe.com/play/a725492a-af0b-e6a4-0610-70b9503a9024/5a518053771023a3e2e7a815a1405a293a59f4a30f7c41d1523aefd9f543c16e</link>
     <description>Episode 1 of D4DJ All Mix is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 42 of Delicious Party♡Precure is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/060cdb1d4c77ddf1395bbdf2fe751e845c0f8d4bd57ceedb334e9ea55b1282e3.jpg</snapshot>
-</item>
-
-<item>
-    <title>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II - Episode 1</title>
-    <link>https://animepahe.com/play/19966eb1-2301-badc-bc40-ec9861db196b/f1491e828521997f75a5e321f81e5a3565a5f81d0fcd91e60210eb65a612a63a</link>
-    <description>Episode 1 of Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/8072121702b190a79bad60d0b3bc856a3d5d4b8048940b6caadcbbfec4a2165c.jpg</snapshot>
 </item>
 
 </channel>
