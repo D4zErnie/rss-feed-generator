@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kidou Senshi Gundam: Suisei no Majo - Episode 12</title>
+    <link>https://animepahe.com/play/b16f9ec4-fd1d-b976-2358-1c757eb02508/560a60ad9470967efefa118ec04c05308336e726d7dfb79f75ca0fc66b503968</link>
+    <description>Episode 12 of Kidou Senshi Gundam: Suisei no Majo is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/236b28a0490490a3344a05aeb56e9907a1013841167d12cdf3ca4b8a16b0c0a9.jpg</snapshot>
+</item>
+
+<item>
     <title>Boruto: Naruto Next Generations - Episode 282</title>
     <link>https://animepahe.com/play/df73f744-39ff-13c2-1b75-edce3edf9aa4/295e1805234a9abf9688ea98ab19cd409c381d035147647a5eba64d709749304</link>
     <description>Episode 282 of Boruto: Naruto Next Generations is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of UniteUp! is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/638df25f75732c507452c11ac7f3923ed704a0b18c06f6497332e4b0bb98966e.jpg</snapshot>
-</item>
-
-<item>
-    <title>Trigun Stampede - Episode 1</title>
-    <link>https://animepahe.com/play/842a5a77-b587-59da-2bb4-2ec816292ac8/3dff869477d59ac0983d88f50d7b11943be1dc7a02840d2781a8b8b78f9ab7c6</link>
-    <description>Episode 1 of Trigun Stampede is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/a8c19c029657929afaab5b56a45c02aa983b278323dffd3a0448dcecca4d2cca.jpg</snapshot>
 </item>
 
 </channel>
