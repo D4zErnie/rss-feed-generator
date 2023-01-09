@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Vinland Saga Season 2 - Episode 1</title>
+    <link>https://animepahe.com/play/ef4fb7b6-9a24-8dc4-2c0e-75063d19c30a/4a245e3159c10df23989dee508974184c4e8812b28a68a029a71eda70b94d736</link>
+    <description>Episode 1 of Vinland Saga Season 2 is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/34ec17447cacd8df9c74238e8421568cd5cc2aa511f98f32235ca7a71fc97b2e.jpg</snapshot>
+</item>
+
+<item>
     <title>Inu-Ou - Episode 1</title>
     <link>https://animepahe.com/play/d8d92fe9-24a0-8dff-50e6-6547381f2c6e/e600555e1f4250697f19f5765de5f79a357ec41d7053ac7f2d2c1c4b4c20e3f4</link>
     <description>Episode 1 of Inu-Ou is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Fumetsu no Anata e 2nd Season is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/0a3378784b0051ddfc723585853fb646865befd52618a780e51cdfd8732eab61.jpg</snapshot>
-</item>
-
-<item>
-    <title>Kidou Senshi Gundam: Suisei no Majo - Episode 12</title>
-    <link>https://animepahe.com/play/29c289dc-f1eb-6c36-c7af-0f2ac181c9e6/809643d55eba362e9e2d3c6edc421a66fbe26983640f631b0cb07a5cd2955f6e</link>
-    <description>Episode 12 of Kidou Senshi Gundam: Suisei no Majo is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/236b28a0490490a3344a05aeb56e9907a1013841167d12cdf3ca4b8a16b0c0a9.jpg</snapshot>
 </item>
 
 </channel>
