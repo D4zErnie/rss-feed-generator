@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Mononogatari - Episode 1</title>
+    <link>https://animepahe.com/play/556cb904-fa02-76cd-af59-423232f77850/38cca5a1191fa61aff4d17078e6a2cb324a5d979c925ae9510708dc21b55aeef</link>
+    <description>Episode 1 of Mononogatari is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/9b7dcb58193f4fce45c2eb59fbb3c931f288609485c0f7a2e679adcc7ac4bf99.jpg</snapshot>
+</item>
+
+<item>
     <title>Goodbye, Don Glees! - Episode 1</title>
     <link>https://animepahe.com/play/97d8a21d-3bb5-9e31-b0ad-127350d4bbbd/578c3fc81cecad8247ef7cb79bb02fa2ae15f29cdc1ac5af12efa3560d9fb1d1</link>
     <description>Episode 1 of Goodbye, Don Glees! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Benriya Saitou-san, Isekai ni Iku is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/b16a43179af236631e0a5800d7c26fb1ade6c6e9afdc6ac12c0ccf92add32aa7.jpg</snapshot>
-</item>
-
-<item>
-    <title>Nokemono-tachi no Yoru - Episode 1</title>
-    <link>https://animepahe.com/play/38c52e7d-1445-9252-2fc9-dc6432631fba/1670839ca08950361d7d97f9dff58f31a224aa91cb78e3538dd30383597d6c8e</link>
-    <description>Episode 1 of Nokemono-tachi no Yoru is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/89ccaf4c39d792089396ffddac6bd0d848ae4df822acf4f79923764638a82f34.jpg</snapshot>
 </item>
 
 </channel>
