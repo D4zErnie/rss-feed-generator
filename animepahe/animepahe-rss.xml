@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Inu-Ou - Episode 1</title>
+    <link>https://animepahe.com/play/d8d92fe9-24a0-8dff-50e6-6547381f2c6e/e600555e1f4250697f19f5765de5f79a357ec41d7053ac7f2d2c1c4b4c20e3f4</link>
+    <description>Episode 1 of Inu-Ou is out!</description>
+    <fansub>iTunes</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/1556e92d771a285b4fb2d567e6fe8e5b9e715805f624c35a17a8a38fdd2b2bcc.jpg</snapshot>
+</item>
+
+<item>
     <title>Tokyo Revengers: Seiya Kessen-hen - Episode 1</title>
     <link>https://animepahe.com/play/452a28dc-db11-7c11-e6b6-1896aaa2e6a2/d1f3eb3e8a1ae8db8f904a5c8e1fb94b8dfe0adef01288d5cc39dc74aed95029</link>
     <description>Episode 1 of Tokyo Revengers: Seiya Kessen-hen is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 12 of Kidou Senshi Gundam: Suisei no Majo is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/236b28a0490490a3344a05aeb56e9907a1013841167d12cdf3ca4b8a16b0c0a9.jpg</snapshot>
-</item>
-
-<item>
-    <title>Boruto: Naruto Next Generations - Episode 282</title>
-    <link>https://animepahe.com/play/0b7aa6fd-c01c-5ef5-d70f-dd017ecd854c/218e2db530f6291b10bc48e354bde385af190f9e16ea14f56a0a19ce6786d013</link>
-    <description>Episode 282 of Boruto: Naruto Next Generations is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/676bf1b6802c55962f270baba039e71ca3e3d9490ee42de2cbed53d49ca2ada9.jpg</snapshot>
 </item>
 
 </channel>
