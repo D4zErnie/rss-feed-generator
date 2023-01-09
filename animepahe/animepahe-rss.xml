@@ -7,6 +7,22 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Tokyo Revengers: Seiya Kessen-hen - Episode 1</title>
+    <link>https://animepahe.com/play/452a28dc-db11-7c11-e6b6-1896aaa2e6a2/d1f3eb3e8a1ae8db8f904a5c8e1fb94b8dfe0adef01288d5cc39dc74aed95029</link>
+    <description>Episode 1 of Tokyo Revengers: Seiya Kessen-hen is out!</description>
+    <fansub>Disney_Plus</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/26de2db37b0fe247fab9dfc730bcb91ac2d83899c6f6081a47262f90272474bb.jpg</snapshot>
+</item>
+
+<item>
+    <title>Kyuuketsuki Sugu Shinu 2 - Episode 1</title>
+    <link>https://animepahe.com/play/51218f2f-c2ab-9d24-f283-b06381f49ccb/d0fea7ddcff70910a46cdc6db0cf9164342000487cfdb66b174cb2d5383879d8</link>
+    <description>Episode 1 of Kyuuketsuki Sugu Shinu 2 is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/38c7380d3107f4d426cafaaf465c3c43ab6b2d4b41f3e3ef41c6443a8ba8fde4.jpg</snapshot>
+</item>
+
+<item>
     <title>High Card - Episode 1</title>
     <link>https://animepahe.com/play/ea1938ad-e8d2-5a07-97e5-e12679245e84/923de9a6bf4dca928f6795500f53e4da65818dbb48571af36c4538bdfb62a4ec</link>
     <description>Episode 1 of High Card is out!</description>
@@ -84,22 +100,6 @@
     <description>Episode 282 of Boruto: Naruto Next Generations is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/676bf1b6802c55962f270baba039e71ca3e3d9490ee42de2cbed53d49ca2ada9.jpg</snapshot>
-</item>
-
-<item>
-    <title>Digimon Ghost Game - Episode 58</title>
-    <link>https://animepahe.com/play/a21da3c2-58b6-ace5-7ea8-43b0435a659a/f2db53d0309a43406962be3ddf786e3e854eba15249afd551d09fc412e6d618c</link>
-    <description>Episode 58 of Digimon Ghost Game is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/4aaac2e09f6825874533a420a656d3f91d41b07529bc4aa667741f49bea0f0f3.jpg</snapshot>
-</item>
-
-<item>
-    <title>One Piece - Episode 1046</title>
-    <link>https://animepahe.com/play/eea33911-4b52-65c1-26bb-3afe417a9f6e/06ab5079fda4200006ffc2e80e7addffc678ec5b6f06eec5102f4737cb7f04ec</link>
-    <description>Episode 1046 of One Piece is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/ba89087b2ea5ee0d475d40bd75a2074e80076ccc6f8d8bf3dfea4d5cae75f926.jpg</snapshot>
 </item>
 
 </channel>
