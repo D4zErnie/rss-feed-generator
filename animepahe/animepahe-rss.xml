@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Goodbye, Don Glees! - Episode 1</title>
+    <link>https://animepahe.com/play/97d8a21d-3bb5-9e31-b0ad-127350d4bbbd/578c3fc81cecad8247ef7cb79bb02fa2ae15f29cdc1ac5af12efa3560d9fb1d1</link>
+    <description>Episode 1 of Goodbye, Don Glees! is out!</description>
+    <fansub>iTunes</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/ac7b379ea49e0344b95067e3dca9f19cc18e88f5d7b94083419fee4aa9196346.jpg</snapshot>
+</item>
+
+<item>
     <title>Vinland Saga Season 2 - Episode 1</title>
     <link>https://animepahe.com/play/ef4fb7b6-9a24-8dc4-2c0e-75063d19c30a/4a245e3159c10df23989dee508974184c4e8812b28a68a029a71eda70b94d736</link>
     <description>Episode 1 of Vinland Saga Season 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Nokemono-tachi no Yoru is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/89ccaf4c39d792089396ffddac6bd0d848ae4df822acf4f79923764638a82f34.jpg</snapshot>
-</item>
-
-<item>
-    <title>Fumetsu no Anata e 2nd Season - Episode 11</title>
-    <link>https://animepahe.com/play/dae93a38-5ddb-cb8c-9c31-ad155216bf38/2bb7ae2ffa21605da7e4ff6c8e8ce3e5fd0214aa7f1f64b05d918846a304b791</link>
-    <description>Episode 11 of Fumetsu no Anata e 2nd Season is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/0a3378784b0051ddfc723585853fb646865befd52618a780e51cdfd8732eab61.jpg</snapshot>
 </item>
 
 </channel>
