@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Ayakashi Triangle - Episode 1</title>
+    <link>https://animepahe.com/play/d32d2c91-3dce-4637-78a1-340c6ce40567/b6e3c7d51e5555beb4ba47e20237d7955254d11a77c051ab80afe014b30bdc9e</link>
+    <description>Episode 1 of Ayakashi Triangle is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/862542a6c34e75598af62190365502ae46b25d90225a667fd38fff350dc42d35.jpg</snapshot>
+</item>
+
+<item>
     <title>Mononogatari - Episode 1</title>
     <link>https://animepahe.com/play/556cb904-fa02-76cd-af59-423232f77850/38cca5a1191fa61aff4d17078e6a2cb324a5d979c925ae9510708dc21b55aeef</link>
     <description>Episode 1 of Mononogatari is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Mou Ippon! is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/66846dca740ba52c96e98e6870b8e5b77e4271702ccd6b1082f43730186dce5f.jpg</snapshot>
-</item>
-
-<item>
-    <title>Benriya Saitou-san, Isekai ni Iku - Episode 1</title>
-    <link>https://animepahe.com/play/54653df7-db3c-7a00-f09f-0ef68cd7241e/8fbd8308b1792c9af1894a400d6b5f8b9ef4c028586bffc14e3740b1fe85caba</link>
-    <description>Episode 1 of Benriya Saitou-san, Isekai ni Iku is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/b16a43179af236631e0a5800d7c26fb1ade6c6e9afdc6ac12c0ccf92add32aa7.jpg</snapshot>
 </item>
 
 </channel>
