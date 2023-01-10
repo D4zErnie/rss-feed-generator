@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Toutotsu ni Egypt Shin 2 - Episode 1</title>
+    <link>https://animepahe.com/play/20de39cc-f70f-60f5-8894-d68a0bb10e77/a4f34009b65f6b20224c3d42d6c33f38e8758f571550f0874128b3edc1c03711</link>
+    <description>Episode 1 of Toutotsu ni Egypt Shin 2 is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/a0a1bd732e5791f43a532c6efda908f1e808179eaf4ba44e308085f0716c4b6a.jpg</snapshot>
+</item>
+
+<item>
     <title>Koori Zokusei Danshi to Cool na Douryou Joshi - Episode 2</title>
     <link>https://animepahe.com/play/c7db4bbc-1153-1faa-28d5-aa67f1e51fd8/a45d54923975c1c4ddf2b7718137ee3fcb93639037bfbc7ba9280ac58ee32af8</link>
     <description>Episode 2 of Koori Zokusei Danshi to Cool na Douryou Joshi is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Nanatsu no Taizai: Ensa no Edinburgh is out!</description>
     <fansub>Netflix</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c2e25f4c656ac2143b944171ff5742eeefe3eaad2defe963f9dd1d6cd39d3663.jpg</snapshot>
-</item>
-
-<item>
-    <title>Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ - Episode 1</title>
-    <link>https://animepahe.com/play/9ab8e0b1-721b-72d8-5d35-b529340a6867/bf6f7d41092f562edb50498adc5b19b69e8d2cb1246dffeb304f59243a7841f7</link>
-    <description>Episode 1 of Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/b43069015c4354661ea59530e078348c41fc13fb0dc2e6ce66168e87b1e95d3e.jpg</snapshot>
 </item>
 
 </channel>
