@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Tondemo Skill de Isekai Hourou Meshi - Episode 1</title>
+    <link>https://animepahe.com/play/227b1d0b-b52a-7b22-0b55-abe143bd0644/b8416530e27eea16d842d00d6d9db7912e7790fea407d1280b709ceb56b3d68e</link>
+    <description>Episode 1 of Tondemo Skill de Isekai Hourou Meshi is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/3454fbf617c6340e3a8d9afda270756cb21773ca8e739b9edd050a704ed56013.jpg</snapshot>
+</item>
+
+<item>
     <title>Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu - Episode 2</title>
     <link>https://animepahe.com/play/7da9ce73-88c3-583e-7c0b-9c4d0b1907fe/d945000b01902849ed47cf378bdf64b66e4a7af219c7a39aa4b95dd0c1968631</link>
     <description>Episode 2 of Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Ayakashi Triangle is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/862542a6c34e75598af62190365502ae46b25d90225a667fd38fff350dc42d35.jpg</snapshot>
-</item>
-
-<item>
-    <title>Mononogatari - Episode 1</title>
-    <link>https://animepahe.com/play/31a2f76b-b415-27c2-5777-3b018f884ef5/ce314b848b4ce889f6431e3a8eb7519886051191330e2a03d0ed6c6c697b3460</link>
-    <description>Episode 1 of Mononogatari is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/9b7dcb58193f4fce45c2eb59fbb3c931f288609485c0f7a2e679adcc7ac4bf99.jpg</snapshot>
 </item>
 
 </channel>
