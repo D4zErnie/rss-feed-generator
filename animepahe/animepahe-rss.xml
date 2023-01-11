@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Summertime Render - Episode 15</title>
+    <link>https://animepahe.com/play/4aa0ec56-de85-ef24-d16e-24a8a447bc08/665d935992ce8369abd20f11a76467a4dbbf02a46f60b564775a4a5276164a83</link>
+    <description>Episode 15 of Summertime Render is out!</description>
+    <fansub>Bunny-Apocalypse</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/954331dca79ca0f8664bae27c17052539610e15f59a08987d213638e040ef816.jpg</snapshot>
+</item>
+
+<item>
     <title>Toutotsu ni Egypt Shin 2 - Episode 1</title>
     <link>https://animepahe.com/play/cc3f50cf-b147-5789-0073-9925abc04a02/1860bc3f12a04fbc3b2cb6a63d6f2583716609baece326289c3a8c35ea742f83</link>
     <description>Episode 1 of Toutotsu ni Egypt Shin 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 40 of Yu☆Gi☆Oh! Go Rush!! is out!</description>
     <fansub>entameSubs</fansub>
     <snapshot>https://i.animepahe.com/snapshots/645cad48cdfa80da34010225b7e302a5819d9267a354c18fe60fc76be63645fc.jpg</snapshot>
-</item>
-
-<item>
-    <title>Nanatsu no Taizai: Ensa no Edinburgh - Episode 1</title>
-    <link>https://animepahe.com/play/dc2904e6-22a2-8a67-e189-581774388568/5ab164d3eafdc134150ab6f98829a05f0f22704b9e8e029e70b5c5d4fce525d6</link>
-    <description>Episode 1 of Nanatsu no Taizai: Ensa no Edinburgh is out!</description>
-    <fansub>Netflix</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/c2e25f4c656ac2143b944171ff5742eeefe3eaad2defe963f9dd1d6cd39d3663.jpg</snapshot>
 </item>
 
 </channel>
