@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Bungou Stray Dogs 4th Season - Episode 39</title>
+    <link>https://animepahe.com/play/ff240605-200f-bdcc-dfe0-f385801dbf62/3667096cd857d76cd5f1cfece054e0296b20f89d7b45e4d03c65677bf56361c2</link>
+    <description>Episode 39 of Bungou Stray Dogs 4th Season is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/9db42c1f525ae178fc31c2de528b6b65f1644f6225ed52e417d0aed5353b6c1d.jpg</snapshot>
+</item>
+
+<item>
     <title>Kage no Jitsuryokusha ni Naritakute! - Episode 15</title>
     <link>https://animepahe.com/play/391ae628-a139-3223-7b2c-0be13cadf7cc/e6024e516037c72eae551184a66f93321225e13aa77816ac11e4d313df1d2e38</link>
     <description>Episode 15 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Kubo-san wa Mob wo Yurusanai is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/8ae4a8300a534c71cd373425b8f7f73945752c1928d4c99360c95901df238333.jpg</snapshot>
-</item>
-
-<item>
-    <title>Tondemo Skill de Isekai Hourou Meshi - Episode 1</title>
-    <link>https://animepahe.com/play/c5d1baf7-be31-a235-ab28-ec9da3d2cff3/5849f14a3ff95cedc500983b84b9a2eb8a4444a62f05b36a39e8a7b860dd0401</link>
-    <description>Episode 1 of Tondemo Skill de Isekai Hourou Meshi is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/3454fbf617c6340e3a8d9afda270756cb21773ca8e739b9edd050a704ed56013.jpg</snapshot>
 </item>
 
 </channel>
