@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Technoroid: Overmind - Episode 2</title>
+    <link>https://animepahe.com/play/692fc283-5f53-5964-ede7-59d5cfb03bd0/5df3785a98c4c05f18f3db95bffc68db41512756abdd3244999a9c38afe9223a</link>
+    <description>Episode 2 of Technoroid: Overmind is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/5a9009dc6cbd09b9c10c9c60fc10eaa1ac13af46cc3aea6b7dc035c3806b50ba.jpg</snapshot>
+</item>
+
+<item>
     <title>Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2 - Episode 1</title>
     <link>https://animepahe.com/play/b7dcddc4-9bff-fbac-9951-754e2c30ff09/40abc63bf08edacce961192d437c26c5d39ed62ac2aeccc84fa0a2b1e02ea5b2</link>
     <description>Episode 1 of Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2 is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 25 of Summertime Render is out!</description>
     <fansub>Bunny-Apocalypse</fansub>
     <snapshot>https://i.animepahe.com/snapshots/c467c194b8307ea4466c5e99bf6b173e933cc0dfb3d0643883cf363a463d663c.jpg</snapshot>
-</item>
-
-<item>
-    <title>Toutotsu ni Egypt Shin 2 - Episode 1</title>
-    <link>https://animepahe.com/play/cc3f50cf-b147-5789-0073-9925abc04a02/1860bc3f12a04fbc3b2cb6a63d6f2583716609baece326289c3a8c35ea742f83</link>
-    <description>Episode 1 of Toutotsu ni Egypt Shin 2 is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/a0a1bd732e5791f43a532c6efda908f1e808179eaf4ba44e308085f0716c4b6a.jpg</snapshot>
 </item>
 
 </channel>
