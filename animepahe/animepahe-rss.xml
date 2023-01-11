@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Tensei Oujo to Tensai Reijou no Mahou Kakumei - Episode 2</title>
+    <link>https://animepahe.com/play/139ef5ee-2f3f-af64-291b-653a9ec4747c/cf6fcd0167d8635055a370b639fb9be43b17169815414f18885f0a5b52a0db8a</link>
+    <description>Episode 2 of Tensei Oujo to Tensai Reijou no Mahou Kakumei is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/b0bbc9f3eefbda028e3871ca59b2f8f393ce5634fde1dd35f96c4d3bab463fb6.jpg</snapshot>
+</item>
+
+<item>
     <title>Kobayashi-san Chi no OO Dragon - Episode 7</title>
     <link>https://animepahe.com/play/27f91e87-6477-379e-7f17-227f07dacb78/cb5a736fc73e5465cdaaccbde172e3d8c5c7dfdb7a699b9291f9a54ac741f0b1</link>
     <description>Episode 7 of Kobayashi-san Chi no OO Dragon is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 2 of Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/22b20c83b2f60567a3a6c2745398279fcd401570b489bb19d72eead713b2afe0.jpg</snapshot>
-</item>
-
-<item>
-    <title>Bungou Stray Dogs 3rd Season - Episode 37</title>
-    <link>https://animepahe.com/play/8e163e42-ffbf-1e27-505c-8a5f199b25d1/294dfca05998b65de04b3f02b35870f36c37da141b6cf63fd9b34f48188a5730</link>
-    <description>Episode 37 of Bungou Stray Dogs 3rd Season is out!</description>
-    <fansub>KH</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/c79994d89b2f077993e36c9ecefa0ffc2bf433e99317eecacffa1ba92f300209.jpg</snapshot>
 </item>
 
 </channel>
