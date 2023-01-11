@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kage no Jitsuryokusha ni Naritakute! - Episode 15</title>
+    <link>https://animepahe.com/play/391ae628-a139-3223-7b2c-0be13cadf7cc/e6024e516037c72eae551184a66f93321225e13aa77816ac11e4d313df1d2e38</link>
+    <description>Episode 15 of Kage no Jitsuryokusha ni Naritakute! is out!</description>
+    <fansub>SubsPlease</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/664b6c0cad6bb623e82d683d9b619d2f61050b6943e21f9326a9fb54a656ea90.jpg</snapshot>
+</item>
+
+<item>
     <title>Tensei Oujo to Tensai Reijou no Mahou Kakumei - Episode 2</title>
     <link>https://animepahe.com/play/139ef5ee-2f3f-af64-291b-653a9ec4747c/cf6fcd0167d8635055a370b639fb9be43b17169815414f18885f0a5b52a0db8a</link>
     <description>Episode 2 of Tensei Oujo to Tensai Reijou no Mahou Kakumei is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 1 of Tondemo Skill de Isekai Hourou Meshi is out!</description>
     <fansub>SubsPlease</fansub>
     <snapshot>https://i.animepahe.com/snapshots/3454fbf617c6340e3a8d9afda270756cb21773ca8e739b9edd050a704ed56013.jpg</snapshot>
-</item>
-
-<item>
-    <title>Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu - Episode 2</title>
-    <link>https://animepahe.com/play/ecdb5a18-dfb2-7b64-2a5f-466a1a47ada8/e54d58e80a9910aeaa80f04e88467ac2d7d26768d58170bfc3b3de3ca0d5baaf</link>
-    <description>Episode 2 of Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu is out!</description>
-    <fansub>SubsPlease</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/22b20c83b2f60567a3a6c2745398279fcd401570b489bb19d72eead713b2afe0.jpg</snapshot>
 </item>
 
 </channel>
