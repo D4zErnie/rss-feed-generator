@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Kobayashi-san Chi no Maid Dragon - Episode 13</title>
+    <link>https://animepahe.com/play/c92b9ee7-b740-dbb1-990b-c98324471c71/90e33ab60ed05f766639c910ab0454946d4c3e23d2861fe2598df77194fc8e1b</link>
+    <description>Episode 13 of Kobayashi-san Chi no Maid Dragon is out!</description>
+    <fansub>Nep_Blanc</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/12ffe0985b39d592f60c57aa536e27155453f866419c06d6a9aaa6e5dcc4a875.jpg</snapshot>
+</item>
+
+<item>
     <title>Summertime Render - Episode 25</title>
     <link>https://animepahe.com/play/4aa0ec56-de85-ef24-d16e-24a8a447bc08/c6a8588f43254be341ea827fd07939f9a4e4a6d976a9300a589fe09228fad52b</link>
     <description>Episode 25 of Summertime Render is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 11 of Bungou Stray Dogs is out!</description>
     <fansub>KH</fansub>
     <snapshot>https://i.animepahe.com/snapshots/0b18fb6dc1f43eeb230c7654e82519a734de8b04386df857c05feea144ef8c4e.jpg</snapshot>
-</item>
-
-<item>
-    <title>Yu☆Gi☆Oh! Go Rush!! - Episode 40</title>
-    <link>https://animepahe.com/play/9273949a-8e69-de33-dc8f-73a3ac213538/06069036f56fafaf186b1fdde9739f73dec80fa81ea88cb13877745aab3a9a84</link>
-    <description>Episode 40 of Yu☆Gi☆Oh! Go Rush!! is out!</description>
-    <fansub>entameSubs</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/645cad48cdfa80da34010225b7e302a5819d9267a354c18fe60fc76be63645fc.jpg</snapshot>
 </item>
 
 </channel>
