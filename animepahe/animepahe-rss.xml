@@ -7,6 +7,14 @@
 <description>A simple RSS feed for animepahe!</description>
 
 <item>
+    <title>Tomo-chan wa Onnanoko! - Episode 2</title>
+    <link>https://animepahe.com/play/df24bd24-ee0e-1490-fff0-b70aaf38750e/479ca4bae0d525133f102d37a0c9b012eaec9219a3b135dd6a1a94d8c324dd22</link>
+    <description>Episode 2 of Tomo-chan wa Onnanoko! is out!</description>
+    <fansub>Yameii</fansub>
+    <snapshot>https://i.animepahe.com/snapshots/1c69be005c063c3baad0eef330918f8cbf07e3f3d0c03d1434f7721d57338f6b.jpg</snapshot>
+</item>
+
+<item>
     <title>Technoroid: Overmind - Episode 2</title>
     <link>https://animepahe.com/play/692fc283-5f53-5964-ede7-59d5cfb03bd0/5df3785a98c4c05f18f3db95bffc68db41512756abdd3244999a9c38afe9223a</link>
     <description>Episode 2 of Technoroid: Overmind is out!</description>
@@ -92,14 +100,6 @@
     <description>Episode 13 of Kobayashi-san Chi no Maid Dragon is out!</description>
     <fansub>Nep_Blanc</fansub>
     <snapshot>https://i.animepahe.com/snapshots/12ffe0985b39d592f60c57aa536e27155453f866419c06d6a9aaa6e5dcc4a875.jpg</snapshot>
-</item>
-
-<item>
-    <title>Summertime Render - Episode 25</title>
-    <link>https://animepahe.com/play/4aa0ec56-de85-ef24-d16e-24a8a447bc08/c6a8588f43254be341ea827fd07939f9a4e4a6d976a9300a589fe09228fad52b</link>
-    <description>Episode 25 of Summertime Render is out!</description>
-    <fansub>Bunny-Apocalypse</fansub>
-    <snapshot>https://i.animepahe.com/snapshots/c467c194b8307ea4466c5e99bf6b173e933cc0dfb3d0643883cf363a463d663c.jpg</snapshot>
 </item>
 
 </channel>
